@@ -1,7 +1,7 @@
 # AgOCQs
-AgOCQs is a methodology developed for automated authoring of Competency Questions (CQs) for on ontology engineering purposes. Leveraging the power on Large Language models, domain corpus, linguistic abstraction and NLP technigues; AgOCQs paves the way for automatic development of ontological CQs and thir re-usability within a given domain.
+AgOCQs is a methodology developed for automated authoring of Competency Questions (CQs) for ontology engineering purposes. Leveraging the power on Large Language models, domain corpus, linguistic abstraction and NLP technigues; AgOCQs paves the way for automatic development of ontological CQs and thier re-usability within a given domain or sub-domain.
 
-Current code can be found in agocqs.ipynb file. 
+This repo contains initial codes and supporting files. Initial results of human evaluation of the output of AgOCQs can be found in the survey_resultd_by_grp.csv 
 # Important Note: 
 Installation should be carried out with the versions provided to avoid dependency issues
-Date in inputText folder can be replaced with own data. Preferrably, saved as a .txt or csv file for easy adaptation
+Data used can be found in inputText folder  and can be replaced with own data. Preferrably, saved as a .txt or csv files for easy adaptation.
