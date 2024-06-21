@@ -6,14 +6,10 @@ WORKDIR /app
 # Copy the current directory contents into the container at /app
 COPY . /app
 
-# Install any needed packages specified in requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
-# Install Jupyter Notebook
 RUN pip install jupyter
-
 #expose container
 EXPOSE 8888
-
 # Define environment variable
 ENV NAME AgEnv
 ENV TINI_VERSION v0.6.0
