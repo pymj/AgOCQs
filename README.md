@@ -17,5 +17,6 @@ docker build -t <name-of-container> .
 docker run -p 8888:8888 <name-of-container>
 
 ```
+Data used can be found in inputText/request folder and can be replaced with own data. Preferrably, used pdf files for easy adaptation.
 
 
