@@ -4,9 +4,10 @@ datasets==1.0.2
 torch==1.8.1
 fastt5==0.0.5
 transformers==4.6.0
-pytorch-lightning==1.1.3
+pytorch-lightning==1.2.2
+# git+https://github.com/NVIDIA/NeMo.git@$BRANCH#egg=nemo_toolkit[nlp]
 tokenizers==0.10.1
-torchtext==0.11.0
+torchtext==0.6
 tqdm==4.64.0
 #transformers -U 
 tokenizers 
