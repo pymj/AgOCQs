@@ -1,17 +1,28 @@
-#git+https://github.com/huggingface/transformers.git@5c00918681d6b4027701eb46cea8f795da0d4064
-sentencepiece==0.1.95
-datasets==1.0.2
-torch==1.8.1
-fastt5==0.0.5
-transformers==4.6.0
-pytorch-lightning==1.2.2
-# git+https://github.com/NVIDIA/NeMo.git@$BRANCH#egg=nemo_toolkit[nlp]
-tokenizers==0.10.1
-torchtext==0.6
 tqdm==4.64.0
-#transformers -U 
-tokenizers 
+
+# sentencepiece version fix (Python 3.10 wheels exist)
+sentencepiece==0.2.1
+
+# pandas 1.3.x is not for Python 3.10 -> use 2.x
+pandas==2.3.3
+pyarrow==20.0.0
+# or: pyarrow<21.0.0
+# keep if you really need it (very old, but you had it pinned)
+datasets==1.0.2
+
 PyPDF2
 PyPaperBot
 ipython-autotime
-sentence-transformers==2.2.0
+
+# common runtime deps you were already getting
+scikit-learn
+scipy
+torchvision==0.14.1
+sacremoses==0.1.1
+regex
+requests
+packaging
+filelock
+pyyaml
+huggingface-hub==0.0.8
+ensorboard==2.20.0
