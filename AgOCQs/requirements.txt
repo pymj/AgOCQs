@@ -1,27 +1,3 @@
-# #git+https://github.com/huggingface/transformers.git@5c00918681d6b4027701eb46cea8f795da0d4064
-# sentencepiece
-# pandas==1.3.3
-# datasets==1.0.2
-# torch==1.13.1
-# fastt5==0.0.5
-# transformers==4.6.0
-# pytorch-lightning==1.2.2
-# # git+https://github.com/NVIDIA/NeMo.git@$BRANCH#egg=nemo_toolkit[nlp]
-# tokenizers==0.10.1
-# torchtext==0.6
-# tqdm==4.64.0
-# tokenizers==0.10.1
-# PyPDF2
-# PyPaperBot
-# ipython-autotime
-# sentence-transformers==2.2.0
-# --- fixed core (do not change) ---
-# --- DO NOT put these here (installed in Dockerfile with --no-deps) ---
-# torch==1.13.1
-# transformers==4.6.0
-# sentence-transformers==2.2.0
-# fastt5==0.0.5
-
 tqdm==4.64.0
 
 # sentencepiece version fix (Python 3.10 wheels exist)

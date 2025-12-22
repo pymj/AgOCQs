@@ -49,38 +49,3 @@ RUN pip install jupyter
 
 EXPOSE 8888
 CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
-
-
-# FROM python:3.10-slim
-# # Set the working directory in the container
-# RUN pip install spacy
-# RUN pip install nltk
-# RUN python -m spacy download en_core_web_sm
-# RUN [ "python3", "-c", "import nltk; nltk.download('stopwords', download_dir='/usr/local/share/nltk_data')" ]
-# RUN pip install --upgrade pip
-# # ENV PATH="/app:${PATH}"
-# COPY AgOCQs/requirements.txt /app/requirements.txt
-# # RUN pip install --no-cache-dir -r /app/requirements.txt
-# COPY AgOCQs/model/t5  /app/model/t5
-# COPY AgOCQs/CLaROv2.csv /app/CLaROv2.csv
-# COPY AgOCQs/inputText /app/inputText
-# COPY AgOCQs/agocqs.ipynb /app/agocqs.ipynb
-# RUN python -m pip install --upgrade pip setuptools wheel
-
-# RUN apt-get update && apt-get install -y --no-install-recommends \
-#     build-essential \
-#     rustc \
-#     cargo \
-#  && rm -rf /var/lib/apt/lists/*
-
-# RUN pip install --no-cache-dir -r /app/requirements.txt
-# WORKDIR /app
-# #COPY . /app
-# RUN pip install jupyter
-# RUN ls
-# #expose container
-# EXPOSE 8888
-# #command to run on container start
-# CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
-
-
