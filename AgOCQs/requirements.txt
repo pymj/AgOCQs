@@ -25,4 +25,4 @@ packaging
 filelock
 pyyaml
 huggingface-hub==0.0.8
-ensorboard==2.20.0
+tensorboard==2.20.0
