@@ -6,7 +6,7 @@ from datasets import load_dataset
 from pprint import pprint
 import re
 from model import *
-from procee_data import *
+from AgOCQs.process_data import *
 from generate_cqs import *
 import spacy
 import nltk
