@@ -18,13 +18,13 @@ ipython-autotime
 scikit-learn
 scipy
 torchvision==0.14.1
-sacremoses==0.1.1
+sacremoses==0.0.45
 regex
 requests
 packaging
 filelock
 pyyaml
-huggingface-hub==0.0.8
+huggingface-hub==0.12.0
 tensorboard==2.20.0
-peft==0.12.0
-accelerate==0.25.0
+peft==0.2.0
+accelerate==0.12.0
