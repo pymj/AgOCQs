@@ -26,3 +26,5 @@ filelock
 pyyaml
 huggingface-hub==0.0.8
 tensorboard==2.20.0
+peft==0.12.0
+accelerate==0.25.0
