@@ -1,2 +1,6 @@
 AgEnv
 .DS_Store
+test.txt
+.vscode/
+.idea/
+*.log
