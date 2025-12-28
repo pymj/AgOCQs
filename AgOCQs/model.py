@@ -42,11 +42,65 @@ from transformers import (
     get_linear_schedule_with_warmup
 )
 pl.seed_everything(42)
-
-
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print ("device ",device)
+# ----------------download and prepare dataset -----------------
+print("Downloading SQuAD dataset...")
+dataset = load_dataset('squad')
+print("Dataset structure:")
+print(dataset)
+print("\nFirst training example:")
+print(dataset['train'][0])
 
+# Process training data with correct structure
+print("\nProcessing training data...")
+train_data = []
+
+for item in dataset['train']:
+    context = item['context']
+    question = item['question']  # Single question, not a list
+    answers = item['answers']     # Dictionary with 'text' and 'answer_start'
+    
+    # Get the first answer (SQuAD has multiple possible answers)
+    answer_text = answers['text'][0] if answers['text'] else ""
+    answer_start = answers['answer_start'][0] if answers['answer_start'] else 0
+    
+    train_data.append({
+        'context': context,
+        'question': question,
+        'answer': answer_text,
+        'answer_start': answer_start
+    })
+
+# Process validation data
+print("Processing validation data...")
+val_data = []
+
+for item in dataset['validation']:
+    context = item['context']
+    question = item['question']
+    answers = item['answers']
+    
+    answer_text = answers['text'][0] if answers['text'] else ""
+    answer_start = answers['answer_start'][0] if answers['answer_start'] else 0
+    
+    val_data.append({
+        'context': context,
+        'question': question,
+        'answer': answer_text,
+        'answer_start': answer_start
+    })
+
+# Convert to DataFrames
+train_df = pd.DataFrame(train_data)
+val_df = pd.DataFrame(val_data)
+
+print(f"\nDataset sizes:")
+print(f"Train samples: {len(train_df)}")
+print(f"Validation samples: {len(val_df)}")
+os.makedirs('model/t5/dataset', exist_ok=True)
+train_df.to_csv(os.getcwd() + '/model/t5/dataset/squad_t5_train.csv', index=False)
+val_df.to_csv(os.getcwd() + '/model/t5/dataset/squad_t5_val.csv', index=False)
 
 #load default dataset and splits for pretraining- already saved in folder
 train_data = load_dataset('squad', split='train')
