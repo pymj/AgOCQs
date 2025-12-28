@@ -31,7 +31,7 @@ COPY AgOCQs/requirements.txt /app/requirements.txt
 # KEY: install these WITHOUT deps so pip does NOT try to install tokenizers
 RUN pip install --no-deps \
     torch==1.13.1 \
-    transformers==4.27.0 \
+    transformers==4.30.0 \
     sentence-transformers==2.5.1 \
     fsspec==2023.12.2 \
     pytorch-lightning==1.2.2 \
