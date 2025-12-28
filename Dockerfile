@@ -32,7 +32,7 @@ COPY AgOCQs/requirements.txt /app/requirements.txt
 RUN pip install --no-deps \
     torch==1.13.1 \
     transformers==4.27.0 \
-    sentence-transformers==2.2.0 \
+    sentence-transformers==2.5.1 \
     fsspec==2023.12.2 \
     pytorch-lightning==1.2.2 \
     fastt5==0.0.5

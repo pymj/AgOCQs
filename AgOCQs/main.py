@@ -39,7 +39,15 @@ from transformers import (
     get_linear_schedule_with_warmup
 )
 pl.seed_everything(42)
+from huggingface_hub import snapshot_download
+print("✓ snapshot_download imported successfully")
 
+# Check if PEFT is trying to import it wrong
+try:
+    import peft
+    print(f"PEFT version: {peft.__version__}")
+except ImportError as e:
+    print(f"PEFT import error: {e}")
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print ("device ",device)
