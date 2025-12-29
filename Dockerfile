@@ -35,7 +35,8 @@ RUN pip install --no-deps \
     sentence-transformers==2.5.1 \
     fsspec==2023.12.2 \
     pytorch-lightning==1.2.2 \
-    fastt5==0.0.5
+    fastt5==0.0.5 \
+    boto3
 
 # Now install everything else (no tokenizers inside requirements.txt)
 RUN pip install -r /app/requirements.txt
@@ -49,3 +50,5 @@ RUN pip install jupyter
 
 EXPOSE 8888
 CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
+
+# ENTRYPOINT [python, "main.py"]
