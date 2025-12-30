@@ -47,8 +47,12 @@ COPY AgOCQs/inputText /app/inputText
 COPY AgOCQs/agocqs.ipynb /app/agocqs.ipynb
 
 RUN pip install jupyter
+# Create Jupyter config with settings
+RUN jupyter lab --generate-config && \
+    echo "c.ServerApp.iopub_data_rate_limit = 10000000000" >> ~/.jupyter/jupyter_lab_config.py 
+    # && \ echo "c.ServerApp.rate_limit_window = 3.0" >> ~/.jupyter/jupyter_lab_config.py
 
 EXPOSE 8888
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
-
+# CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
+CMD ["jupyter", "lab", "--no-browser", "--port=8888", "--ip=0.0.0.0", "--allow-root", "--ServerApp.iopub_data_rate_limit=10000000000"]
 # ENTRYPOINT [python, "main.py"]
