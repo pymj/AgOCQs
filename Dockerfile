@@ -45,6 +45,7 @@ COPY AgOCQs/model/t5  /app/model/t5
 COPY AgOCQs/CLaROv2.csv /app/CLaROv2.csv
 COPY AgOCQs/inputText /app/inputText
 COPY AgOCQs/agocqs.ipynb /app/agocqs.ipynb
+COPY AgOCQs/outputs /app/outputs
 
 RUN pip install jupyter
 # Create Jupyter config with settings
