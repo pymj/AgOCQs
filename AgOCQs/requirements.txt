@@ -1,5 +1,6 @@
 tqdm==4.64.0
-
+botocore==1.29.137 
+s3transfer==0.16.0
 # sentencepiece version fix (Python 3.10 wheels exist)
 sentencepiece==0.2.1
 
