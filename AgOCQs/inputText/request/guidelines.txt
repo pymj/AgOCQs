@@ -1,0 +1,2979 @@
+Service Guidelines & Standards for Water and Sanitation Department CCT  9 CHAPTER 1: INTRODUCTION  
+The Western Cape is a region of water scarcity; the average annual rainfall is only 515 mm. 
+Most rainfall is during w inter, while the period October -March is the dry (and hot) season. For 
+each dry season the municipality (City of Cape Town, CCT) may implement water restrictions 
+aiming for up to  30% reduction of the consumption. Since 1997 the CCT uses an increasing 
+block  tariff (IBT) structure for water pricing. More recently it implemented the national policy of a 
+free provision of basic services, allowing for 6 kilolitres of free water per metered household. 
+According to this policy, the setting of tariffs must ensure b oth the free water as well as a 
+financially sustainable water supply for the municipality (PDG, 2001), with a budget for the water 
+service set by the CCT.   
+The delivery of services in urban areas is often more challenging in the formally settled or low -
+income areas where most of the poor segment of the population lives. Service delivery in such 
+areas is usually far below the minimum requirements of the resident population. These areas 
+lack compliance with building codes and standards.   
+1. WATER D EMAND  (CSIR , 2003)
+Future water demand is one of the key issues in water supply planning. The following important 
+points regarding the demographic and economic situations determining future water demand 
+should correspond with the contents of the Water Services Devel opment Plan.  
+The demographic and service information required includes:  
+The current population;
+The number of households;
+The number of residential consumer units;
+The incomes related to these consumer units;
+The number and type of non -residential consu mer units;
+Current levels of water service;
+Current consumption; and
+The demand of services, in terms of willingness to pay for the services desired.Service Guidelines & Standards for Water and Sanitation Department CCT                                                    10 The information required to make proper projections of future requirements includes:  
+ 
+ Population grow th; 
+ Economic growth;  
+ Growth in number of consumer units;  
+ Level of service provided to residential consumer units;  
+ Changes in income levels  of residential consumer units;  
+ Changes in consumption per consumer unit;  
+ Effects of water -metering programmes; and  
+ Weather patterns and climate  
+1.1. Estimating Residential Water Demand in South Africa (Cape Town)  
+ 
+1.1.1.  Background  
+ 
+Stand size has been used to estimate residential water demand in South Africa since at least 
+1979 ( Garlipp 1979  cited in Jacobs, Geustyn, Loubser & Van  Der Merwe , 2004, p. 2 ; CSIR 
+1983  cited in Jacobs  et. el., 2004, p.2 ). At a later stage it was recognised that residential 
+demand estimates should preferably be based on actual water use per town as recorded by the 
+treasurer (City of Johannesburg 1989  cited in Jacobs  et. el., 2004, p.2 ). Guidelines for the 
+estimation of demand base don stand size are however still widely used and promoted (Austin 
+1995  cited in Jacobs et. el., 2004, p.2 ; CSIR 2003  cited in Jacobs et. el., 2004, p.2 ). A guideline 
+based on sta nd size should only be used when more accurate methods are not available.  
+ 
+Until recent years custom analysis of the data was required, in other words it was not possible 
+to analyse the data programmatically feasible. Treasury systems contain a wealth of 
+information, but closed database structures often obscure knowledge on the actual water 
+demand required for analysis. The past decade has seen software developments that enable 
+engineers to abstract and analyse water demand from treasury database. It has su bsequently 
+become possible to abstract and analyse water information from treasury databases for 
+selected municipalities who have employed these software tools. In this manner water demand 
+could be modified more accurately. Results from such studies could also be used to construct 
+guidelines for demand estimation based on stand size as a sole explanatory variable – a model 
+with one explanatory variable, or independent variable, is termed a single coefficient model. 
+Such guidelines can then be used in cases where more accurate methods are not affordable.  
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    11 1.1.2.  Guidelines for Residential Demand Estimation  
+  
+The construction of three guidelines curves and corresponding envelope curves are discussed 
+separately for three geographic regions and two stand types. When s tand size is available as 
+the sole explanatory variable these curves will provide a more accurate water demand estimate 
+than those previously published. In each case the mathematical demand functions as well as 
+the resulting curves are provided for practic al application.  
+ 
+If it is assumed that Cape Town, Ekurhuleni and George represent the coastal winter rainfall 
+region, inland summer rainfall region, and coastal annual rainfall region of the country 
+respectively, the following guidelines for demand estimat ion can be constructed.  
+ 
+ Coastal winter rainfall region  (Jacobs, et. el., 2004, p. 10 ) 
+ 
+Guideline curve – coastal winter rainfall region  
+ 
+Statistical analysis indicates that two linear equations, with separate slopes, best fit the data – 
+instead of a singl e linear fit. The change in slope could be partly explained by considering the 
+fact that no distinction could be made between townships and suburbs in the data sets of Cape 
+Town. Cape Town, where township -type and suburb -type stands are combined in one dat asets, 
+a different slope could be expected above a stand size of approximately 800 m².  
+ 
+Two equations were calculated based on the least squares method for stand sizes 100 m² to 
+800 m² and 800 m² to 2000 m². The R² values of 0,981 and 0,928 respectively f or the 
+correlation between the linear equations and the data points are relatively high (a single linear fit 
+was also constructed, but was discarded in favour of the former method, mainly due to the 
+linear curve being less conservative for AADD estimates b etween stand sizes of 600 m²  and 
+1200 m²). In order to construct a practical mathematical model over the entire stand range the 
+intersection of the curves was calculated. The mathematical form of the guideline curve is 
+presented in Figure 1.1  is: 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    12 
+ 
+ 
+Figu re 1.1: Math ematical Form of Guideline Curve  
+ 
+Equation 1: Least Squares Equation: Guideline Curve   
+ 
+Qv = (0,00110595)*A+0,287     (50 m² ≤ A ˂840 m²)  
+        (0,00056253)*A+0,745     (840 m² ≤ A ˂ 2050 m²)            ……………………………………1                   
+ 
+When Q = average annual water demand (kl/stand/day)  
+           A = single residential stand size (m²)  
+          And subscript W denotes the  coastal winter rainfall region  
+ 
+Envelope curves – coastal winter rainfall region  
+ 
+The upper boundary of the envelope is more critical than lower and was also split into two 
+sections. The same two slopes as in E quation 1 were used, but the two equations w ere 
+constructed to intersect the highest point of all the individual databases – that for Tygerberg at 
+1100 m² with an AADD of 1,767 ( refer to F igure 1.2).  
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    13 
+ 
+ 
+Figure 1.2: Tygerberg at 1100 m² with an AADD of 1,767  
+ 
+The lower envelope follows the slope of  the linear trend through the combined Cape Town data, 
+but the intersect of the linear equation was moved down by visual inspection to originate just 
+below the lowest point. The mathematical description of the envelope curve is:  
+ 
+Equation 2: Envelope Curve Equation: QHIGH w  
+ 
+QHIGH w = (0,00110 595)*A+0,551               (50 m² ≤ 1100 m²)  
+     (0,00056253)*A+0,745      (1100 m² ≤ 2050 m²) ……………………………………………..2                
+     
+Equation 3: Envelope Curve Equation: QLOW w 
+             
+ QLOW w = [(0,0007000)*A+0,200       (50 m² ≤ A ˂ 2050 m²)] …………………………………...3
+   
+      
+Where   QHIGH = Upper boundary of the envelope of average annual water demand     
+ (Kl/stand/day ) 
+              QLOW = Lower envelope of average annual water demand (kl/stand/day)  
+              A          = Sing le residential stand size (m²) and subscript W denotes the coastal  
+                             winter rainfall region  
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    14 CHAPTER 2: THE WATERBORNE SANITATION SYSTEM  
+ 
+2. SCOPE  
+ 
+GUIDELINES FOR THE PROVISION OF ENGINEERING SERVICES AND AMENITIES IN 
+TOWNSHI P DEVELOPMENTS (THE RED BOOK) ARE TO BE USED AS THE DESIGN 
+STANDARDS EXCEPT IN THE CASE OF THE FOLLOWING SPECIFIC REQUIREMENTS  
+ 
+CHAPTER 10 APPENDIX C:  DESIGN CRITERIA FOR THE WATERBORNE SANITATION 
+SYSTEM  
+ 
+2.1. Unit Design F lows  
+ 
+TABLE C1: Average daily flows – Page 29 
+ 
+To be replaced by the following table.  
+ Table 2. 1 : Average Daily Flows  
+ 
+Domestic:  Average dry weather flow (ADWF)  
+ 160 l/person/dwell/24 h day  
+ 5,5 persons/dwelling  
+ 880 l/dwell/24 h day  
+Office/Retail/Commercial  33 kl/ha  (of floor area) / 24 hour day  
+Industrial  Maximum discharge 17,7 kl/ha site area/8 h working day  
+ 
+ 
+2.2. Hydraulic D esign  
+ 
+Minimum size of main sewers – Page 29 
+ 
+Table 2.2: Minimum size of main sewers  
+ 
+Domestic/Office/Retail/Commercial  150 mm (nominal ID)  
+Industrial  250 mm (nominal ID)  
+ 
+ 
+Table C2: Minimum sewer gradients – Page 29 
+ 
+To be replaced by the following tables:  
+For 150 mm ID sewers, the following is to apply:  
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    15 Table 2. 3 : Minimum sewer gradients for 1 50 mm ID sewers  
+ 
+Number of dwellings  Minimum grades  
+ Less than 10  
+ 10 – 80 
+ 81 – 110 
+ 111 – 130 
+ More than131  1:90 
+1:120  
+1:150  
+1:180  
+1:200  
+ 
+For diameters gr eater than 150 mm, the following is to apply:  
+ 
+Table 2. 4 : Minimum  sewer g radients for diameters > 150 mm  
+ 
+Internal sewer diameter (mm)  Minimum gradients  
+200 
+225 
+250 
+300 
+375 
+450 
+525 
+600 
+675 
+750 
+825 
+900 
+975 
+1050  
+1125  
+1200  
+1275  
+1350  
+1425 and greater  1:260  
+1:300  
+1:340  
+1:440  
+1:600  
+1:760  
+1:940  
+1:1080  
+1:1280  
+1:1500  
+1:1770  
+1:1920  
+1:2150 
+1:2350  
+1:2600  
+1:2800  
+1:3050  
+1:3300  
+1:3550  
+ 
+For internal sewer diameter (private) refer to the Red Book Chapter 10 Table C.2.   
+ 
+2.3. Physical D esign  
+ 
+ Minimum depth and cover – Page 17 30 
+ 
+ To read:  minimum depth of cover.  
+ A.  In servitudes   - 900 mm  
+ B.  In  road reserves   - 1200 mm  
+ 
+ Curved alignment – Page 31 
+ 
+ Curved alignment is not permitted.  
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    16  Siting – Page 32 
+ Sewers are generally to be placed on the road carriageway centreline.  
+ Midblock sewers are not permissible, unless demanded by the local topography . 
+ Maximum permissible depth for midblock sewers is 2,0 metres.  
+ When used, midblock sewers must be protected by means of registered servitudes and 
+accessible for maintenance.  
+ In general the width of servitudes must be twice the depth of the sewer at its dee pest 
+point.  
+ Minimum width of servitudes is 3,0 metres.  
+ No large trees with invasive root systems are permitted within 2,0 metres of servitudes.  
+2.4. Manholes  
+A. Location and spacing – Page 32 
+Maximum distance between manholes – 90 m.  
+Generally, no manholes are to  be located on private property, but if required, they are to 
+be placed a maximum of 1,5m from boundaries, but never on a boundary line.  
+ 
+B. Sizes – Page 32 
+As per SANS 1200.  
+ 
+C. Benching – Page 32 
+As per SANS 1200.  
+Dolomitic aggregate and low alkali sulphate re sisting cement to SANS 471 shall be used 
+for all benching.  
+ 
+D. Design - Page 32 
+  All manholes to be constructed in accordance with SA NS 1200.  
+ Dolomitic aggregate and low alkali sulphate resisting cement to SA NS 471 shall be used 
+for all concrete, mortar and screeding.  
+ Alternative materials for manhole covers and frames  may be used, providing the cover 
+complies with the strength test as per SA NS 558 – 1973.  
+          Polymer manhole covers and frames are commonly used  
+ Covers must be manufactured to fit the existing Cast Iron frame.  
+ Step irons to be  or similar, approved by the Municipality . 
+  Pre-cast chimney rings are  260/500mm in height.  
+ PVC splits in manholes are not acceptable.  
+         Use of HDPE anchor knob sheeting should be encouraged  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    17 E. Steep dr ops – Page 32 
+Steep drops are not permitted.  
+If external backdrops are required then  base of backdrops must be cast monolithically 
+with the manhole base slab.  Internal backdrops may only be used in the case of new 
+connections to existing deep trunk sewers . 
+2.5. Sewer Connections  
+ 
+A. Sizing and S iting – Page 32. 
+ 
+           Table 2.5: Minimum size of Sewer Connections  
+           Erf connections  
+ 
+TYPE  SIZE  
+ 
+Domestic/Retail/Office/Commercial  
+Light Industrial  
+Heavy  Industrial  
+  
+100 mm  
+150 mm  
+200 mm  
+ 
+ 
+ The follo wing is to be added:  
+ Boundary chambers / rodding eyes are to be placed no further than 1,0m off the street 
+and common erf boundaries.  
+ 
+ The position of sewerage connections shall be adequately marked for future location.  
+ Saddles for erf connections are g enerally not allowed.  
+         Sewers are generally to be placed on the road carriageway centreline.  
+ 
+A. Dept h and cover – Page 33 
+ 
+ To read:  minimum depth of cover.  
+          A.  In servitudes   - 900 mm  
+          B.  In road reserves   - 1200 mm  
+ 
+B. Type detail s – Page 33 
+ All connection sewers to be designed in accordance with detail drawings.  
+ 
+ 
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    18 2.5.1.  Pipes and J oints – Page 33 
+ 
+ The following materials may be used:  
+  
+a. Vitrified clay pipes ( SANS 559 Class 2)  
+ 
+b. Fibre Cement pipes, up to 200mm diameter, bitumen dipped, minimum -series 4, with 
+triplex couplings ( SABAS 819)  (not in industrial areas).  
+ 
+c. Heavy duty uPVC, class 34, ( SANS 791) (Not in industrial areas)  
+ 
+d.  Structured walled uPVC  SANS 1601  
+ 
+e. HDPE ( SANS 533-3-1995)  
+ 
+f. Concrete pipes with sacrificial layer ( SANS 677 – type SI)  
+ 
+g. Concrete pipes with HDPE Liner  
+ 
+h. Glass reinforced pipe (GRP) complying with SA NS 1748.  
+ 
+i. Ductile Iron with epoxy coating SANS........  
+ 
+CCTV inspections are to be carried out as instructed, when required, on sewer pipelines 
+before final acceptance.  
+ 
+All information on new sewer lines must be provided in electronic format for GIS purposes 
+in addition to hard copies . 
+ 
+All as built information must be supplied in both electronic and hard copy.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    19 CHAPTER 3: STANDARD SPECIFICATION FOR STEEL PIP E, 
+FITTINGS AND SPECIALS  
+ 
+  
+3. SCOPE  
+ 
+ This standard covers the manufacture and supply of straight -butt seam or spiral -butt 
+seam electrically welded steel pipe, fittings and specials intended for the conveyance of 
+water in accordance with SA NS 719-1971 (as ame nded), and the following variations 
+and additional requirements.  
+ 
+3.1. Definitions  
+ 
+ For the purpose of this standard the following definitions shall apply:  
+ 
+ Approved:  approved by the Engineer;  
+ 
+ Contractor:  the person, firm or corporation executing the contrac t to supply the pipe, 
+fittings and specials;  
+ 
+ Council:  the Cape Metropolitan  Council  
+ 
+ Engineer:  the Executive Director : Water and Waste  or his authorised representative;  
+ 
+ Fitting:  bends, tees, collars;  
+ 
+ Special:  any manipulated or fabricated pipe not  being a fitting;  
+ 
+3.2. Material  
+ 
+ The steel grade shall conform to SA NS 719; Grade B or C.  
+ 
+3.3. General Requirements  
+3.3.1.  Supplementary Requirements  
+  
+ Supplementary requirements may be given in the Schedule of Quantities which must be 
+read in conjunction with this standa rd. Service Guidelines & Standards for Water and Sanitation Department CCT                                                    20 3.4. Dimensional Requirements of pipes  
+3.4.1.  Length  
+ 
+ Each pipe shall have the length stated in the Schedule of Quantities and shall not vary 
+from the specified length by more than 50  mm.  Fittings and specials shall not vary from 
+the specified length by more than  10 mm. 
+3.4.2.  Diameter  
+ 
+ The pipes shall be manufactured in the nominal sizes and with the outsi de diameters as 
+shown in Table 3.7. 
+ 
+Unless otherwise agreed, the tolerance on the outside pipe diameter for a distance of 
+300 mm from the end of the pipe using a diam eter tape shall be as follows:  
+ 
+- 230 mm nominal diameter and smaller + 1,6  mm - 0,4 mm; 
+ 
+- Greater  than 230  mm nominal diameter + 2,4  mm - 0,8 mm. 
+ 
+Over the remainder of the pipe the tolerances shall be as follows:  
+ 
+- 230 mm nominal diameter and less ± (0,01D)m m, D in mm;  
+Greater  than 230  mm nominal diameter ± (0,005D + 1 or ±  6)mm whichever is less; D in 
+mm. 
+3.4.3.  Out of Roundness  
+ 
+ Except where more restrictive tolerances apply, the difference between the maximum 
+and minimum values of the outside diameter of the pipe  measured across any plane at 
+right angles to the axis shall not exceed 0,5% of the relevant outside diameter shown in 
+Table 3.7. 
+3.4.4.  Straightness  
+ 
+Pipe walls shall be parallel to the axis within 5  mm for each 3  m in length.  
+ 
+3.4.5.  Wall Thickness  
+ 
+The thickness shal l not be less than the minimum shown in Table 3.7. 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    21 3.5. Dimensional requirements of Fittings and Specials  
+3.5.1.  General  
+ 
+All fittings and specials shall have dimensions in accordance with the requirements of 
+BS 534; 1990 , except as hereinafter specified, and shall h ave the same outside 
+diameters as the corresponding pipes.  Except as hereinafter specified, the joints for 
+fittings, etc. shall be of the same steel type as supplied for the pipes.  
+3.5.2.  Bends  
+ 
+Bends shall be fabricated from straight lengths of pipe cut, bevele d, shaped and welded.  
+3.5.3.  Reducers  
+ 
+Reducers shall have a diametrical reduction of 50  mm per 300  mm of length of the 
+tapered portion and shall have plain ends 300  mm long, unless otherwise specified in 
+the Schedule.  Where required for thrust resistance or spe cified in the Schedule, they 
+shall also have an anchor ring.  
+3.5.4.  Tees and Crosses  
+ 
+All branches shall be flanged unless otherwise specified in the Schedule of Quantities.  
+For nominal pipe diameters larger than 305  mm, the distance from the centre -line of the 
+main barrel to the mating face of the flange shall be 0,5  x (outside diameter of main 
+barrel) +  500 mm, for branches of 500 mm nominal diameter and smaller and 
+0,5 x (outside diameter of main barrel) + 1  000 mm, for branches greater than 500  mm 
+nominal dia meter.  All tees and crosses shall be reinforced in accordance with AWWA 
+Manual M11, 1989.  
+3.5.5.  Scour Tees  
+ 
+Scour tees shall comply with the requirements of Tees except that the branches shall be 
+tangential to the main barrel.  
+3.6. Joints  
+3.6.1.  Flanges  
+ 
+Flanges shall, exc ept where otherwise stated, be in accordance with Table 3.8 for a 
+maximum working pressure of 1,2  MPa.  The jointing material shall comply with the 
+requirements of BS 2494  (as amended).  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    22 3.6.2.  Welding Collars  
+ 
+Where required in the Schedule, welding collars shall  be supplied in accordance with 
+Table  3.9. 
+3.6.3.  Sleeved Joints  
+ 
+Where required in the Schedule, sleeved joints for internal or external field welding s hall 
+permit an angular set of 0.5º  between adjacent pipes without impairing the efficiency of 
+the joint.  The sleeve shall be accurately formed in accordance with Table "3.9 " so as to 
+obtain a sliding fit.  The maximum clearance over the pipe shall be 4  mm and the 
+minimum clearance 2  mm. 
+3.7. Fabrication of Steel Pipes  
+3.7.1.  Pipe Ends  
+ 
+The pipe ends shall be square cut, plai n ends with all edge burrs removed.  The outside 
+of the pipe shall be free of indentations, projections or roll marks for a distance of 
+250 mm from each end.  Longitudinal or spiral welds on the outside of the plain end shall 
+be ground to plate or sheet su rface;  
+3.7.2.  Pipe Ends for welding  
+Where required in the Schedule, the ends shall be beveled  for welding as specified in 
+SANS 719. 
+3.8. Testing  
+     The cost of all specified testing as required in this specification shall be borne by the  
+             Contractor.   
+3.8.1.  Hydrostatic Testing  
+ 
+ Before being cleaned, lined or sheathed, all straight pipes, fittings and specials shall be 
+hydrostatically tested, under cover at the Contractor's factory, in a testing machine to a 
+pressure which will stress the steel circumferentiall y to 85% of its yield stress.  Tees 
+shall have their flanged branches closed during this test by means of a bolted -on 
+blanking plate of sufficient thickness to withstand the test pressure.  
+ 
+ The testing machine shall be of a design which will allow a steady  application of the test 
+pressure and shall be equipped with an accurate pressure gauge.  Provision shall be 
+made for attaching the Engineer's pressure gauge.  Provision shall also be made for Service Guidelines & Standards for Water and Sanitation Department CCT                                                    23 expelling all air from any pipe, fitting or special under test during filling and before 
+application of the pressure.  Records of all hydrostatic tests shall be kept and submitted 
+to the Engineer prior to delivery of the pipe.  
+ 
+ The pressure shall be steadily applied and be maintained sufficiently long for proof and 
+inspection but in no case for less than three minutes.  Each pipe, fitting and special shall 
+withstand this test without showing any leakage, weep, sweat or other defect.  Should 
+leakage occur at any weld, such weld shall be repaired in accordance with the 
+specification.  
+ 
+ If required, this test shall be carried out in the presence of the Engineer.  
+ 
+ All pipes, fittings and specials which have passed the hydrostatic test shall be stamped 
+with the Contractor's test stamp.  The Engineer may call for the re -testin g of any pipe, 
+fitting or special which was not tested in his presence.  
+ 
+ If such pipe, fitting or special passes the re -test, all costs incurred in carrying out the re -
+testing shall be borne by the Council.  
+3.8.2.  Dye Penetration Testing of Fittings and Specials  
+ 
+ All bends, other fittings and specials whose shape precludes their being tested in terms 
+of Clause 6.2 shall be tested by the application of an approved penetrate dye to all 
+welds.  No trace of the dye shall appear on the other side of the weld.  
+ 
+ Defectiv e welds shall be repaired in accordance with the fabrication requirements.  
+ Fittings and specials which have passed the penetrate dye test shall be stamped with 
+the Contractor's stamp.  
+ 
+ Where fittings and specials tested in terms of this Clause have been ma nufactured from 
+straight pipe, such pipe, before being cut, shall be hydrostatically tested in accordance 
+with this specification.  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    24 3.8.3.  Visual inspection  
+ 
+All finished pipes and specials shall be visually examined and shall be free of injurious 
+defects as defin ed in API  5L section 10.7.  
+3.9. Cement Mortar Lining and  Sheathing  
+3.9.1.  General  
+ 
+ All pipes, fittings and specials shall be protected by means of a cement mortar lining and 
+sheathing.  These shall extend over the full effective length of each pipe, fitting or 
+special  except for those with plain or spigot ends where the sheathing shall cease 
+300 mm from the plain or spigot end.  
+3.9.2.  Preparation  
+ All pipes, fittings and specials shall be cleaned both inside and outside of all rust, loose 
+mill scale, paint, grease, oil or othe r foreign matter, including solidified welding material 
+outside of the weld proper.  
+ 
+ Cleaning shall be carried out immediately before coating.  No cleaned surface shall be 
+left exposed to the atmosphere for a period of more than two hours before coating is  
+carried out.  
+ 
+ Every precaution shall be taken to prevent cleaned surfaces from becoming moist or 
+wet.  Should this occur, such surfaces shall be thoroughly dried and re -cleaned.  
+3.10.  Cement Mortar Lining  
+3.10.1.  Cement Mortar  
+ 
+ The cement mortar  shall be composed of Po rtland C ement in accordance with 
+SANS 471 (as amended), sand in accordance with SA NS 1090 : 2002  (as amended) and 
+water well mixed and of proper consistency to obtain a dense homogeneous lining that 
+will adhere firmly to the pipe surface.  The aggregate to cement ratio shall not exceed 
+1,5:1 and the water content shall be the minimum consistent with workability and the 
+process used.  
+3.10.2.  Thickness  
+ 
+ All pipes, fittings and specials shall have a cement mortar lining which shall have a 
+thickness in accordance with t he following table:  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    25 Table 3. 5: Cement Mortar  Lining Thickness  
+ 
+NOMINAL DIAMETER OF 
+PIPE, FITTING OR 
+SPECIAL IN mm  THICKNESS OF  
+LINING IN mm  TOLERANCE  
+mm MINIMUM  
+BORE  
+mm 
+100 5 +3 -0 85 
+150 5 +3 -0 135 
+230 6 +3 -0 205 
+305 7 +3 -0 285 
+306 to 610  10 +4 -0  
+611 to 1 220  15 +5 -0  
+greater than 1 220  20 +6 -0  
+ 
+ Pipes up to 305 mm nominal diameter shall allow a sphere (with the minimum bore 
+diameter) to roll through under gravity and without hindrance to ensure the minimum 
+bore for t he pipe.  
+3.10.3.  Method of Application  
+ 
+ The lining shall be applied to pipes and straight fittings and specials by spinning or other 
+approved method and to fittings and specials whose shapes preclude this method by 
+hand -plastering or other approved process.  All w ater and laitance expelled during the 
+lining operation shall be removed in such a manner that the surface of the lining shall be 
+smooth, straight and true.  
+ 
+ At a suitable time after completion of the lining operation, as determined by experiment, 
+the spun lining shall be given a steel trowelled or smoothing bar finish by skilled workers.  
+A second trowelling may be necessary should the first fail to remove all laitance and 
+produce a smooth hard surface.  
+ 
+ The finished lining shall be dense, firm and adhere r igidly to the surface.  The lining shall 
+be tested by lightly tapping the surface with a light hammer.  Any pipe, fitting or special 
+where there is no bond between the lining and the steel shall be rejected.  Defective 
+lining shall be repaired to the satis faction of the Engineer.  
+3.10.4.  Reinforcement  
+ The lining of all fittings, specials, make -up pieces (where their length is less than their 
+diameter) and at welded joints of nominal diameter 610  mm and greater shall be 
+reinforced by means of a 50  mm x 50 mm x 2,5  mm diameter wire fabric.  All 
+reinforcement shall be tack -welded to the fitting or special in such a manner as to lie 
+within the middle third of the lining.  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    26 3.10.5.  Curing  
+3.10.5.1.  General  
+ 
+After the initial set has taken place, the mortar lining shall be cured by water or steam 
+as hereinafter specified.  
+3.10.5.2.  Water Curing  
+ 
+ Where water curing is to be used it shall be commenced not longer than twelve 
+hours after completion of the lining.  The lining shall be continually sprayed with 
+water by means of approved atomising sprinkler h eads, placed inside the pipes, 
+fittings and specials.  They shall be so spaced and be of such capacity as to keep 
+the entire surface of the lining continually wet for a period of not less than 96 
+hours.  
+ 
+ Where exterior sheathing is to be applied after lini ng, its application shall be 
+commenced not less than 72 hours after completion of the lining and, in this case, 
+water spraying may be interrupted for a maximum of 3 hours for any particular 
+sheathing operation.  
+ 
+ When water spraying is recommenced after she athing, precautions shall be taken 
+so as to ensure that the sheathing is not damaged by the escaping water.  Except 
+for the sheathing operation no pipe, fitting or special shall be disturbed or moved 
+during the curing period.  
+ 
+3.10.5.3.  Steam Curing  
+ 
+ When steam curi ng is to be used it shall be commenced not longer than 8 hours 
+after completion of the lining.  The steam shall be introduced slowly and the total 
+surface of the lining kept in contact with moist steam at a temperature of not less 
+than 50°C and not more th an 63°C for a period of not less than 14 hours.  
+ 
+ When exterior sheathing is to be applied after lining its application shall not be 
+commenced until after completion of the steam curing.  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    27 3.10.6.  Exterior Sheathing  
+3.10.6.1.  Cement Mortar  
+ 
+The cement mortar shall be as specif ied for lining.  If the mix is different to that 
+specified, then the proposed mix shall be submitted with the Tender for approval 
+by the Engineer.   It shall not be subject to Alkali Aggregate Reaction where the 
+aggregate expands deleteriously (>0,05%).  
+3.10.6.2.  Thickness  
+ All pipes, fittings and specials shall have an exterior sheathing which shall have a 
+thickness in accordance with the following table:  
+  
+Table 3. 6 : Pipes, Fittings and Specials Exterior Sheathing Thickness  
+ 
+NOMINAL DIAMETER  OF PIPE,  
+FITTING OR SPECIAL IN mm  THICKNESS  
+mm 
+Up to 610  20 +3 -0 
+Greater than 610  25 +6 -0 
+ 
+3.10.6.3.  Method of Application  
+ 
+ The mortar shall be applied by an approved method.  Fittings and specials whose shape 
+precludes the approved method shall have the sheat hing applied by hand plastering or 
+other approved process.  
+ 
+ The finished sheathing shall be dense, firm and adhere rigidly to the surface.  
+Sheathings shall be tested by lightly tapping the surface with a light hammer.  Any pipe, 
+fitting or special where t here is no bond between the sheathing and the steel shall be 
+rejected.  Defective sheathing shall be repaired to the satisfaction of the Engineer.  
+3.10.7.  Reinforcement  
+ 
+ The exterior sheathing of all pipes, fittings and specials shall be reinforced by 5  mm 
+diamete r steel wire wrapped around the circumference.  The wire shall extend over the 
+full length of the sheathing with a maximum spacing of 40  mm.  The wire shall be tack -
+welded to the surface at each end.  All fittings and specials whose shape precludes this 
+method of reinforcement shall have their sheathing reinforced in a similar manner to that 
+specified in Clause 7.3.4.  
+   Service Guidelines & Standards for Water and Sanitation Department CCT                                                    28 3.10.8.  Curing  
+ 
+ The exterior sheathing shall be cured in a similar manner to the lining except that the 
+minimum duration of the curing shall be 48  hours and 12 hours for water and steam 
+respectively.  
+3.11.  Protection against  Corrosion  
+ 
+ Hot-metal sprayed coatings  shall be in accordance with SANS 2061 and shall comply 
+with the following ; 
+ 
+- The minimum coating thickness for both aluminium and zinc shall be 16 0m. Greater 
+thickness maybe specified in Detailed Specification.  
+- The thickness shall be checked on every surface plane at points not more than 300 mm 
+apart for small articles and 500 mm for large articles. Angles shall be checked along all 
+4 surfaces, cha nnels along all 6 surfaces, pipes in 4 planes. The minus tolerance on 
+thickness in isolated areas shall also not exceed – 10% and such low areas shall not be 
+larger than 50 mm in diameter.  
+- The time between surface preparation and coating shall be shortene d from 4 hours to 2 
+hours at any application area closer than 10 km from the coast . 
+- Unless otherwise specified, all hot -metal coatings shall be sealed and coated 
+immediately after hot -metal spraying. The system shall consist of a low viscosity 
+sealant, whi ch is applied until absorption is complete followed by suitable coating 
+system . 
+ The sealant systems outlined below are acceptable (where appropriate for the particular 
+application).  
+ 
+System 1  
+Application of an epoxy zinc sealer to a dft of 60 m, (Sigmari te Sealer, or equivalent).  
+Application of two coats of epoxy pipe coating to a dft (per coat) of 12 5 m; (Sigmarite 
+EHB, or equivalent).  
+System 2 
+Application of micaceous oxide pigmented polyamide cured epoxy to achieve a dft of 60 -
+80m; (Sigmarite Sealer,  or equivalent).  
+One coat of solvent borne modified acrylic coating to achieve a dft of 70  m; (Sigma 
+Topacryl coating, or equivalent).  
+One coat of solven t borne modified acrylic finish to a dft of 30 -45 m; (Sigma Topacryl 
+finish, or equivalent).  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    29 3.12.  Marking  and Delivery  
+ 
+3.12.1.  Marking  
+ All pipes, fittings and specials shall have the following information stencilled, in black 
+painted characters not less than 40  mm in height, on the inside as close to both ends as 
+is possible and so as to be clearly visible from outs ide.  The paint used shall be non -
+toxic.  
+- the serial number in order of manufacture;  
+- the nominal diameter in millimetres;  
+- the effective length to the nearest 5  mm; 
+- the working pressure in metres head.  
+ 
+ All fittings and specials shall be marked in the same m anner with the following 
+additional information:  
+- tees:  the nominal diameter of the branch in millimeters  and its effective length to the 
+nearest 5  mm; 
+- bends:  the angle of deflection in degrees;  
+- reducers:  the nominal diameter of each end in millimetres;  
+- the tender number.  
+ 
+ The Contractor may place his own name and/or mark or trade mark on all pipes, 
+fittings and specials supplied by him.  
+ 
+3.12.2.  Delivery  
+ 
+ Before delivery to the pipe yard, approved internal bracing shall be placed in all pipes, 
+fittings and speci als at points of suspension and support used during loading, 
+transportation and unloading.  The bracing shall be so designed as to prevent the pipes, 
+fittings and specials from exceeding 0,5% "out -of-roundness" as measured on the 
+diameter and shall have su fficient bearing surfaces to prevent damage to the lining or 
+sheathing.  
+ 
+ All pipes, fittings and specials shall be delivered and stacked by the Contractor at the 
+pipe yard or other site specified in the Schedule of Quantities.  
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    30  They shall be neatly and met hodically arranged off the ground or as directed by the 
+Engineer and they shall be deemed to have been delivered to the Council as soon as 
+they have been stacked to the satisfaction of, inspected and accepted by the Engineer.  
+ 
+ The minimum rate of and the o rder of delivery shall be as stated in the Schedule of 
+Quantities.  
+ 
+ Should any pipes, fittings or specials be damaged in any way, and through any cause 
+whatsoever, during delivery and stacking, or should they suffer damage subsequently 
+due to the faulty st acking, such damage shall be made good forthwith by the Contractor 
+at his own expense and to the satisfaction of the Engineer. Alternatively the Engineer 
+shall have the right to reject such pipes, fittings and specials.  
+ 
+ 
+SERVICES & INFRASTRUCTURE  WAT ER BR ANCH  
+ 
+Table 3.7: Pipe Details  
+ 
+NOMINAL SIZE  
+ 
+mm OUTSIDE DIAMETER  
+ 
+mm MINIMUM STEEL 
+THICKNESS  
+mm 
+75 
+100 
+150 
+230 
+305 
+380 
+460 
+535 
+610 
+685 
+760 
+840 
+915 
+1 065  
+1 220  
+1 370  
+1 525  
+1 675  
+1 830  88,90  
+114,30  
+165,10  
+241,30  
+323,85  
+393,70  
+469,90  
+546,10  
+622,30  
+704,85  
+781,05  
+863,60  
+933,45  
+1 092,20  
+1 244,60  
+1 397,00  
+1 613,00  
+1 708,15  
+1 860,55  4,50 
+4,50 
+4,50 
+4,50 
+4,50 
+4,50 
+4,50 
+6,00 
+6,00 
+6,00 
+6,00 
+8,00 
+8,00 
+10,00  
+10,00  
+12,00  
+12,00  
+16,00  
+16,00  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    31 SERVICES & INFRASTRUCTURE  WATER BRANCH  
+ 
+ 
+ 
+ 
+Table 3.8: Flange Dimensions For a Working Pressure  of 1,2 MPa (Amended August  1987)  
+  
+1 2 3 4 5 6 7 
+NOMINAL  
+DIAMETER 
+OF PIPE  
+mm DIAMETER  
+OF 
+FLANGE  
+ 
+mm DIAMETER  
+OF BOLT  
+CIRCLE  
+mm NUMBER  
+OF 
+BOLTS  BOLT  
+DESIGNATION  DIAMETER  
+OF BOLT 
+HOLES  
+mm WROUGHT  
+STEEL  
+ 
+mm 
+75 185 146,05  4 M16 18 12 
+100 215 177,80  4 M16 18 12 
+150 280 234,95  8 M16 18 12 
+200 337 292,10  8 M16 18 15 
+230 370 323,85  8 M16 18 15 
+305 455 406,40  12 M20 22 20 
+380 550 495,30  12 M24 26 22 
+460 640 584,20  12 M24 26 25 
+535 735 673,10  16 M24 26 28 
+610 825 755,65  16 M24 26 32 
+685 910 844,55  20 M24 26 35 
+760 995 927,10  20 M30 33 40 
+840 1 090  1 016,00  20 M30 33 45 
+915 1 175  1 092,20  24 M30 33 50 
+1 065  1 335  1 250,95  28 M30 33 55 
+1 220  1 490  1 409,70  32 M30 33 60 
+1 370  1 680  1 593,85  44 M45 48 75 
+1 525  1 855  1 758,95  52 M45 48 80 
+1 675  2 030  1 930,40  52 M45 48 85 
+1 830  2 195  2 095,50  60 M45 48 90 
+ 
+ 
+NOTE:  The above table is based upon BS10: 1962 Table D, for sizes up to and including 
+1 065 mm nominal diameter, and AWWA Manu al M11, for sizes greater than 1  065 mm 
+nominal diameter.  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    32 SERVICES & INFRASTRUCTURE  WATER BRANCH  
+ 
+ 
+Table 3. 9: Welding Collar Details  
+ 
+NOMINAL SIZE  
+ 
+mm INTERNAL 
+DIAMETER  
+mm WIDTH  
+ 
+mm  STEEL THICKNESS  
+ 
+mm 
+230 
+305 
+380 
+460 
+535 
+610 
+685 
+760 
+840 
+915 
+1 065  
+1 220  
+1 370  
+1 525  
+1 675  
+1 830  
+ 243,30  
+325,85  
+396,70  
+472,90  
+549,10  
+625,30  
+707,85  
+784,05  
+866,60  
+936,45  
+1 095,20  
+1 247,60  
+1 400,00  
+1 616,00  
+1 711,15  
+1 863,55  100 
+100 
+100 
+100 
+100 
+100 
+150 
+150 
+150 
+150 
+150 
+150 
+150 
+150 
+150 
+150 4,50 
+4,50 
+4,50 
+4,50 
+6,00 
+6,00 
+6,00 
+6,00 
+8,00 
+8,00 
+10,00  
+10,00  
+12,00  
+12,00  
+16,00  
+16,00  
+ 
+ 
+WELDING BEAD TO BE GROUND FLUSH ON INSIDE OF COLLAR  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    33 WATER BRANCH  
+CE-WS13: FEB. 1998  
+ 
+ 
+CHAPTER 4: STANDARD FOR FIBRE -CEMENT PIPES AND 
+COUPLINGS, STEEL OR CAST -IRON FITTINGS AND SPECIALS  
+ 
+4. GENERAL  
+4.1. Scope  
+ 
+This standard covers the manufacture of fibre -cement pipes and couplings, steel or cast -iron 
+fittings and specials intended for the conveyance of water.  
+ 
+4.2. Definitions  
+ 
+For the purpose of this  standard the following definitions shall apply:  
+ approved:  approved by the Engineer;  
+ contractor:  the person, firm or corporation executing the contract to supply pipes, fittings 
+and specials;  
+ council:  the Council of the City of Cape Town;  
+ engineer:  the  City Engineer or his authorised representative;  
+ fittings: bends, tees, collars;  
+ a straight pipe of uniform outside diameter;  
+ special:  any manipulated or fabricated pipe not being a fitting;  
+4.3. Supplementary Requirements  
+  
+ Supplementary requirements may be gi ven in the Schedule of Quantities which must be 
+read in conjunction with this standard.  
+4.4. Inspection  
+ 
+ All work done and material furnished may be inspected by the Engineer during all 
+phases of manufacture and testing, but such inspection shall not relieve th e Contractor 
+of his responsibility to furnish material and perform work in accordance with this 
+standard.  
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    34 4.5. Materials and Workmanship  
+ 
+ All work done shall be done by artisans skilled in their trades.  All materials furnished 
+and all work done shall meet th e requirements of this standard.  
+4.6. Drawings  
+ 
+ Drawings shall be either the Engineer's drawings or the Contractor's drawings approved 
+by the Engineer.  
+4.7. Description of Pipes, Fittings and Specials  
+4.7.1.  Working Pressure  
+ 
+ The working pressure of all pipes, couplings, f ittings and specials shall be 1,2  MPa, 
+unless otherwise specified in the Schedule of Quantities.  
+4.7.2.  Pipes  
+ 
+ All pipes shall be in 4  m lengths or as per manufacturer’s product which generally range 
+from 4 to 6m in the case of PVC (HDPE maybe longer)  and shall c omply with the 
+requirements of SANS 1223:  1985 for COD pipes.  
+4.7.2 .1. Dipping  
+ 
+ 
+ All pipes shall be bitumen dipped unless otherwise specified in the Schedule of 
+Quantities.  The bitumen coating shall form an intimate bond with the pipe and shall not 
+peel,  flake or disintegrate either when the pipes are stored in the open prior to use or 
+when they are buried in the ground.  The coating shall not contain any products obtained 
+from the destructive distillation of coal.  The Contractor shall include the cost o f bitumen 
+dipping in the prices quoted in his tender.  
+ 
+ If so directed by the Engineer, the Contractor shall colour the coating with an approved 
+colouring matter for identification purposes.  
+4.7.3.  Couplings  
+ 
+ All fibre -cement couplings shall comply with the requir ements of SA NS 1223:  1985 for 
+COD pipes and shall  be bitumen dipped as in 4.7.2.1  above.  
+ 
+ All mechanical type couplings shall comply with the Council's Standard Specification CE-
+WS10 . Service Guidelines & Standards for Water and Sanitation Department CCT                                                    35 4.7.4.  Fittings and Specials  
+4.7.4.1.  Steel  
+ 
+ Steel fittings and specials shall comply wi th the requirements of the relevant clauses of 
+the Council's standard CE-WS11,  except that the internal diameters and also the 
+external diameters, within 305  mm of plain ends, shall be the same as for the asbestos 
+cement pipes with which they are to be use d.  This may be achieved by thickening the 
+lining and/or welding a steel sleeve to the outside.  
+4.7.4.2.  Cast -Iron 
+ 
+ Cast-iron fittings and specials shall comply with the requirements of SA NS 546: 1977 
+and shall be cement -lined in the same manner as is required for steel fittings and 
+specials.  
+ 
+ No sheathing is required.  The outer surfaces shall be protected by the use of approved  
+bitumastic paint.  
+ 
+4.7.4.3.  Flanges  
+ 
+ Unless otherwise specified in the Schedule of Quantities, flanges for fittings and specials 
+shall be in accord ance with Table  3.8. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    36 WATER BRANCH  
+CE-WS15: 1993  
+ 
+CHAPTER 5: STANDARD SPECIFICATION FOR GATE VALVES  
+ 
+5. SCOPE  
+ 
+ This specification covers the manufacture of cast -iron, cast steel and spheroidal graphite 
+iron gate val ves from 50  mm to 300  mm nominal diameter with flanged, spigotted or 
+socketted joints.  
+5.1. Working Pressures  
+ 
+ The valves shall be suitable for working pressures of up to either 1,2  MPa or 2,5  MPa as 
+specified in the Schedule.  
+5.2. Design  
+5.2.1.  General  
+ 
+ The valves shall c omply with the requirements of SA NS 664: 1989 (as amended) Class 
+16 Type  B, for working pressures up to 1,2  MPa and with the requirements of 
+SANS 191: 1972 (as amended) Class 25 Type B, for working pressures up to 2,5  MPa 
+together with the following additi onal requirements:  
+ 
+       the ends of the valves shall be flanged, or spigotted, or socketted to suit uPVC pipes, as      
+specified in the Schedule;  
+ the spindles shall be non -rising;  
+ the spindles shall be fitted with caps unless otherwise specified in the Schedule;  
+ the direction of closing shall be anti -clockwise;  
+ the dimensions of flanges shall conform to th e values given in either Table 10.1  attached 
+hereto, for w orking  pressures up to 1,2  MPa, or Table 3.8  attached hereto, for working 
+pressures up to 2,5  MPa and shall be drilled off centre -line; 
+ the design of all valves shall be such that they may be mounted in any position;  
+ valves for working pressures above 1,2  MPa shall be fitted with ball -bearing spindle thrust 
+collars;  
+ 
+ 
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    37 5.2.2.  Wedge Gate Valves  
+ 
+ valves of 225  mm nominal diameter, for working pressures above 1,2  MPa, and all 
+valves of 300  mm nominal diameter shall be fitted with a spur reduction gear having an 
+advantage of not less than 2:1;  
+ the gate and spindle lugs shall be machined;    
+ the seat rings s hall be pinned;  
+ the gland packing shall comply with the requirements of BS  4371 Types J, K or L 
+(consisting of virgin Teflon or Aramid fibres), shall be strictly non -toxic and suitable for 
+this application;  
+ the gland shall be secured to the stuffing box wi th bronze T -bolts and nuts in accordance 
+with SA NS 664: 1989 (as amended).  
+5.2.3.  Resilient seal valves  
+ 
+ The materials for construction shall be  
+ Body, bonnet, gate  - Spheroidal graphite iron  
+   and gland to SA NS 936 SG38  
+ Spindle  - Stainless steel to BS  970 
+Part 4: 410S21 or 302S25  
+Spindle nut  - Aluminium bronze  
+Corrosion protection  -   Internal and external sintered powder epoxy coating in 
+accordance with SA NS 1217, Type  2. 
+ The valve shall have a straight, unobstructed body passage and the gate shall be 
+complete ly clear of the waterway in the fully open position;  
+ A double O -ring spindle seal with dirt cover shall be provided;  
+ An O -ring seal shall be provided between the body and bonnet.  
+ A backseal shall be provided to permit replacement of the spindle seal with t he valve 
+under pressure;  
+ The seal shall totally cover the gate and be firmly bonded such that it does not become 
+torn, loose or detached and that there is no leakage past the gate during tests or normal 
+operation;  
+ The valve shall be capable of withstanding  a torque of 700  Nm applied to the spindle in 
+both opening and closing directions without damage to any of the components;  
+ Detailed drawings as well as certification by an independent body of mechanical 
+properties and chemical analysis of components shall be made available upon request.  
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    38 SERVICES & INFRASTRUCTURE                                                          WATER BRANCH  
+ 
+Table 10.1: Flange Dimensions For a Working Pressure of  1, 2 MPa (Amended August  1987)  
+  
+1 2 3 4 5 6 7 8 9 
+NOMINAL  
+DIAMETE
+R OF PIPE  
+  mm  DIAMETE
+R 
+OF 
+FLANGE  
+ 
+   mm  DIAMETER  
+OF BOLT  
+CIRCLE  
+   mm NUMBE
+R 
+OF 
+BOLTS  BOLT  
+DESIGN
+ATION  DIAMETE
+R 
+OF BOLT 
+HOLES  
+  mm THICKNESS OF FLANGE  
+CAST  
+IRON  
+ 
+ mm WROU
+GHT  
+STEEL  
+ 
+ mm FORGE
+D OR  
+CAST 
+STEEL  
+(VALV
+ES) 
+mm 
+75 185 146,05  4 M16 18 19 12 14 
+100 215 177,80  4 M16 18 19 12 17 
+150 280 234,95  8 M16 18 21 12 17 
+200 337 292,10  8 M16 18 22 15 19 
+230 370 323,85  8 M16 18 22 15 19 
+305 455 406,40  12 M20 22 25 20 22 
+380 550 495,30  12 M24 26 25 22 25 
+460 640 584,20  12 M24 26 25 25 29 
+535 735 673,10  16 M24 26 35 28 32 
+610 825 755,65  16 M24 26 35 32 35 
+685 910 844,55  20 M24 26 35 35 38 
+760 995 927,10  20 M30 33 38 40 41 
+840 1 090  1 016,00  20 M30 33 41 45 41 
+915 1 175  1 092,20  24 M30 33 41 50 44 
+1 065  1 335  1 250,95  28 M30 33 44 55 48 
+1 220  1 490  1 409,70  32 M30 33 48 60 51 
+1 370  1 680  1 593,85  44 M45 48 51 75  
+1 525  1 855  1 758,95  52 M45 48  80  
+1 675  2 030  1 930,40  52 M45 48  85  
+1 830  2 195  2 095,50  60 M45 48  90  
+ 
+NOTE:  The above table is based upon BS10:  1962 T able D, for sizes up to and including 1  065 mm 
+nominal diameter, and AWWA Manual M11, for sizes greater than 1  065 mm nominal diameter.  
+ 
+   
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    39   WATER BRANCH  
+ CE-WS25: 1988  
+Revised January 2002  
+CHAPTER 6: SPECIFICATION FOR WATER METER BOXES AND 
+FITTINGS  
+6. SCOPE  
+ 
+ This specification covers the requirements for metallic and non -metallic boxes and 
+fittings suitable for the installation of water meters of 15  mm, 20  mm, 32  mm and 40  mm 
+nominal bore either singly or in pairs.  The meters are not  included.  
+6.1. Material  
+ 
+ The boxes shall be of metallic or non -metallic SA NS approved, with a lockable but 
+removable lid and be suitable for installation in the footway or lightly trafficked areas.  
+They shall be protected against corrosion.  The lids shall be  provided with a slot to 
+permit reading of the meter without removing the lid.  The boxes shall be provided with 
+bases.  
+6.2. Fittings  
+ 
+ The fittings shall be of brass or approved plastic, shall include a stop valve on the inlet 
+side of the meter and shall be suc h as to permit of the removal of the meter from the box 
+without the need either to remove the fittings or to disturb the box.  Metallic parts in 
+contact with the water shall be manufactured from dezincification resistant brass which, 
+when tested in accorda nce with ISO  6509:  1981, no individual reading shall show a 
+penetration exceeding 250  
+m, two samples being taken from each cast component 
+(one from the thinnest and the other from the thickest part) and one sample from each 
+other component.  The inlet and  outlet connections shall be threaded internally or 
+externally to ISO  228 to suit the nominal bore of the meter to be installed.  The inlet 
+connection of a box for a pair of meters shall be one nominal size larger than the outlet 
+connections and the necess ary branch pipe shall be provided.  
+6.3. Packing  
+ 
+ The boxes and fittings shall be supplied completely assembled and ready for the 
+installation of a meter.  Adaptors shall be available (but not included) to permit the 
+installation of a 15  mm meter, in a 20  mm nom inal bore box.  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    40 CHAPTER 7: SPECIFICATIONS FOR ELECTRONIC FLOW LIMITER VALVE FITTED TO 
+METER BOX FITTED WITH WATER METER AND FITTINGS  
+  
+7. Features  
+ 
+ This unit will operate without the requirement for mains power and the volumes of water 
+delivered shall comply w ith the Water Services Act.  
+ The entire unit (Meter and valve unit) must have a metrology approval from the SABS 
+(NCRS).  
+ The device/ flow limiter valve must comply with the following general operational criteria:  
+ The entire unit must be able to be fitted sa fely in an above ground meter box (surface) or 
+ground level meter box attached to a Class C meter.  
+ The unit must be able to be interrogated, reprogrammed and audited in -situ via a field 
+service terminal (laptop or hand held terminal)  
+ The unit must be compa tible with any pulse output water meter and fitted with a security 
+Anti-tamper seal and must also be able to function correctly in both the horizontal and 
+vertical positions.  
+ The valve assembly must be highly clog resistant  
+ Tempering:  
+ The valve must be who lly tamper resistant and the valve is to shut automatically (not 
+immediately) if sensor removed, tampered with or if seal is removed. The valve 
+should be able to shut off at least an hour after any of the above tampering takes 
+place.  
+7.1. Valve Body  
+  
+ The valve and body must be waterproof (IP68 submerged), robust, chemical and UV 
+resistant or UV stabilized as in many cases it will be fitted underground. A plastic grade 
+glass filled nylon reinforced to a Pn10 - Pn16 pressure rated. To be available in sizes 
+15mm, 2 2mm and 25mm size and specify any other specialised sizes not limited to the 
+mentioned only.  
+ The valve must be available as a separate unit. The valve body shall have a ¾ inch 
+internal inlet or will vary with the different sizes required and outlet thread ed ports.  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    41  Water must be delivered at full bore pressure and not on a trickle flow basis and there 
+must be no change in pressure or flow. The preset volume of water delivered shall not 
+vary with pressure fluctuations with a flow rate range of 25 to 700 litr es per hour and a 
+pressure rating of 0.2 bar to 10 bar.  
+ It must be compatible with a wide range of water meters. Meter information must be able 
+to be recorded on device for electronic and wireless connection information update.  
+7.2. Meter in Box  
+ 
+ The meter must  be assembled inside the meter box along with the unit and a ball -cock 
+on the meter side (before the meter on Council side).  
+ It must be indicated the method used to connect the unit to the meter and the box.  
+ Each meter and unit assembly must be pressure t ested.  
+ There must be sliding couplings for ease of installation and removal  
+ Meter box details:  
+ Meter box to have fusion welded joints  
+ Tamper proof locking mechanism (cover)  
+ Keyed in fittings to prevent meter turning when removing or working with meter  
+ SABS  approved  
+ Minimum dimensions in order to accommodate the unit with a meter and a ball -cock to 
+be: 
+ length of 380mm  
+ width at base of 225mm  
+ width at top of 180mm  
+ height of 180mm  
+ Type of meter attached to unit must conform to the following minimum criteria:  
+ Class C  
+ Must have a non -return valve in meter to prevent meters being turned around  
+ Meter to have an SABS approved pulse output (Meter must be approved to be used 
+when utilising a pulse output, SABS approval)  
+ Meter to have a wet dial  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    42  Meter to be plastic and conform to the LATEST SABS standards  
+ Meter must be direct drive – no magnetic interference  
+ Flow capabilities  
+7.3. After assembly test  
+  
+ Each unit (meter and flow limiter) to be water tested/pressure tested (certificate of 
+compliance)  
+7.4. Electronic PCB Controller  
+  
+ It must be IP 68 sealed for maximum durability with user -friendly Software compatible to 
+be installed on Laptop, Palmtop or any other Field Terminal Device upon approval.  
+ The communication of the two devices must be a Full 2 -way communications. This can 
+be achieved  via cable or wireless.  
+ Laptop or field device must have a 6/12 month manufacture on site repair warranty on 
+the software and all hardware related problems. Battery and other power related 
+accessories should have a standardise warranty. Weather res istant covers to be 
+provided by manufacture.  
+ Car chargers to be available and issued as part of the supply (proof of such upon 
+request)  
+7.5. Software and Operating features  
+  
+ The software settings must be able to determine the opening time, closing time & daily 
+limit (all daily allocation quantity limits/ settings are to be specified by client and access 
+to the setting to be limited/ password protected and to be client specified) (by complying 
+with the free basic water for all based on a minimum quantity of potab le water of 25 litres 
+per person per day or 200 litres per day per household in this case) and data logging of 
+water consumption (Records  meter index and event dates).  
+ Any change in setting must require a password by Authorised users, must be store and 
+reflect when data logging.  
+ It must have a memory of at least 4/ 12megabytes to store at least 8000 recording/ 
+hourly recordings.  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    43  The unit must contain a full three – month transaction history of quantity of water 
+delivered (Daily, hourly and monthly consum ption profile for 90 day period). Data to be 
+converted to PDF files for easy access, sharing and default address file storage.  
+ The unit must have a built in real -time clock with daily or monthly limitation Any daily 
+unused limit maybe carried over to next  day’s limit until the end of the month before the 
+next cycle starts, provided that at the end of each month if the user had not exceeded its 
+full allocation it may not be carried over to the next month. Software must be simple to 
+operate and user -friendly .  
+ Easy to use/ fully automated devices for settings can be considered as part of the 
+proposal, approach and methodology. The programmable settings of the unit must be 
+such that it can be configured to a minimum of 4 different types of settings/ values or as 
+per client (The City of Cape Town Authorised person to give the instruction) (200, 350, 
+450, full flow or then programmable as per customer specific needs) These should be 
+set at any given setting by authorised personnel. Other additions to each specifi c 
+software package are to form part of the specifications.  
+ The Software must be made to be compatible with the City of Cape Town’s SAP system 
+for extraction of information and meter audit and water balance.  
+7.6. Training (Theory and practical on -site) 
+ 
+ Supplier  to provide proof of available comprehensive training programme for operational 
+as well as office staff.  
+ Supplier to indicate accreditation process for training.  
+ Supplier to provide a process chart that will indicate the monitoring of training 
+undertaken a nd the criteria for accreditation.  
+ Supplier to provide an understanding of how the training will be offered to the city (how 
+often, to whom and follow ups).  
+7.7. Tamper -proof  
+ A built in safety mechanism for all operating system is required.  
+ When the pulse cabl e has been destroyed or tampered with the device should go into a 
+locked mode, valve closes. Software must then be able to open the valve and setup for 
+normal mode once it has been reported.  
+ This function should is vitally important and should form part of  all reporting mechanism 
+(e.g. AMR radio signals or downloading and data logging).  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    44 7.8. Display Function  
+ 
+ Unit must have a LCD display.  
+ Display to have various setups, e.g. Display daily limit consumption, Time - Date, Battery 
+Life, Tampering Date, Error Code.  Alarm Tampering. Leak Detection Alarm, AMR 
+settings and more.  
+ The unit must have the option of an additional display (reflecting the same information as 
+that which is displayed on the unit in the ground, e.g., water that is still available for the 
+day as the water is being used) that can be easily installed inside the home (proof of this 
+to be provided)  
+ Access/ information display to the home owner must be proposed to archive this 
+function.  
+7.9. AMR feature  
+ 
+ AMR options shall have at least, distance of 0.5km - 1km line -of-sight communication 
+between valve and Field Terminal Device.  
+ Able to change valve settings, download & upload information from valve remotely.  
+7.10.  Battery  
+ 
+ Battery life span must at least be between 4 -10 years in an enclosed waterproof design 
+(supply proof). The battery is to be a 12v DC type or similar. It must be indicated 
+replacement process of battery. It will be preferable not to replace the entire unit  
+The integrated unit inclusive of the water meter must carry an SABS approval 
+(Metrology Cer tification)  
+7.11.  General  
+ 
+ Required information from bidder pertaining to the unit  
+ Historic usage of this same unit within South Africa and within Local Government (proof 
+of this is essential with reference numbers)  
+ SABS (NCRS) Metrological certificate for the u nit as a whole and for the meter 
+individually is essential.  
+ Statistics relating to supply  
+ Display unit for inside the house (reflecting information from the unit in ground)  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    45  ISO Certification 9001 for the manufacturing process of the device itself  
+ Brief wr ite up on company and history of company covering the following:  
+a) Number of employees  
+b) Factory turn over (production history proof to be supplied)  
+c) After sales service and contact details for reference purposes  
+d) Comprehensive Training programme related to the unit and all its functionality  
+e) Facility for training and maintenance within the boundaries of The City of Cape Town  
+7.12.  Software/ hardware  
+ 
+ All software must be upgradable and enabled to be use d as pre -paid.  
+ Handheld device to be suitable for use on site (Prov ide sample thereof)  
+ Handheld devices for downloading purposes,…are there complimentary items 
+included, please indicate  
+  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    46    WATER BRANCH  
+CE-WS27: 1987  
+ 
+CHAPTER 8: STANDARD FOR uPVC PIPES AND PRESSURE BENDS 
+AND CAST -IRON FITTINGS AND SP ECIALS  
+ 
+8. GENERAL  
+8.1. Scope  
+ 
+This standard covers the manufacture of uPVC pipes and pressure bends and cast -iron fittings 
+and specials intended for the conveyance of water.  
+8.2. Definitions  
+ 
+For the purpose of this standard the following definitions shall apply:  
+ 
+ Approved:  approved by the Engineer;  
+ 
+ Contractor:  the person, firm or corporation executing the contract to supply pipes, fittings 
+and specials;  
+ 
+ Council:  the Council of the City of Cape Town;  
+ 
+ Engineer:  the City Engineer or his authorised representative;  
+ 
+ Fitting:  bends, tees, collars;  
+ 
+ Special:  any manipulated or fabricated pipe not being a fitting.  
+ 
+8.3. Supplementary Requirements  
+ 
+Supplementary requirements may be given in the Schedule of Quantities which must be read in 
+conjunction with this standard.  
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    47 8.4. Inspection  
+ 
+ All work done and materials furnished may be inspected by the Engineer during all 
+phases of manufacture and testing, but such inspection shall not relieve the Contractor 
+of his responsibility to furnish material and perform work in accordance w ith this 
+standard.  
+8.5. Materials and Workmanship  
+ 
+ All work shall be done by artisans skilled in their trades.  All materials furnished and all 
+work done shall meet the requirements of this standard.  
+8.6. Drawings  
+ 
+ Drawings shall be either the Engineers drawings or the Contractors drawings approved 
+by the Engineer.  
+8.7. Descriptions of Pipes, Fittings and  SPECIALS  
+8.7.1.  Working Pressure  
+ 
+ The working pressure of all pipes, fittings and specials shall be 1,2 MPa, unless 
+otherwise specified in the Schedule of Quantities.  
+ Pipelines  and Specs including home leadings should be 1:25. See page 63   
+8.8. Pipes  
+ 
+ The pipes shall comply with the requirements of SA NS 966: 1976 Class  12 and shall be in 
+6 m lengths complete with integral socket and rubber ring seal.  
+8.9. Fittings and Specials  
+ 
+ Pressure b ends shall comply with the requirements of SA NS 966: 1976 Class  12. 
+ 
+ Cast-iron fittings and specials shall be cement -lined.  No sheathing is required.  The outer 
+surfaces shall be protected by the use of approved  bitumastic paint.  
+8.10.  Flanges  
+ 
+ Unless otherwise  specified in the Schedule of Quantities, flanges for fittings and specials 
+shall be in  accordance with Table  10.1. Service Guidelines & Standards for Water and Sanitation Department CCT                                                    48 WATER BRANCH  
+CE-WS3: 1994  
+ 
+ 
+ 
+CHAPTER 9: SPECIFICATION FOR SPECIAL STOPCOCKS  
+ 
+ 
+9. GENERAL  
+ The stopcocks shall comply with the requirements of SA NS 226, as amended, Class  1 
+except where it is in conflict with this specification.  
+9.1. End Connections  
+ 
+ The stopcocks shall be provided with either female or compression type end connections 
+as specified in the Schedule.  
+9.2. Spindles  
+ 
+ The st opcocks shall be supplied without crutches and the sizes across the flats of the 
+square ends sha ll be in accordance with Table  11.1: 
+ 
+Table 11.1: Stopcock design specifications  
+ 
+NOMINAL SIZE  
+mm DIAMETER OF SPINDLE  
+mm SIZE ACROSS FLA TS 
+mm 
+15 11,10  8,71 
+20 12,70  8,71 
+25 12,70  8,71 
+32 14,27  8,71 
+40 15,88  12,70  
+50 17,45  12,70  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WATER BRANCH  Service Guidelines & Standards for Water and Sanitation Department CCT                                                    49 CE-WS4: 1994  
+CHAPTER 10: SPECIFICATION FOR DUCTILE IRON SADDLES  
+ 
+10.1. GENERAL  
+The saddles shall be manufacture d in ductile iron in accordance with SA NS 509 (as amended) 
+and shall conform to the dimensions as shown on attached drawing number W4-G-004. 
+The saddles shall be machineable and free from blowholes, pitting, sand or any other injurious 
+defects.  The mallea bility of the complete fitting (bolted together) shall be tested in accordance 
+with SA NS 509 - 7.4. 
+ The saddles shall be suitable for use on Constant Outside Diameter Class  "D" Asbestos 
+Cement Pipe manufactured in accordance with SA NS 1223 or uPVC Class  12 pipe 
+manufactured in accordance with SA NS 966 and shall be designed so as to permit tapping 
+of the water main under pressure with a Talbot or similar tapping machine.  
+ The bolts and nuts shall be of electro -galvanized  mild steel having an ultimate tensile 
+strength size from 15  mm to 40  mm (½ B.S.P. to 1½" B.S.P).  
+ The saddle pieces shall be supplied complete with the base sealing gaskets as detailed and 
+in accordance with SA NS 564 (as amended).  Where required in the Schedule, the saddles 
+shall be drilled to  any size from 15  mm to 40  mm (½ B.S.P. to 1½" B.S.P.).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    50 CHAPTER 11: STANDARD FOR PLUMBING MATERIAL IN LOW COST 
+HOUSING PROJECTS  
+ 
+11.1. General  
+The suitability of plumbing materials in low cost housing units has to be viewed from the 
+perspe ctive of pricing, its water saving capabilities, durability and the risk of it being stolen for its 
+scrap value.  
+ 
+An important item, although not material related, is the location of water meters in low cost 
+housing schemes. Often, where the meter is locat ed on lot, accessibility for reading purposes is 
+compromised when occupants later erect high fences, for security reasons. The best position 
+for the meter is outside the property, in an undercover  location on the footway  or vertically 
+mounted  against the d welling very effective for low coat housing.   
+ 
+11.2. Material  
+It should also be borne in mind that all materials must comply with the relevant SA NS/JASWIC 
+(Joint Acceptance Scheme for Water Installation Components) standards. This is a requirement 
+of our Water Services by -law. However, provision has been made in the by -law for Council to 
+use pipes, fittings and other plumbing components, which are not on the Jaswic list, should this 
+be required in order to evaluate the suitability of new materials for spec ific applications.  
+ 
+11.3. Pipes and piping systems for underground use in the supply of potable 
+water.  
+ 
+An important part in the installation of water pipes in underground locations  is the condition of 
+the soil in which the pipe is to be laid. If it is con taminated with chemical substances, this could 
+affect the durability of the pipe. It would also determine the material of which the pipe is 
+manufactured. Popular piping systems are:  
+11.3.1. Copper  
+ 
+Copper pipe is historically the preferred material in the Cape Town region. It is available in 3 
+classes, namely: class 0, class 1 and class 2. For underground use, only class is allowed, 
+because of its thicker wall. Class 2 pipe is however, much more expensive than the other 2 
+classes. Copper pipe should not be laid in soil that contains ash, salt and chemicals such as 
+ammonia and magnesite. These substances will cause ‘pitting’ of the wall of the pipe.  
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    51 11.3.2. Polypropylene (polycop)  
+      
+This type of ‘plastic’ pipe is very popular for underground use. The Wat er Services Hillstar depot 
+has been using it for the installation of new water connections, ranging in size from 20mm to 
+50mm, since approximately 1992, and it has proven to be very reliable. The brass ‘Conex’ 
+fittings could prove to be expensive, especial ly in the larger sizes. It should not be laid in soil 
+that is contaminated with petrol, oil and a number of other chemicals. These chemicals 
+permeate through the wall of the pipe, resulting in bad taste and smell in the drinking water. In 
+such cases, the o nly solution is to replace the pipe with class 2 copper, since the smell and 
+taste lingers and cannot be eliminated  from the plastic pipe. This condition affects all pipes and 
+fittings manufactured from plastic polymers, and is therefore not only restricte d to polycop 
+piping.   
+ 
+For this reason, in the case of plans approval for a service station, we call for copper pipe to be 
+used in both above ground and underground applications in the forecourt area, where invariably 
+spills of oil/petrol will take place.  
+ 
+It is imperative that only SA NS approved, class 16 polycop pipe is used. It has been found that 
+the lighter class 12 pipe is not so durable.  
+ 
+11.3.3. HDPE (high density polyethylene)  
+ 
+This plastic pipe has also gained popularity for underground use. The ‘ plasson’ fittings are quite 
+bulky. Personal experience has shown that with age, underground leaks tend to be problematic. 
+This is found to be the case, when we have to process rebate claims for underground defects 
+on private properties. It has also been fo und that moles have a special affinity for these pipes, 
+and many an underground leak is due to a hole having been gnawed into the pipe. Chemical 
+contamination in underground use also presents a problem.  
+11.3.4. Other types of ‘plastic’ pipes  
+ 
+There is a ho st of other ‘plastic’ pipes and pipe systems for potable water installation on the 
+market. Of late, these include composite pipes, which combine layers of plastic and Aluminium  
+to form a tube. The problems with many of these systems are that special tools are required to 
+facilitate its installation, and that the fittings are not always readily available. Compatibility 
+between different systems  is also a problem.  
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    52 11.3.5. Galvanised mild steel pipes  
+ 
+It should be noted that in line with our Water services by -law, galvani sed mild steel pipes and 
+fittings are not allowed to convey water supplied from the Municipality’s mains.  
+ 
+This is because our water is only chemically stabilised for copper systems. It is also ‘soft’ and 
+therefore aggressive in nature, and re acts with other metallic pipes, such as galvanised steel 
+and Aluminium . In the case of G.I. pipes, serious encrustation forms on the inside of the pipes, 
+thereby diminishing its bore. This eventually causes poor supply pressures and restricted flows 
+from t erminal fittings.  
+ 
+11.4. Pipes and piping systems for above ground use.  
+ 
+According to the Red Book pipes may have to be above ground due adverse conditions, such 
+as rock. When considering laying pipes above ground, the following factors need to be taken 
+into account:  
+ 
+ Provision should be made for expansion (the effects of thermal changes must be 
+considered).  
+ Each pipe section should be properly supported. The supports should be designed to carry 
+the load of the pipe as well as the water it conveys. Suffici ent support should be included in 
+order to prevent sagging of the pipeline. The pipe should be strapped to the support, leaving 
+room for movement.  
+ Adequate thrust blocks should be designed to cater for hydraulic forces at bends.  
+ Adequate anchoring should b e provided, especially in steep slopes, and directional and 
+elevation changes.  
+ The consequences of pipe failure should be evaluated.  
+ Heavy equipment like valves should be supported independently.  
+ Adequate protection should be provided to cope with external  abrasion.  
+ 
+11.4.1. Material used for piping system above ground  
+ 
+All the previously mentioned pipes, except for galvanised mild steel pipes, can be used in above 
+ground installations.  
+However, in certain applications, additional conditions have to be met.  
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    53 11.4.1.1. Copper  
+ 
+All 3 classes can be used above ground. Class 0 is an extremely hard, thin walled pipe, which 
+should not be formed into ‘labour bends. Because of its hardness, compression fittings should 
+also not be used. Any change of direction in the  piping system, should be achieved by the use 
+of ‘copcal’ capillary soldered fittings. A full range of tee -pieces and bends, of various angles, is 
+provided for this purpose. Class 1 pipe has a thicker wall than class 0, and is in turn thinner 
+walled than c lass 2. Both classes 1 and 2 can be formed into ‘labour’ bends, which reduces the 
+need for a fitting, saves time during installation and gives improved flow.  
+ 
+Brazing (hard soldering) of copper pipes is not allowed. Although copper pipe systems are 
+durabl e and very popular with plumbers, in above ground applications it is prone to theft.  This 
+can be problematic in low cost housing, where we have experienced in certain instances that 
+the occupants of the house have in fact removed brass and copper from the  plumbing system, 
+to be sold as scrap.  
+ 
+In its effort to avoid this type of behavior , the maintenance section of Housing Department is 
+investigating the use of an ‘all plastic’ threaded type of piping system. Copper systems are also 
+more expensive than co mparable plastic pipe installations. Some ‘plastic’ pipes have conditions 
+imposed when used in hot water installations. Others are only compatible with cold water. None 
+of the ‘plastic’ pipes in use at present is approved for use in fire and combined fire/ domestic 
+installations in above ground locations, due to its combustibility. Should a pipe rupture during a 
+fire, it would result in severe pressure loss, rendering the fire -fighting system ineffective. For this 
+reason only copper and black steel piping ca n be used in above ground locations in fire -fighting 
+installations.  
+11.4.2. Taps and Stopcocks  
+ 
+It is noted with concern that all the less expensive chrome plated taps for kitchen sinks and 
+wash hand basins have spouts that cannot accommodate a water savin g aerator. This device is 
+only catered for, on the more expensive models. An in -line flow controller, supplying less than 6 
+litres per minute installed in the supply line to the tap, should solve this problem. This would 
+also conform to the by -law’s requir ement that a basin tap should not discharge more than 6 
+litres per minute.  
+ 
+Ball valves (‘ballostops’) should be used in place of stopcocks, since they are less expensive 
+and also have better flow characteristics . 
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    54 In the case of outside garden taps, a pla stic tap would be most suitable, since it doesn’t 
+represent much in terms of scrap value. ‘Colour Taps’ has such a product on the market, but 
+currently it is not JASWIC approved. Council can permit it to be installed, without JASWIC 
+approval, as per the pr ovision of the by -law, but experience has shown that in normal use as a 
+garden tap, it is not very durable.  
+ 
+Perhaps, better location of a brass garden tap, would prevent theft.  
+11.4.3. Water closet cisterns  
+ 
+There are various models of w/c cisterns on the  market. One of the most suitable for low cost 
+housing, is the 9 litre ‘Shires’ duranite unit. It is available for both “low level” and “high level” 
+applications.  It is extremely rugged in construction and is fitted with a dual flush siphon  valve. 
+This ty pe of flushing mechanism does not cause water to trickle (leak) into the pan when the 
+system is not in use. This problem is normally experienced with the type of flushing valve that 
+employs a flapper rubber to seal off the water at the bottom of the cister n.  
+ 
+This leakage can be a tremendous source of wastage, since it normally carries on around the 
+clock, until it is repaired. This type of wastage would normally go undetected in low cost housing 
+units. Another one of this cistern’s positive features is a plastic float valve with an Aluminium  
+arm. Brass float valve arms are normally removed and sold for its scrap value. The diaphragm 
+fitted to the siphon normally lasts for more than 5 years before a replacement is required. With 
+this type of cistern an exte rnal overflow pipe is installed. Any overflow of water from it due to a 
+defective float valve would be readily discernible , whilst this will not be the case with a ‘flapper’ 
+rubber type valve, which has an internal overflow, as an integral part.  
+11.4.4. Hot water cylinders.  
+ 
+If there were sufficient height for its installation, a copper tank combination (gravity feed) hot 
+water cylinder would be the best option for low cost housing.  
+ 
+This type of cylinder has a float valve, similar to the one installed in t he w/c cistern, and 
+therefore its maintenance is minimal. However, because it is an ‘open to the atmosphere’ 
+system, heat loss is experienced. This results in slightly higher electricity bills. This ‘open’ 
+system places little strain on the inner tank, and  consequently this type of cylinder should last 
+indefinitely. Where the plumbing design cannot accommodate a combination hot water cylinder, 
+a pressurised system will have to be installed.  
+ Service Guidelines & Standards for Water and Sanitation Department CCT                                                    55 The 100, 200 and 400 kPa copper tank  cylinders are the next best options. Some 400 and 600 
+kPa units have galvanised steel inner tanks, and these require a sacrificial anode to protect it 
+against the corrosive effects of the aggressive soft water, being supplied by Council. This anode 
+has to be inspected regularly and r eplaced when this becomes necessary. This operation adds 
+to the maintenance costs of the cylinder. With the copper tank cylinders, this is not required.  
+ 
+The lower delivery pressure of the 100 and 200 kPa copper tank cylinders, also contributes to 
+saving of water, since this equates to lower flow rates at terminal fittings. Both types of 
+pressurised hot water cylinders require a pressure reducing valve, a pressure relief valve 
+(sometimes the two are combined), a temperature and pressure safety valve and 2 vacuum 
+breakers. This increases the installation and maintenance costs, when compared with the 
+combination hot water cylinder.  
+ 
+Due to pressure variations being exerted on the inner tank of a pressurised hot water cylinder, 
+these units normally do not las t as long as a combination hot water cylinder. Galvanised tank 
+cylinders have been known to rupture after only 2 years in service. Brazing can usually repair 
+the copper tank cylinder, whilst a defective galvanised steel tank cylinder will have to be 
+discar ded, if the tank has ruptured.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+WATER BRANCH  
+CE-WS7: 1997  
+ 
+CHAPTER 12: STANDARD SPECIFICATION FOR THE LAYING OF 
+SMALL DIAMETER WATER MAINS (50mm to 380mm Nominal 
+Diameter)  
+  
+12.1. WATER MAINS:  PIPES,  SPECIALS ETC. SUPPL IED BY CONTRACTOR  
+12.1.1. General  
+ 
+The Contractor shall supply all pipes, specials, valves, hydrants, surface boxes, jointing 
+material and all other material necessary for the construction of the water mains and 
+pipework.  
+12.1.2. Jointing Material  
+All pipes, valves and specials shall  be supplied complete with all necessary jointing 
+material, including rubber rings, bolts, nuts, washers, couplings, packing and jointing 
+compound, depending on the type of joint to be supplied.  
+ 
+The cost of supplying all jointing materials shall be deemed  to be included in the price 
+tendered for the pipes, valves and specials in the Schedule of Quantities, unless 
+otherwise specified and scheduled.  
+ 
+Jointing material for flanged joints shall comply with the requirements of SA NS 564, and 
+the Tenderer shall s tate when tendering, the type of material offered.  
+ 
+Rubber joint rings shall comply with SA NS 974: Part 1.  Bolts and nuts for mechanical 
+joints shall comply with SA NS 136. 
+ 
+12.1.3. Flanges  
+ 
+Unless otherwise specified, all flanges shall be drilled off c entre in accordance with 
+Table  7.1 attached hereto.  57 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    57 12.1.4. FC and uPVC Pipes and Specials  
+All saddles shall comply with CE-WS4.  
+Fibre -cement pipes shall comply with the requirements of the Council's Standard 
+Specification CE-WS13.  
+Fibre -cement bends are not permitted.  
+uPVC pipes, fittings and specials shall comply with CE-WS27.  
+12.1.5. Steel Pipes and Specials  
+ 
+Steel pipes and specials shall comply with the requirements of the Council's Standard 
+Specification CE-WS11.  
+12.1.6. CI Pipes and Specials  
+ 
+Cast-iron pipes and specials shall comply with the requirements of the relevant Standard 
+Specification, as follows:  
+Ductile iron pipes and fittings  BS 4772  
+Cast-iron flanged pipes and specials and flanged fittings  BS 2035  
+Cast-iron fittings f or fibre -cement pressure  pipes  SANS 546 
+All cast -iron pipes, specials and fittings shall be protected by coating externally and 
+internally as specified in the Council's Standard Specification CE-WS11.  
+All specials and fittings shall be provided with joints or suitable adaptors to  match the 
+pipes offered.  
+12.1.7. Concrete Sleeve Pipes  
+ 
+All concrete sleeve pipes shall be reinforced, centrifugally spun with Ogee or other 
+approved type ends and shall conform to the requirements of SA NS 677 Class  A. 
+12.1.8. Valves  
+12.1.8.1. General  
+ 
+All valves shall be of sound construction and of approved design and manufacture.  
+All valves shall be coated with an approved protective coating as specified.  
+All valves shall be supplied complete with the necessary adaptors to match the joints on 
+the type o f pipe offered.  58 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    58 All control valves of 300  mm diameter or less shall be of the sluice valve type and all 
+control valves greater than 300  mm diameter shall be of the butterfly type.  
+12.1.8.2. Gate Valves  
+ 
+All gate valves shall comply with the requirements of  the Council's Standard 
+Specification CE-WS15.  
+12.1.8.3. Butterfly Valves  
+ 
+All butterfly valves shall comply with the Council's Standard Specification CE-WS1 . 
+ 
+12.1.8.4. Air Valves  
+ 
+Air valves shall be either single ball or double ball type as specified in  the Schedule and 
+shall comply with the requirements of the Council's Standard Specification CE-WS20 . 
+12.1.8.5. Check Valves  
+ 
+Check valves shall comply with the requirements of CE-WS5 . 
+12.1.9. Fire Hydrants  
+ 
+Hydrants shall conform to the requirements of th e Council's Standard Specification CE-
+WS8.  
+All hydrants shall be supplied with 100  mm diameter flanged steel extension pieces.  
+The lengths of the extension pieces shall be such that the top of the hydrant outlet shall 
+not be more than 400  mm below the top  of the hydrant surface box.  
+The flanges shall be drilled to match the hydrant tees and hydrants, and the extension 
+pieces shall be supplied complete with galvanised steel nuts, bolts and washers and with 
+flange packing.  
+12.1.9. C.I. Surface Boxes  
+C.I. sur face boxes for valve and hydrant chambers shall comply with the requirements of 
+SANS 558 and shall be bitumen coated as specified therein.  
+Types, as detailed in SA NS 558, shall be as follows:  Sluice Valves:  Type  3B unless 
+otherwise specified. Air Valves:   Type  5 or larger as required to suit valve.  Hydrants:  
+Type  5. 59 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    59 12.2. WATER MAINS:  PIPELA YING  
+12.2.1. Handling of Pipes etc.  
+ 
+Proper vehicles, plant, implements, tools, machinery, slings, equipment and other 
+facilities shall be provided and used by the Contractor, to the satisfaction of the 
+Engineer, for the safe and efficient handling of all pipes, specials, valves and fittings.  
+Vehicles shall be driven at a speed which will avoid damage to the material being 
+transported.  
+ 
+All pipes, specials, valves a nd fittings shall be handled with care at all times.  Under no 
+circumstances shall pipes or accessories be dropped or dumped.  
+12.2.2. Laying of Pipes:  General  
+ 
+Immediately before being laid each pipe, valve, special and fitting and all jointing 
+material s hall be thoroughly cleaned and carefully examined both inside and outside for 
+possible damage.  The onus for detecting damage shall be on the Contractor.  
+No water from the trench shall be allowed to enter any pipe, valve, special or fitting.  The 
+Contracto r shall ensure that no dirt, stones or other foreign matter enters or is left in the 
+pipeline.  
+ 
+All valves, specials and fittings shall be correctly set in position and supported as the 
+work proceeds and shall be jointed in the same manner as specified for  pipe jointing.  
+ 
+Pipes shall be laid and jointed singly, and shall fit concentrically bore to bore.  They shall 
+be properly and evenly bedded so that the barrel of the pipe is evenly supported 
+throughout its length on the bottom of the trench.  No weight s hall be carried by the joint.  
+Each pipe shall be firmly bedded before backfilling is commenced.  
+ 
+Where curves are shown on the drawings, the pipes shall be laid to such curves in 
+smooth arcs.  Pipes shall not be deflected in any direction more than the li mits 
+recommended by the manufacturer.  
+ 60 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    60 The pipes shall generally be laid with a cover of 1  m.  To avoid other services the cover 
+may be gradually increased or decreased to a minimum cover of 0,9  m and a maximum 
+cover of 1,2  m.  Steel units manufactured in accordance with CE-WS11  shall be used 
+where it is necessary to cross other services at depths outside these limits.  
+ 
+Any variations in the cover of 0,9  m to 1,2  m shall be brought to the attention of the 
+Engineer and shall have his written approval.  
+ 
+All specials shall be placed in the exact position shown on the drawings and pipes shall 
+be cut as necessary.  
+12.2.3. Laying of pipe:  Bedding, backfilling and compacting  
+The pipes shall be placed directly on an approved trench bottom after this has been 
+hand -trimmed to ensure that the pipe will be supported throughout the length of its 
+barrel.  Joints holes shall be formed in the trench bottom for pipe sockets and couplings.  
+ 
+Where rock or other deleterious matter is encountered, the trench shall be excavated t o 
+a minimum depth of 50  mm below the specified depth and the over -excavation filled with 
+sand, firmly compacted to provide a cushion for the pipe.  
+ 
+The pipes shall be backfilled with material free from vegetation, lumps and stones of 
+diameter exceeding 30  mm or any other deleterious matter.  No lumps or stones or any 
+other deleterious matter shall be placed in the immediate vicinity of the pipe.  
+ 
+The pipe shall be backfill ed with material compacted in 150  mm layers by hand tamping 
+or other approved methods to a minimum height of 300  mm above the crown of the pipe.  
+Care is to be taken when compacting over the pipeline.  The main fill material shall be 
+placed in 300  mm thick layers, prior to compaction and compacted to 93% of Mod. 
+AASHTO for cohesive soils or  100% for non -cohesive soils . 
+12.2.4. Class Designation  
+ 
+All pipes shall be laid so that the letters or figures designating the class of pipe are on 
+top and clearly visible for inspection.  61 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    61 12.2.5. Jointing  
+12.2.5.1. General    
+ 
+The surface of all joints sha ll be thoroughly cleaned before the joint is made and all joints 
+shall be watertight and shall be tested hydraulically as hereinafter specified.  Any joint 
+which leaks or sweats shall be completely dismantled, inspected and remade to the 
+satisfaction of th e Engineer, save that where he considers that the defect is due to 
+insufficient tightness of nuts, the Engineer may permit the defect to be rectified by 
+additional tightening.  
+12.2.5.2. Fibre -Cement and uPVC Pipes  
+ 
+Only approved "push -home" or mechanical t ype couplings shall be used in accordance 
+with the manufacturer's recommendations.  
+12.2.5.3. Joints for Specials, etc.    
+ 
+Only approved "push home" or mechanical type couplings shall be used for jointing to 
+plain -ended specials, valves and hydrants.  
+12.2.5.4. Bolted Joints  
+ 
+All bolted joints shall be made in such a way that all nuts are tightened evenly in 
+sequence round the circumference.  
+12.2.5.5. Protection of Joints  
+ 
+As soon as possible after each joint has been made, and before it is covered up, all 
+joints or fittings with exposed metal shall be externally protected against corrosion in 
+such a manner that the whole fitting has a continuous impervious external covering.  
+ 
+Where mechanical type couplings are used, the entire coupling shall be encased in a 
+cement mortar consisting of 1 part Portland cement to 6 parts of fine aggregate by 
+weight.  The minimum cover to the metal shall be 25  mm and the mortar shall be poured 
+into moulds or diapers supplied by the Contractor to the approval of the Engineer.  
+ 62 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    62 12.2.5.6. Installing Specials  
+ 
+All tees for air valves shall be installed with the flanged branches vertical.  All tees for 
+scour valves and hydrants shall be installed with the flanged branches horizontal.  All 
+other tees shall be installed with the branches  set to conform to the grade of the pipe or 
+special to which they are to be connected.  
+ 
+Bends shall be set to conform to the grade of the pipes or specials to which they are to 
+be connected.  
+12.2.5.7. Installing Valves and Fittings  
+ 
+All valves shall be set  with their spindles vertical unless otherwise required in the 
+Contract Documents or ordered.  
+ 
+All valves and fittings shall be installed in accordance with the manufacturer's 
+instructions.  
+12.2.5.8. Installing Specials  
+ 
+All end caps, bends and tees shall be provided with concrete thrust blocks to prevent 
+movement of the special concerned.  The concrete be Grade 15/40 in accordance with 
+SANS 1200 GA.  
+ 
+All blocks shall conform to the requirements of the Council's standard drawings.  Blocks 
+shall not cover th e adjacent joints.  
+ 
+Where possible, the thrust face of a thrust block shall be cast against solid undisturbed 
+material in the trench walls.  If the trench wall is not vertical it shall be trimmed to a 
+vertical face.  
+ 
+In sandy material which will not stand,  the thrust face of the thrust block shall be vertical 
+and it shall be backfilled with selected material compacted in layers not exceeding 
+150 mm, prior to compaction, to 100% of Mod. AASHTO.  63 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    63 12.2.6. Valve Chambers  
+ 
+All valves shall be enclosed in chambers  conforming to the requirements of the Council's 
+standard drawings.  
+12.2.7. Hydraulic Testing  
+ 
+All pipelines shall be tested hydraulically in sections between valves or as agreed with 
+the Engineer.  The test pressure shall be 1,5 times the working pressure . 
+ 
+No testing shall be carried out until at least 36 hours after the last concrete thrust block 
+has been cast if high -early -strength cement is used, or at least 7 days if standard 
+Portland cement is used.  
+ 
+The pipeline shall be slowly and completely filled  with water and allowed to stand for 
+such time as may be approved by the Engineer to allow for absorption.  The pressure 
+shall then be applied by means of a force pump and shall be maintained for not less than 
+1 hour.  While the pipeline is under hydraulic  test it shall be inspected for leaks, 
+movement or other defects.  Should any defect be found, it shall be repaired or the 
+defective item shall be replaced as ordered and at the Contractor's expense.  The 
+pipeline shall be re -tested after any repairs have been executed or replacement material 
+installed.  
+ 
+The leakage rate shall be measured during the hydraulic test, and shall not exceed a 
+rate of 6 litres per 25  mm nominal pipe diameter per kilometre of pipeline per 24 hours.  
+Should this rate be exceeded, t he Contractor shall locate and repair the leak or leaks.  
+The Council will provide a calibrated meter for measurement of the leakage rate on 
+request.  
+ 
+The apparatus used for hydraulic testing shall be subject to the approval of the Engineer, 
+and shall be f itted with a connection for attaching the Engineer's check gauge.  The 
+Contractor shall provide the necessary force pump, pressure gauge, connections, end 
+caps, tools, etc. required for the testing and shall carry out all tests.  
+ 64 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    64 Water required for hydraul ic testing can be obtained from the nearest convenient Council 
+hydrant at no charge.  A metered standpipe will be provided for this purpose on request.  
+Where no convenient hydrant exists a metered communication pipe from the Council's 
+mains will be provid ed. 
+Where further testing is required, for whatever reason, necessitating filling the mains a 
+second or subsequent time,  the Contractor shall pay for the water supplied at the current 
+miscellaneous tariff rate.   
+12.2.8. Sterilisation of Mains  
+ 
+The Contract or shall properly disinfect the mains to the approval of the Council before 
+they are put into service.  All dirt shall be removed by flushing prior to disinfection in the 
+presence of a Waterworks Superintendent.  
+ 
+When charging the mains with water, a one p iece foam plug (density 28,8  kg/m3,) of 
+approved manufacture, shall be passed through the pipe system to finally clean the 
+pipes.  
+ 
+The sizes to be used are:  
+ 
+for 150  mm diameter mains:  152 mm diameter x 300 long  
+for 100  mm diameter mains:  102 mm diameter x 200 long  
+ 
+other sizes on application to the Senior Superintendent, Distribution.  
+ 
+The cost of these plugs and the work entailed shall be included in the rates tendered for 
+sterilisation.  
+ 
+The Contractor shall consult the Engineer regarding the programme for cleaning with 
+plugs prior to the laying of mains.  
+ 
+ 
+ 65 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    65 12.2.9. Alterations to Existing Mains  
+ 
+The connection of the water reticulation to the existing Council water mains will be 
+undertaken departmentally.  
+ 
+The Contractor is required to lay all water mai ns within the development including the 
+last valve and one length of pipe beyond such valve on each line which is to be 
+connected to an existing Council water main. The Contractor shall ensure that this last 
+length of pipe is clean and ready for connecting  up to the charged mains.  The end shall 
+be temporarily covered with an adequately fixed approved plastic cap supplied by the 
+Contractor.  
+The Contractor, having satisfied the Engineer that he has completed the reticulation, as 
+specified, shall give two wee ks written notice to the Council's Assistant City Engineer 
+(Water) of when the necessary connections to the Council's mains are required.  
+12.2.10. Building -In 
+ 
+Unless otherwise authorised all pipework in concrete shall be built -in as the work 
+proceeds.  
+All pipes, bends, tees, etc., which are to be built -in shall be accurately set and fixed in 
+position and shall  be steel to CE-WS11 . 
+ 
+Before concrete is placed, the Contractor shall check to ensure that the lengths of pipes, 
+specials, etc., and the positions in which they have been placed for concreting, are such 
+that they will fit all subsequent work. The maximum deviation of the direction of the 
+centre -line of the completed pipework shall not be more than 3  mm per metre nor more 
+than a total of 12  mm from ve rtical or horizontal lines or other lines indicated on the 
+drawings.  
+ 
+Where necessary, the Contractor may build -in the pipes, etc., after the main concrete or 
+brickwork has been placed, in which case he shall be responsible for ensuring that the 
+completed work is watertight.  No extra payment shall be made for forming holes in 
+concrete and brickwork or for their subsequent filling if this method of installation is 
+adopted.  
+ 66 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    66 12.2.11. Pipe work in Buildings  
+ 
+The requirements of this specification regarding th e handling, laying, jointing, testing, 
+etc.  of pipes, valves and specials in trenches shall apply mutatis mutandis  to pipework 
+in buildings and other structures.  
+ 
+The Contractor shall ensure that all pipes, valves and specials are accurately placed and 
+secured in position that  pipes are accurately laid to the lines, levels and slopes shown on 
+the drawings and that the completed work presents a neat, accurate and workmanlike 
+appearance.  
+ 
+12.3. COMMUNICATION PIPES (CONNECTIONS)  
+ 
+Licensed plumbers are to be e mployed and the whole of the work is to be executed with 
+materials and workmanship in strict accordance with the requirements of the City of 
+Cape Town Waterworks By -Law Number  1896, as amended.  
+12.3.1. General  
+ 
+The communication pipes (connections), includ ing stopcocks and meter boxes, shall be 
+installed strictly in accordance with the relevant Waterworks standard drawings.  Copper 
+or polypropylene pipe shall be used for the connections and shall be connected to FC of 
+uPVC pipes by means of approved full -way ball valves (or brass ferrules) screwed into 
+saddles.  The saddles shall be clamped to the pipes, and the pipes shall then be drilled 
+and tapped for the insertion of the full -way ball valves (or ferrules).  Only 25  mm and/or 
+40 mm 
+ full-way ball valves shall be used with such adaptors as may be necessary.  
+ 
+The minimum cover over the piping shall be 450  mm. 
+The saddles and full -way ball valves shall be protected against corrosion by encasement 
+in a cement mortar consisting of 1 part Portland cement to 6 p arts of fine aggregate by 
+weight.  The minimum cover to the metal shall be 25  mm and the mortar shall be poured 
+into moulds or diapers supplied by the Contractor to the approval of the Engineer.  
+ 67 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    67 12.3.2. Existing Communication Pipes (Connections)  
+Existing communication pipe shall be disconnected from the existing mains and 
+reconnected to the new mains, the piping being shortened or extended, as necessary.  If 
+so ordered, the whole pipe shall be replaced.   In the case of HDPE fusion welding is 
+possible.  
+Existing communication pipes are to be altered as required on the drawings with the 
+minimum cessation of supply.  The Contractor shall notify the Supervisory Water 
+Inspector at least one working day in advance and provide written notice to all affected 
+partie s of their intentions to interrupt the supply of water stating times and period of 
+discontinuity of supply.  
+12.3.3. Materials Supply  
+Unless otherwise specified or detailed in the Schedule of Quantities, the Contractor shall 
+supply all materials, which shal l all appear on the Council's List of Accepted 
+Components.  
+All saddles shall conform to the Council's Standard Specification for Saddle Pieces CE-
+WS4 . 
+Stopcocks shall comply with the requirements of the Council's Standard Specification 
+CE-WS3 . 
+The Contract or shall ensure that he has an ample supply of all the sizes and types of 
+fittings likely to be needed, so that communication pipes can be installed with the least 
+possible delay and interruption of supply to the consumer.  
+12.3.4. Sterilization  
+If a connec tion is required to be made to a main under pressure, prior arrangements 
+shall be made with the Waterworks Superintendent and the Contractor shall ensure that 
+the material and equipment used is properly sterilized.  
+A Talbot Steripress with Talcol chlorinat ing agent, or similar approved equipment and 
+material, shall be used for making the connection under pressure.  
+12.3.5. Testing  
+Before backfilling is commenced all fire and combined connections shall be tested to a 
+pressure of 2  MPa, and all other connectio ns to a pressure of 1,5  MPa.  This shall also 
+apply to existing communication pipes which have been altered.  Any leaks shall be 
+repaired and the communication pipe shall then be re -tested. All testing shall take place 
+in the presence of the Waterworks Sup erintendent.  68 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    68 WATER BRANCH  
+CE-WS8: 1994  
+CHAPTER 13: STANDARD SPECIFICATION FOR FIRE 
+HYDRANTS  
+13.1. GENERAL  
+ 
+The hydrant shall consist of a 100  mm valve, 90
+  bend, extension piece, adaptor and 
+outlet assembled as shown on drawing  Append ix A:  W4-F-001.  It shall be supplied 
+complete with all necessary jointing material, bolts, nuts, washers, etc.  The inlet flange 
+shall be protected until required for use by means of a wooden blank flange bolted in 
+position.   
+All bolts and nuts shall comp ly with SA NS 136 (as amended) and shall be 
+electro -galvanised.  
+13.1.2. Valve 
+ 
+The valves shall be of sound construction and of approved design and manufacture and 
+shall comply with the requirements of the Council's Standard Specification Number 
+CE-WS15.  
+13.1.3. Bend 
+ 
+The bend shall be manufactured in accordance with drawing number  Appendix A:  W4-F-
+003 and the Council's Standard Specification CE-WS11 . 
+13.1.4. Extension  Piece 
+ 
+The extension piece shall be manufactured in accordance with the Council's Standard  
+Specification CE-WS11  and shall be of 100  mm nominal diameter and 500  mm long.  
+13.1.5. Reducer  Adaptor  
+ 
+The reducer flange shall be manufactured in accordance with drawing  Appendix A : W4-
+F-004 and shall be of mild steel.  69 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    69 13.1.6. Outlet  
+ 
+The outlet shall b e manufactured in accordance with drawing  Appendix : W4-F-005 and 
+shall be of gun -metal.  
+13.1.7. Jointing  Material  
+ 
+Jointing material shall comply with the requirements of SA NS 564 (as amended) and the 
+tenderer shall state the type of material offered.  
+The bolts should be wrapped in dense tape and greased. 70 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    70 CHAPTER  14: DESIGN CRITERIA FOR SIZING THE 
+COMPONENTS OF THE SYSTEM  
+ 
+14.1. WATER DEMAND  
+ 
+The water demand figures adopted for design purposes should be based on a projected 
+value, say 20 years hence. The figures given in the guidelines allow for rising standards 
+of living, and are the actual figures anticipated for the year 2000 based on 2 per cent per 
+annum compounded growth. The water demand figures given apply to townships with 
+flush sanitation.  
+ 
+The wa ter demand figures are given in Appendix F1: Table SW5.1 . Figures for special 
+residential erven of area larger than 2 000 m2 are not given as these large erven occur 
+rarely in new townships. Figures adopted by the designer for such erven should be 
+based on  local conditions.  Where upper and lower limits are given, it is envisaged that 
+the upper limit would generally apply to the high income level township, and the lower 
+limit to the lower income level township. Designers should note that in adopted water 
+demand figures for a specific, cognizance must be taken of local factors such as income 
+level, climate and water charges when interpolating between the upper and lower limits 
+provided in these guidelines.  
+ 
+14.1.1. Hydraulic formulae  
+ 
+For the purpose of calcul ating friction losses in pipelines any of the recognized hydraulic 
+formulae may be used. Friction loss calculations must take into account the long -term 
+conditions of the internal surface of the pipes, and the possible increase in friction loss 
+due to the quality of the water conveyed.  Friction coefficients adopted and the motivation 
+for their choice should accompany the design. Allowance should also be made for losses 
+in specials, fittings and laying imperfections by increasing calculated friction loss by a 
+nominal 7 ½ per cent.  
+ 
+ 
+ 71 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    71 14.1.2. Peak factors  
+ 
+To obtain the residual head in the reticulation at any point it is necessary to balance the 
+network using instantaneous peak flows. The various types of development should first 
+be converted to equivalent er ven (ee) according to the design annual average daily 
+demand accepting as a basis for design that one ee has an annual average daily 
+demand of 1 000 l. Using the ee thus obtained, the peak factor pertaining at any point in 
+the network should be obtained fr om Appendix F: Table SW5.1 . The annual average 
+daily demand multiplied by the peak factor gives the instantaneous peak flow.  
+14.1.3. Fire-fighting requirements  
+ 
+The provision of water for fire -fighting should comply with the requirements as described 
+in SA NS 090 -1972: Code of Practise for Community Protection Against Fire, but with the 
+deviations from the code as provided in Appendix F: Tables SW5.2  to this document.  
+14.1.4. Residual pressures  
+ 
+The reticulation should be designed such that the residual pres sure in the reticulation 
+main at any point is within the limits given in Table 12.1. The residual pressures 
+applicable during fire flow conditions are given in the paragraph above.  
+ 
+Table 12.1: Reticulation Main Limit  
+ 
+Types of dev elopment  Minimum head (under 
+instantaneous peak 
+demand) (m)  Maximum head (under zero 
+flow conditions) (m)  
+Dwelling houses for higher 
+income level  
+Dwelling houses for m iddle 
+income level  
+Dwelling houses for lower 
+income level  
+All development other than 
+dwelling houses for all income 
+levels  24 
+ 
+24 
+ 
+12 
+ 
+24 90 
+ 
+90 
+ 
+90 
+ 
+90 
+ 72 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    72 Plus the height difference between the main and the highest ground level at any point on 
+the erf not exceeding 50 m from the boundary adjacent to the main.  
+14.1.5. Erf connection  
+ 
+The commu nication pipes for erf connections for dwelling houses (Residential zone 1) 
+should be sized according  to Table 13. 1 and Table 13. 2. 
+ 
+Table 13.1: Communication Pipes Across Road  
+ 
+Income level  Minimum actual internal diameter (mm)  
+ Serving two erven  Serving one erf  
+Higher  38 branching to 2 x 19  24 reducing to 19 
+at the erf  
+Middle  38 branching to 2 x 19  24 reducing to 19 
+at the erf  
+Lower  24 branching to 2 x 19  19 
+ 
+Table 14.2: Communication Pipes on Near -Side of Road  
+ 
+Income level  Minimum actual internal diameter (mm)  
+ Serving two erven  Serving one erf  
+Higher  24 branching to 2 x 19  19  
+Middle  24 branching to 2 x 19  19  
+Lower  19 branching to 2 x 19  19 
+ 
+The communication pipe may be reduced to 13 mm m inimum actual interval diameter, 
+provided the minimum head in the reticulation main at the take -off point for the erf 
+connection under instantaneous peak demand is not less than 30 m.  For development 
+other than dwelling units metered individually, the comm unication pipe should  be sized 
+according to the specific demand.  
+ 
+ 
+ 73 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    73 CHAPTER 15: KOSOVO VACUUM SEWER SYSTEM  
+ 
+15.1. SYSTEM DESCRIPTION  
+Unlike conventional gravity systems which depend solely on gravity flows, vacuum 
+sewer systems make use of a combination o f gravity and differential air pressure as the 
+driving force that propels sewage through the sewer network. Vacuum sewer systems 
+consist of three key components,  collective chambers , vacuum sewers and the vacuum 
+station.  
+ 
+ 
+Figure 1: Major components of vacuum sewer systems  
+ 
+As constructed in Kosovo, toilets cubicles at each sanitation block are drained through 
+160mm diameter uPVC pipes to an adjacent vacuum valve pit containing the collection 
+chamber, sensor unit and an interfac e valve. Once a predetermined volume of sewage 
+has accumulated in the collection chamber the pneumatically activated sensor unit 
+prompts the opening of the interface valve which links the collection chamber to the 
+vacuum sewer network. When the interface v alve opens, the sewage, followed by a 
+short burst of air, is sucked into the vacuum sewers. Each input of energy, occurring as 
+the each interface valve along the network opens, further propels the sewage along the 
+vacuum sewer network, consisting of 90 to 160mm diameter pipes, until it reaches the 
+vacuum station where it accumulates in vacuum vessels.  Vacuum pipe 
+work  
+ 
+Collective 
+chambers  Vacuum station  74 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    74 The vacuum station houses the vacuum pumps which generate and maintain the 
+negative pressure in the vacuum vessels and throughout the vacuum sewer network. 
+The sewage that accumulates in the vacuum vessels is evacuated by sewage pumps 
+and is conveyed to a sewer outfall where it joins an existing gravity sewer .  
+ 
+ 
+Figure 2: Typical vacuum sewer system service connection setup.  
+ 
+ 
+ 
+Figu re 3: The Saw Tooth method used for the vacuum sewer lines.  
+ 
+ 
+Figure 4: Collective chamber  75 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    75 15.1.1. Advantages  
+Vacuum sewerage has the advantage of enabling the use of conventional flush toilets 
+without the  need for deep trenches, large diameter sewers, numerous access manholes 
+and the need to always travel in straight lines, as is customary with waterborne 
+sewerage. The use of reduced diameter pipelines and shallow trenches in Kosovo 
+reduced the disruption caused retrofitting a sewer network in the informal settlement by 
+minimizing the number of shacks that had to be moved to allow for construction. Due to 
+the flat gradients, sandy soils and high water -tables in the area, the installation of a 
+conventional g ravity sewer system would have used 160 mm diameter pipes installed at 
+depths of up to 7m and incorporating three lift stations. As a result of the high transport 
+velocities within the vacuum sewers, the risk of sewer blockages is reduced. Major leaks 
+in the system are also immediately evident, as suction is lost in the system, making 
+vacuum sewerage particularly useful in environmentally sensitive area.  
+ 
+ 
+Figure 5: The blocks of toilets used in Kosovo  
+ 
+ 76 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    76 15.1.2. Constraints  
+A dis advantage of vacuum sewerage is that the system’s operation can be disrupted by 
+a disruption in the power supply to the vacuum pump station and carelessness when 
+using the toilets by flushing down foreign objects (e.g. Cutlery, stones, sticks, etc.) 
+result ing in the vacuum pumps not being able to generate the negative pressure 
+required for the system to operate. In addition to this the malfunctioning of an interface 
+valve or sensor unit would result in the toilet units draining to the specific collection 
+chamber being rendered unusable. Any air leaks, originating from either the interface 
+valves or the vacuum sewer lines, will result a loss of pressure thus causing the vacuum 
+pumps to run for extended periods of time  
+ 
+ 
+ 
+Figure 6: A clogged up collective chamber that will normally be sucked clean with a honey 
+sucker in an event like this  
+ 
+Figure 7: A clogged toilet.   
+ 77 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    77 REFERENCES  
+ 
+ 
+CSIR. 2003. Guidelines for human settlement planning and design: The red bo ok 
+Jacobs, H.E., Geustyn, L.C. , Loubser B.F. and van der Merwe B., 2004 . Estimating 
+Residential Water Demand in Southern Africa . Journal of the South African Institute of 
+Civil Engineers , 46(4 ), pp.2 -13. 78 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    78  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX A: FIRE HYDRANTS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  80 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    80 
+ 81 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    81 
+ 
+ 
+ 82 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    82 
+ 83 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    83  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX B: SLUICE GATE VALVES  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 86 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    86 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APPENDIX C: CHECK VALVES  
+ 
+ 88 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    88 
+ 89 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    89  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APPENDIX D: AIR RELEASE VALVES  90 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    90 
+91 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    91   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX E: METER CONNECTION  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 93 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    93  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX F: THRUST BLOCK  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX G: MANHOLE  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 98 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    98  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 100 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    100  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX H: DESIGN SPECS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 101 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 102 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    102  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 103 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    103 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 104 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    104 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 105 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    105 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 106 
+ 
+Service Guidelines & Standards for Water and Sanitation Department CCT                                                    106  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX I: INFORMAL SETTLEMENTS SANITATTION  
+ 

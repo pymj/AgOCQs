@@ -1,0 +1,3 @@
+text,extracted_phrases,cluster,best_similarity_in_cluster,cq_index
+What was the percentage of female smokers among male subjects?,percentage smokers subjects - ,0,0.91091585,3
+What was the relationship between the presence of other comorbidities and severity of the disease?,relationship presence comorbidities severity disease - ,0,0.8822589,21

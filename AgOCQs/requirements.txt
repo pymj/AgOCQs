@@ -14,7 +14,9 @@ datasets==1.0.2
 PyPDF2
 PyPaperBot
 ipython-autotime
-
+matplotlib
+seaborn
+amrlib
 # common runtime deps you were already getting
 scikit-learn
 scipy

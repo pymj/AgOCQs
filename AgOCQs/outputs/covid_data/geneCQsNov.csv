@@ -1,0 +1,59 @@
+|questions|patterns|similar_question|similarity_score
+0|What is the eed for ICU?|What is EC1 for EC2?|What are the best alternatives for the special educational eeds SEN of these learners?|0.7361
+1|What does corticosteroids do in severe cases?|What PC1 EC1 PC1 EC2?|What was the relationship between the presence of other comorbidities and severity of the disease?|0.7454
+2|What does corticosteroids do in severe cases?|What PC1 EC1 PC1 EC2?|What is the severity of symptoms?|0.7436
+3|What does corticosteroids do in severe cases?|What PC1 EC1 PC1 EC2?|What is the severity of the case?|0.7379
+4|What does corticosteroids do in severe cases?|What PC1 EC1 PC1 EC2?|What was the clinical evaluation of the patients included in the present study?|0.7351
+5|What is hypoactivation of the hypothalamic pituitary adrenal axis?|What is EC1 of EC2?|What are the results of this study?|0.7478
+6|What is hypoactivation of the hypothalamic pituitary adrenal axis?|What is EC1 of EC2?|What was the relationship between the presence of other comorbidities and severity of the disease?|0.7475
+7|What is hypoactivation of the hypothalamic pituitary adrenal axis?|What is EC1 of EC2?|What was the most reported manifestation for this study?|0.7427
+8|What was the percentage of female smokers among male subjects?|What was EC1 of EC2 among EC3?|What happened to the females?|0.711
+9|What was the percentage of female smokers among male subjects?|What was EC1 of EC2 among EC3?|What was the sample size of the sample?|0.6638
+10|What was the percentage of female smokers among male subjects?|What was EC1 of EC2 among EC3?|What was the purpose of the sampling?|0.663
+11|What was the percentage of female smokers among male subjects?|What was EC1 of EC2 among EC3?|What was the aim of this study?|0.6619
+12|What is pulmonary fibrosis?|What is EC1?|What was the relationship between the presence of other comorbidities and severity of the disease?|0.7151
+13|What is pulmonary fibrosis?|What is EC1?|What is the severity of the case?|0.7083
+14|What is pulmonary fibrosis?|What is EC1?|What was the most reported manifestation for this study?|0.7079
+15|What is myocarditis?|What is EC1?|?|0.7427
+16|What are the options for workplace chat and file storage?|What are EC1 for EC2 and EC3?|?|0.7498
+17|What are the options for workplace chat and file storage?|What are EC1 for EC2 and EC3?|How might this be implemented in practice?|0.7401
+18|What are the options for workplace chat and file storage?|What are EC1 for EC2 and EC3?|What is the main limitation of the present study?|0.7324
+19|What are the options for workplace chat and file storage?|What are EC1 for EC2 and EC3?|What is the need of the hour?|0.7261
+20|What are the virtual classroom platforms like videoconferencing?|What are EC1 like PC1?|What are the alternatives available for the learners and the educators?|0.7487
+21|What are the virtual classroom platforms like videoconferencing?|What are EC1 like PC1?|What are the education systems trying to continue imparting quality education for all during these difficult times?|0.7348
+22|What are the virtual classroom platforms like videoconferencing?|What are EC1 like PC1?|What are the challenges posed to both educators and the learners?|0.7341
+23|What is the risk of cyberbullying?|What is EC1 of PC1?|What is the severity of the case?|0.7149
+24|What is the risk of cyberbullying?|What is EC1 of PC1?|What has left children vulnerable to online exploitation?|0.7099
+25|What is the risk of cyberbullying?|What is EC1 of PC1?|What are some of the online platforms used so far?|0.7036
+26|What is the risk of cyberbullying?|What is EC1 of PC1?|What are the challenges for educators and the government regarding online education?|0.7004
+27|Why is domestic violence and child abuse on the rise?|Why is EC1 and EC2 on EC3?|How many people lived in their household?|0.7427
+28|Why is domestic violence and child abuse on the rise?|Why is EC1 and EC2 on EC3?|What is the severity of the case?|0.7287
+29|Why is domestic violence and child abuse on the rise?|Why is EC1 and EC2 on EC3?|?|0.7209
+30|Why is domestic violence and child abuse on the rise?|Why is EC1 and EC2 on EC3?|How might this be implemented in practice?|0.7165
+31|What is lym phopenia?|What is EC1?|What was the clinical evaluation of the patients included in the present study?|0.7406
+32|What is lym phopenia?|What is EC1?|What is the mainstay of clinical treatment?|0.7308
+33|What is lym phopenia?|What is EC1?|What is the relationship between several factors and severity of the disease?|0.73
+34|What are the markers of exhaustion on cytotoxic lymphocytes?|What are EC1 of EC2 on EC3?|What is the clinical course of these cytokines?|0.74
+35|What are the markers of exhaustion on cytotoxic lymphocytes?|What are EC1 of EC2 on EC3?|What is an objective marker of the balance between host systemic inflammation and immune response status?|0.7282
+36|What are the markers of exhaustion on cytotoxic lymphocytes?|What are EC1 of EC2 on EC3?|What causes cytokines dysregulation?|0.7233
+37|What are the clinical benefits of eutralizing anti bodies?|What are EC1 of PC1 EC2?|What is the mainstay of clinical treatment?|0.7478
+38|What are the clinical benefits of eutralizing anti bodies?|What are EC1 of PC1 EC2?|What was the clinical evaluation of the patients included in the present study?|0.7255
+39|What are the clinical benefits of eutralizing anti bodies?|What are EC1 of PC1 EC2?|What was the cause of these manifestations?|0.722
+40|What is pulmonary pathology?|What is EC1?|What was the clinical evaluation of the patients included in the present study?|0.7298
+41|What is eutralizing mAbs against?|What PC1 PC1 EC1 against?|What was the most reported manifestation for this study?|0.7479
+42|What is eutralizing mAbs against?|What PC1 PC1 EC1 against?|What did the subjects suffer from?|0.7469
+43|What is a complement inhibitor?|What is EC1?|How might this be implemented in practice?|0.7457
+44|What is a complement inhibitor?|What is EC1?|What was the most reported manifestation for this study?|0.7319
+45|What is a mesenchymal stem cell MSC?|What is EC1 EC2?|What was the aim of this study?|0.7214
+46|What is a mesenchymal stem cell MSC?|What is EC1 EC2?|?|0.7185
+47|What is a mesenchymal stem cell MSC?|What is EC1 EC2?|What are the limitations of this study?|0.7096
+48|What is a mesenchymal stem cell MSC?|What is EC1 EC2?|What are the results of this study?|0.7092
+49|What happened to the pneumonia patients?|What PC1 EC1?|What was the clinical evaluation of the patients included in the present study?|0.7455
+50|What happened to the pneumonia patients?|What PC1 EC1?|What happened to two critically ill patients?|0.745
+51|What is the correlation between OCI and MLR and SII?|What is EC1 between EC2 and EC3 and EC4?|?|0.7383
+52|What is the correlation between OCI and MLR and SII?|What is EC1 between EC2 and EC3 and EC4?|What was considered statistically significant?|0.737
+53|What is the correlation between OCI and MLR and SII?|What is EC1 between EC2 and EC3 and EC4?|What are the results of this study?|0.7345
+54|What was performed using IBM SPSS Statistics for Windows version IBM Japan Tokyo Japan?|What was PC1 EC1 for EC2 EC3 Tokyo Japan?|What is the severity of the case?|0.7191
+55|What was performed using IBM SPSS Statistics for Windows version IBM Japan Tokyo Japan?|What was PC1 EC1 for EC2 EC3 Tokyo Japan?|What was the aim of this study?|0.7077
+56|What was performed using IBM SPSS Statistics for Windows version IBM Japan Tokyo Japan?|What was PC1 EC1 for EC2 EC3 Tokyo Japan?|What are the results of this study?|0.7063
+57|What was performed using IBM SPSS Statistics for Windows version IBM Japan Tokyo Japan?|What was PC1 EC1 for EC2 EC3 Tokyo Japan?|?|0.7059
