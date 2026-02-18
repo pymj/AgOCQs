@@ -1,0 +1,33 @@
+tqdm==4.64.0
+botocore==1.42.18
+s3transfer==0.16.0
+# sentencepiece version fix (Python 3.10 wheels exist)
+sentencepiece==0.2.1
+
+# pandas 1.3.x is not for Python 3.10 -> use 2.x
+pandas==2.3.3
+pyarrow==20.0.0
+# or: pyarrow<21.0.0
+# keep if you really need it (very old, but you had it pinned)
+datasets==1.0.2
+
+PyPDF2
+PyPaperBot
+ipython-autotime
+matplotlib
+seaborn
+amrlib
+# common runtime deps you were already getting
+scikit-learn
+scipy
+torchvision==0.14.1
+sacremoses==0.0.45
+regex
+requests
+packaging
+filelock
+pyyaml
+huggingface-hub==0.12.0
+tensorboard==2.20.0
+peft==0.2.0
+accelerate==0.12.0

@@ -1,0 +1,4351 @@
+Guidelines for the development of water and sanitation infrastructure 9 1 INTRODUCTION 
+Municipalities have a Constitutional responsibility for providing sustainable and viable 
+water services to the communities within their areas of jurisdiction. 
+The purpose of these guidelines is to assist municipalities undertake the development of 
+water and sanitation infrastructure, with a focus on the design aspects of development.  
+Further guidelines are in the process of being developed for Water Services Development 
+Plans, social aspects and operation and maintenance of water services projects. 
+1.1 Purpose of guidelines 
+It is important to note that these guidelines: 
+ARE MERELY INTENDED TO GIVE GUIDANCE TO MUNICIPAL
+OFFICIALS, PLANNERS AND DESIGNERS.
+Are not intended to replace professional expertise and engineering judgement.
+Provide overarching guidance and cannot be used as a replacement for
+specifications.
+Must be used together with recognised standards, codes, and acts such as those of
+the South African Bureau of Standards (SANS Codes), the Water Services Act,
+the National Water Act, and the Occupational Health and Safety Act.
+These guidelines are made available through two media: 
+A CD has been distributed which contains this document as well as a number of
+useful folders. The contents of the folders are listed at the end of this document.
+A downloadable version of the document is also accessible from the web page of
+the Department of Water Affairs and Forestry. The DWAF web page also
+contains the same folders that are included on the CD.Guidelines for the development of water and sanitation infrastructure   10 
+  
+1.2 Definitions of minimum norms and standards  
+ 
+The aim of Water Services projects funded out of government grants is primarily to 
+provide a basic level of water services.  
+ 
+Section 6 of the “Strategic Frame work for Water Services” provides the  minimum 
+technical norms and standards for water services. The Strategic Framework is included in 
+the Legislation and Policy Folder . 
+ 
+The following definitions and minimum standards are given in the Strategic Framework:  
+ 
+Basic water supply facility  is: 
+The infrastructure necessary to supply 25 litres of potable water per person per day 
+supplied within 200 metres of a household and with a minimum flow of 10 litres per 
+minute (in the case of communal water points) or 6 000  litres of potable water supplied 
+per formal connection per month (in the case of yard or house connections).  
+ 
+Basic water supply service  is: 
+The provision of a basic water supply facility, the sustainable operation of the facility 
+(available for at least 350 days per year and not interrupted for more than 48 consecutive 
+hours per incident) and the communication of good water -use, hygiene and related 
+practices.  
+ 
+Basic sanitation facility  is: 
+The infrastructure necessary to provide a sanitation facility whic h is safe, reliable, 
+private, protected from the weather and ventilated, keeps smells to the minimum, is easy 
+to keep clean, minimises the risk of the spread of sanitation -related diseases by 
+facilitating the appropriate control of disease carrying flies a nd pests, and enables safe 
+and appropriate treatment and/or removal of human waste and wastewater in an 
+environmentally sound manner.  
+ 
+Basic sanitation service  is: 
+The provision of a basic sanitation facility which is easily accessible to a household, the 
+sustainable operation of the facility, including the safe removal of human waste and 
+wastewater from the premises where this is appropriate and necessary, and the 
+communication of good sanitation, hygiene and related practices.  
+ 
+Potable water quality  is: 
+Water supplied by water services providers intended to be used for drinking or domestic 
+purposes (potable water) must be of a quality consistent with SANS 241 (Specifications 
+for Drinking Water), as may be amended from time to time.  
+ Guidelines for the development of water and sanitation infrastructure 11 Metering and flow control : 
+All unrestricted water connections must be metered or controlled to a basic level. Where 
+appropriate, water services providers should consider the benefits of offering households 
+controlled flow connections (for example, yard tanks) that can provide a basic supply of 
+water cost-effectively. Where pre-payment meters are installed, these must take into 
+account the free basic water services policy and allow for access to a basic amount of 
+water at zero tariff. 
+Eradication of bucket toilets: 
+The bucket system is an unsuitable and inappropriate level of service. All water services 
+authorities must identify and implement programmes for the eradication of all bucket 
+systems by 2006. 
+1.3 Project development life cycle 
+A typical project development life cycle consists of the following phases: 
+Establishment of institutional arrangements 
+The designated municipality is the water services authority and is responsible for water 
+services provision. The water services authority either contracts with a water services 
+provider or fulfils that function itself. 
+Planning phase 
+The municipality: 
+prepares a Water Services Development Plan (WSDP) as part of its Integrated
+Development Plan (IDP) for the area of jurisdiction of the Water Services
+Authority (WSA);
+undertakes Feasibility Studies for each water or sanitation project identified in the
+WSDP.
+DWAF integrates all WSDPs into a National Reference Framework. 
+Design phase 
+The municipality procures the design consultant who designs the works and prepares the 
+tender documentation or the municipality does it in house. 
+Tender stage 
+Advertising, site inspection, adjudication of tenders received and award of contract. Guidelines for the development of water and sanitation infrastructure   12 
+ Construction phase  
+ 
+Execution of the works in accordance with the tender documentation under supervision  
+ 
+Operations and maintenance  
+ 
+The Water Services Provider operates and maintains the works (with or without the 
+assistance of contractors) and collects the revenue.  
+ 
+The Water Services Authority (WSA) monitors the Water Services Provider (WSP) and 
+manages t he contract that it has with the WSP.  
+ 
+The WSA undertakes an annual water services audit and reports to DWAF who performs 
+the function of Regulator.  
+ 
+ Guidelines for the development of water and sanitation infrastructure   13 
+  
+2 LEGISLATION AND POLI CY 
+ 
+ 
+A number of important statutes and policy documents govern the development and  
+operation of community water supply schemes. Legislation affects all phases of 
+development, and for example stipulates requirements for taking water from the resource, 
+for the planning of water services, how to determine institutional arrangements, and th e 
+requirements for financial and other reporting.  
+ 
+The most important legislation and policy documents governing the development and 
+operation of water services are:  
+ Constitution of the Republic of South Africa, 1996 (Act 108 of 1996)  
+ Water Services Act, 1 997 (Act 108 of 1997)  
+ National Water Act, 1998 (Act 36 of 1998)  
+ Municipal Systems Act, 2000 (Act 32 of 2000)  
+ Municipal Structures Act, 2000 (Act 33 of 2000)  
+ Public Finance Management Act, 1999 (Act 1 of 1999)  
+ Local Government Municipal Finance Management A ct, 2003 (Act 56 of 2003)  
+ Division of Revenue Act -Enacted Annually  
+ Strategic Framework for Water Services, September 2003  
+ White Paper on Sanitation, September 2001  
+ Regulations under S9 of the Water Services Act, 1997  
+ Regulations under S10 of the Water Ser vices Act, 1997  
+ Regulations under S 19 of the Water Services Act, 1997  
+ Model Water Services Bylaws. Section 21(1) of the Water Services Act, 1997  
+ Guidelines For Human Settlements Planning and Design (Red Book). Obtainable 
+from the CSIR.  
+ 
+The full text of t hese documents, with the exception of the Red Book, are included in the 
+Legislation and Policy folder  of the guidelines CD. Most of these documents must be 
+read with Acrobat Reader which is available on the Web  
+ 
+Specific sections of these documents will al so be highlighted in the different sections of 
+the Guidelines.  Guidelines for the development of water and sanitation infrastructure   14 
+  
+3 INSTITUTIONAL ARRANG EMENTS  
+ 
+ 
+3.1 Introduction  
+ 
+The following institutions are responsible for the supply of water and sanitation services:  
+ The Water Services Authority;  
+ The Water Services Provide r (Sometimes a Water Board or bulk water provider); 
+and 
+ The Department of Water Affairs and Forestry as regulator.  
+ 
+Other National Government Departments also fulfil important roles. For example DPLG 
+manages the Municipal Infrastructure Grant and the Equit able Share and the Department 
+of Health has an important function regarding health and hygiene and sanitation.  
+ 
+A Water Services Authority (WSA) is the municipality that has been designated 
+responsibility for ensuring access to water services. The WSA is b oth the owner of the 
+works and is the elected representative of the customers.  
+ 
+A water services provider (WSP) is the person or organization that actually provides 
+water services to consumers or to another water services institution. The WSA can either 
+appoint a WSP, for example another municipality, a water board or a private contractor, 
+or can fulfil the function itself.  
+ 
+3.2 Deciding on and contracting with a water services provider  
+ 
+The WSA should follow the procedure set out in S78 of the Municipal System s Act when 
+deciding whether it should fulfil the WSP function itself or whether it should contract 
+with a separate WSP. A model Terms of Reference for a S78 Assessment has been 
+developed by the Municipal Infrastructure Unit (MIU) which is associated with D BSA. 
+This model Terms of Reference is included in the Institutional Folder.  
+ 
+S19 of the Water Services Act sets out requirements that must be complied with when a 
+WSA contracts with a WSP. The Minister has promulgated regulations under S19 of the 
+Water Ser vices Act which sets out the minimum requirements with which a contract 
+between a WSA and a WSP must comply. These regulations are included in the 
+Legislation and Policy Folder . 
+ 
+Even if the WSA fulfils the WSP function itself, it should account separately  for water 
+services, i.e. it should:  Guidelines for the development of water and sanitation infrastructure   15 
+  keep separate financial accounts of how much was spent on or invested in water 
+services during each financial year;  
+ the revenue it received from the sale of water services;  
+ funds received from National Government and o ther sources that were allocated 
+to water services etc.  
+ 
+Water Services includes both water supply and sanitation services.  
+ 
+3.3 Bylaws and other requirements  
+ 
+S21 of the Water Services Act requires that WSAs must make bylaws which contain 
+conditions for water  services. Model Bylaws that comply with the requirements of S21 of 
+the Water Services Act are included in the Legislative and Policy Folder . 
+ 
+ 
+ Guidelines for the development of water and sanitation infrastructure   16 
+  
+4 PLANNING  
+ 
+ 
+4.1 Introduction  
+ 
+Water and sanitation projects are essentially planned at three levels:  
+ At the nation al level the Department of Water Affairs and Forestry (DWAF) 
+maintains a national reference framework;  
+ At a municipal level each Water Services Authority (WSA) compiles and 
+regularly updates a Water Services Development Plan (WSDP); and  
+ At a project level each WSA undertakes a feasibility study for each project and 
+compiles a technical report.  
+ 
+This hierarchy of plans are discussed below:  
+ 
+4.2 National reference plan  
+ 
+The Department of Water Affairs and Forestry is required to comment on the Water 
+Services Deve lopment Plans (WSDP) of each WSA and to ensure that all current and 
+projected activities are compatible with the national strategies.  To enable a common 
+framework for assessing WSDPs, a National Reference Plan is being developed which 
+will capture the ess ence of each WSDP in one common structure that relates water 
+services planning to the National Water Resource Strategy, Catchment Management 
+Strategies (together with water allocations and licensing), Provincial Strategies and IDPs.  
+ 
+The reference framewor k will cover the following topics:  
+ General (Locality map and Demographics);  
+ Physical & Socio -Economic Development;  
+ Water resource availability, allocation and licensing;  
+ Service Level Development;  
+ Water Resource Development;  
+ Water Conservation & Demand Man agement;  
+ Water Services Infrastructure;  
+ Water Services Authority Institutional Arrangement;  
+ Customer Services;  
+ Financial Profile; and  
+ Project Development.  
+ 
+Municipalities will need to cross reference their plans to the National Reference 
+Framework in order  to integrate their own planning with other developments being 
+undertaken in surrounding areas.  Guidelines for the development of water and sanitation infrastructure   17 
+  
+4.3 Water services development plan  
+ 
+Sections 12 to 18 of the Water Services Act, 1997 requires a Water Services Authority to 
+prepare a Water Services Development  Plan. These sections describe how to develop and 
+adopt a WSDP and sets out the contents of the WSDP.  
+ 
+The Water Services Act, 1997 is included in the Legislation and Policy Folder . 
+ 
+Whilst the WSDP is a legal requirement, the real value of preparing a WSD P lies in the 
+development of a plan whereby the key municipal water services targets are set for a five 
+year period.  
+ 
+The WSDP forms a subset of, and must be aligned to, the municipality’s Integrated 
+Development Plan (IDP).  
+ 
+The Department of Water Affair s and Forestry has prepared a set of Guidelines for 
+preparing a WSDP.  These Guidelines provide basic information about the WSDP, as 
+well as specific information on how to prepare the WSDP.  
+ 
+The DWAF WSDP guidelines are included in the Planning Folder . 
+ 
+4.4 Feasibility studies and technical reports  
+ 
+The aim of Water Services projects funded by municipalities out of government grants is 
+primarily to provide a basic level of services to the poorer residents of the municipality.  
+ 
+Previously, project level business  plans were compiled by municipalities for purposes of 
+project approval and allocation of funds by national government. Under the Municipal 
+Infrastructure Grant (MIG) it is no longer necessary for municipalities to submit business 
+plans to National Governm ent for approval. However municipalities are still required to 
+plan for projects (feasibility studies) and to submit a Water Services Project Technical 
+Report to the appropriate DWAF Office for recommendation before releasing funds for 
+water services proje cts. It is recommended that the same approach be followed for all 
+Water Services projects.  
+ 
+Essentially the Water Services Project Technical Report (Technical Report) comprises a 
+description of the following elements of the project:  
+ Population  
+ Water consum ption  
+ Existing works  
+ Water source  
+ Proposed works  
+ Supply pipelines and pump systems  Guidelines for the development of water and sanitation infrastructure   18 
+  Service reservoirs  
+ Water purification works  
+ Distribution network  
+ Estimated cost of integral parts  
+ Unit cost of water  
+ Viability, acceptability and sustainability of propos ed project  
+ Legal requirements  
+ 
+The format of the “Water Services Project Technical Report” is shown in the table below:  
+ 
+FORMAT OF WATER SERVICES PROJECT TECHNICAL REPORT  
+1.1 Introduction  (a) Name the engineering reports from which 
+the report was compiled.  Relevant letters or 
+notes should be enclosed.  
+ 
+(b) General  
+ 
+A good concise description of the location 
+of the local community or supply area 
+based on its geographical location and 
+main routes serving the area.  The socio -
+economic activities of the communi ty with 
+much emphasis on the development 
+prospects that can be realistically expected 
+of the area as well as the climatic factors 
+and their influence on the water 
+consumption.  
+ 
+(c) General nature and extent of the problem 
+with regard to the water supply.  
+ 
+1.2 Existing works  A concise description of the existing works in 
+which the relevant storage capacities, yield 
+capacities, distances and heights are reflected and 
+preferably it should be further illustrated by means 
+of a site map or a diagrammatic sketch plan.  In 
+respect of the particular component of the works 
+that has to be improved, more detail should be 
+included, whereas more general detail on the 
+remaining elements will suffice although the extent, 
+condition and effectiveness thereof should be 
+indica ted. 
+ 
+Briefly, the extent of the works is as follows:  
+1.2.1  Existing Water 
+source  (a) From own sources, e.g. boreholes, 
+reservoirs and/or abstraction from public Guidelines for the development of water and sanitation infrastructure   19 
+ streams.  
+ 
+General detail, relative location, method of 
+abstraction or supply, existing yield 
+capacity, water rights, etc.  
+ 
+(b) From other sources, e.g. Government water 
+works, common works, or supply by water 
+boards.  
+ 
+1.2.2  Existing Supply 
+pipelines and 
+pump systems  A general description, diameter, length and yield 
+capacity of pipelines and pump units and, where 
+applicable, number of pump units, pump heads, etc.  
+1.2.3  Existing Service 
+reservoirs  Location, volume, condition and expected useful 
+life and adequacy.  
+1.2.4  Existing Water 
+purification 
+works  General dimensions, type of treatment, yield 
+capacity and adequacy.  
+1.2.5  Existing 
+Distribution 
+network   General dimensions, condition and 
+adequacy.   
+ Is total use being metered?   
+ Is every point of supply equipped with a 
+meter?   
+ Is the bulk supply to the different 
+communities being metered?   
+ How i s water supplied to the different 
+communities?   
+ Stand -up taps or indoors?   
+ Is there a water -borne sewerage system in 
+these communities?   
+ Are such improvements being planned for 
+the future and, if so, for when?   
+ How much is the unaccounted water?  
+1.3 Population  An estimate of the population growth over the next 
+25 years in stages of five years, showing the 
+population to be provided out of the existing works 
+and the population to be provided out of the 
+proposed works.  This estimate should be 
+approached cautiously taking into account all 
+pertinent factors, in comparison with the historical 
+growth and accompanying socio -economic 
+circumstances.  Unless there are specific 
+circumstances demanding elucidation, any estimate 
+of the population growth is assumed t o link up with 
+the available census information.  
+ Guidelines for the development of water and sanitation infrastructure   20 
+ Where available the official information for the past 
+25 years for the supply area of the water scheme 
+should be provided.  If the supply area varies from 
+the census area or if the census returns do not 
+correspond with the area's own surveys, the latter 
+figures should also be provided.  If no figures are 
+available a judicial estimate should be made of the 
+present population, based on known items such as 
+number of houses, etc.  
+1.4 Water 
+consumption  The condi tions and particulars of the water 
+consumption over at least the preceding five years 
+should be provided.  In some areas records covering 
+longer periods are available and it is useful to 
+provide this information in such instances.  The 
+projection of the ex pected water needs should be 
+compiled from various parameters that have an 
+effect on the water consumption, e.g.:  
+ 
+(a) Historical water consumption;  
+(b) the unit consumption;  
+(c) population projection;  
+(d) water consumption of the business centre;  
+(e) water consum ption of the industrial area;  
+(f) schools, hostels, old age homes, army 
+complex, etc.;  
+(g) municipal consumption, e.g. irrigation of 
+sports grounds, parks, etc.;  
+(h) unmetered use;  
+(i) losses.  If the losses in a system are higher 
+than say 10%, an accurate  loss analysis 
+ought to be done on the system; and  
+(j) climatic factors.  
+ 
+In item (b) attention should also be given to the 
+expected increase in unit consumption taking place 
+as a result of the improvement in living standards.  
+ 
+The estimates of the future water needs should be 
+calculated in stages of five years over the next 25 
+years, and where applicable the expected peak 
+consumption should also be shown.  An example of 
+a table that can be used in calculating the projected 
+future water consumptions is give n below.  
+1.5 Water source  A general description of the source, in addition to 
+the description given in paragraph 1.2.1 above, 
+indicating the adequacy of the source to meet the Guidelines for the development of water and sanitation infrastructure   21 
+ expected future water consumption.  If the source is 
+a storage dam or if one is  being developed, the 
+basic data of the dam should be furnished, i.e. the 
+assured yield, mean annual runoff, size of 
+catchment area and storage capacity of the dam 
+basin.  If available, information on the silting up 
+should be included.  In respect of boreh oles the 
+dependable yield of the various sources should be 
+provided and for existing boreholes their 
+performance during dry periods should be 
+mentioned.  
+ 
+Where water sources are shared with other 
+consumers, the apportionment, water rights, 
+agreements, perm its, water court orders, servitudes, 
+tariffs, etc. should be fully set out.  
+ 
+Where the water source is being further developed, 
+proper hydrological and/or geohydrological reports 
+should be compiled.  For new schemes the 
+necessary permits, water court order s, servitudes 
+etc. should be obtained.  
+ 
+The quality of the water should be given as well as 
+any process that will be used to treat the water 
+should be commented on.  
+1.6 Proposed works  In the introductory paragraph a concise explanation 
+should be given of the reasons for deciding on the 
+water scheme or works in question.  Where 
+applicable it should be done on the basis of 
+information obtained from an economic study or 
+evaluation of alternatives weighed up against each 
+other.  The reader should be convinced that the 
+proposed works represent the most favourable 
+alternative and that works must indeed now be 
+constructed.  Further phases (say for the next 10 to 
+20 years) should be stated briefly so that a complete 
+view of the future planning may be formed.  
+ 
+Furth er, the individual components of the scheme 
+should be described to provide at least the 
+following information:  
+ 
+(i) Description and dimensions:  
+Volume, yield capacity, diameter, 
+length, pumping head, pump yield Guidelines for the development of water and sanitation infrastructure   22 
+ capacity, pump drive requirement.  
+ 
+(ii) Serviceability of proposed 
+components in respect of the 
+required rendering of service, i.e. to 
+what extent future demands will be 
+met. 
+ 
+(iii) In respect of water feeder systems 
+the peak capacities of the feeder 
+pipes and water purification works 
+should be ment ioned.  As regards 
+distribution systems the maximum 
+and minimum pressures in the 
+network during zero and peak 
+consumption should be furnished.  
+1.7 Integral parts 
+and estimated 
+cost In this paragraph the engineer should give a capital 
+cost estimate of the proposed scheme as accurately 
+as possible.  The term "integral parts" relates to 
+those components of the scheme that can function 
+independently, e.g. pipelines, pumping station, 
+reservoirs, purification works, powerlines, dams, 
+pressure towers, etc.  
+1.8 Operation and 
+maintenance 
+arrangement  It is important that arrangements for the operation 
+and management of the works are dealt with before 
+the project is completed. The designer of the project 
+should provide the operating authority with an 
+operating manual , in advance, in order for it to train 
+or appoint qualified personnel to operate and 
+maintain the project . 
+1.9 Viability  Calculations to show that the operations and 
+maintenance are financially sustainable through a 
+mix of tariff revenue and equitable sha re and other 
+allocations.  
+1.10 Legal 
+Requirements  Legal requirements that need to be complied with 
+including water use licensing and Environmental 
+Impact Assessments.  
+ Guidelines for the development of water and sanitation infrastructure   23 
+  
+ Example of a table for cost estimation:  
+ 
+ITEM  DESCRIPTION  COST (R)  
+1. Concrete res ervoir 1 000 m3 ....................................  
+2. Pumping station  ....................................  
+2.1 Pumping gear 2 x 55 kW x 35 l/s @ 65 
+m ....................................  
+2.2 Pump house (50 m2) ....................................  
+2.3 Electricity supply KVA x L meter  ....................................  
+3. Main supply pipeline (35 l/s)  ....................................  
+3.1 8 000 m x 250 mm dia  ....................................  
+3.2 4 000 m x 200 mm dia  ......................... ...........  
+ Subtotal  __________________  
+ 10% contingencies  ....................................  
+ Professional fees and supervision  ....................................  
+ Subtotal   
+ Total estimated cost  __________________  
+ VAT  ........................ ............  
+ Total cost of scheme  __________________  
+ 
+2. UNIT COST OF WATER  
+ 
+ The total annual expenditure on completed scheme must be calculated in 
+terms of the present cost.  
+ 
+ An example on calculating the unit cost is given below.  
+ 
+EXAMPLE OF A TABLE  THAT CAN BE USED IN CALCULATING THE 
+PROJECTED FUTURE WATER CONSUMPTION  
+ 
+YEAR  HOUSEHOLD  INDUS -
+TRIAL  INSTITUTION 
+SCHOOLS 
+HOSP. ECT.  MUNICIPAL 
+AND 
+LOSSES  TOTAL 
+CONSUMPTION  AVERAGE 
+DAILY 
+PEAK 
+DEMAND  GROWTH 
+RATE  
+ NUMBER  AVERAGE 
+DAILY 
+CONSUMPTION  
+    DAY  YEAR    
+  1/c m3//d m3/d m3/d m3/d m3/d m3/d m3/d %/a 
+           
+           
+ Guidelines for the development of water and sanitation infrastructure   24 
+  
+A. PRECEDING WATER CONSUMPTION (A record of at least the preceding 
+5 years ought to be provided.)  
+ 
+ The actual annual water consumption for the previous 5 years should be 
+shown to  provide an indication of the historical growth rate.  Sometimes these 
+particulars are simply not available.  A grouping of available data of actual 
+water consumption according to group consumption and the determination of 
+actual unit consumption of the va rious population groups, present the 
+possibility to do more accurate projections of future water consumption.  If 
+bulk water meters are not available, summation of sales can be integrated 
+with the general monthly bookkeeping.  With modern accounting equipm ent 
+it can probably be readily integrated.  
+ 
+B. PROJECTION OF FUTURE WATER CONSUMPTION  
+ 
+The method of calculation and assumptions on expected consumption should 
+be motivated and should be compatible with the WSDP.  The Departmental 
+standards indicate the mi nimum standard to which consumption for 
+institutions, etc., should be added.  Some estimates assume larger unit 
+consumptions per capita, whether as a result of gardening, high living 
+standards, climatic conditions or because a separate estimate is not incl uded 
+for schools, hospitals and businesses etc.  
+ 
+The format of this example allows for gradual adjustment of unit 
+consumption which mainly applies where improved services and exalted 
+living standards eg. as a result of future indoors water supply and sewer age.  
+Rainfall and climate information, nature of population composition and the 
+economic activities  (e.g. wet industries) of the community therefore should 
+be elucidated in the report.  Guidelines for the development of water and sanitation infrastructure   25 
+  
+EXAMPLE OF A TABLE TO CALCULATE THE ANNUAL COST:  
+ 
+ITEM  DESCRIPTION  COST (R)  
+1. Interest and redemption   
+1.1 Existing works   
+1.2 Proposed works  
+R x A% p.a. for 25 years   
+2. Maintenance cost   
+2.1    Existing works   
+2.2    Proposed works   
+2.2.1     4% on mechanical equipment to the value 
+of  
+2.2.2     1% on pipelines and powerlines to the 
+value of   
+2.2.3     0,5% on civil works to the value of   
+3. Electricity cost E kWh @ B c/kWh   
+4. Chemicals Z m3 @ C c/m3   
+5. Salaries and wages of operating staff 
+required i.t.o. section 12A of the Water Act   
+6. Administrative cos ts @ RD per point of 
+connection   
+   
+ TOTAL ANNUAL COST   
+ Based on the estimated annual water 
+consumption the unit of water is  x c/m3  
+ 
+NOTES:  
+(A)  Interest rate at time of application for funds.  
+(B)  Cost of electricity per unit.  
+(C)  Cost of chemicals  per m3 (kl).  
+(D)  The actual estimated administrative cost.  
+(E)  Total units estimated to be used.  
+(Z)  Estimated water consumption plus losses.  Guidelines for the development of water and sanitation infrastructure   26 
+  
+5 DESIGN CRITERIA  
+ 
+5.1 Introduction  
+ 
+These planning/design criteria have been determined to provide a basic level  of 
+water supply with some provision has been made for the future upgrading of the 
+supply to higher levels of service. For higher levels of service the Red Book should 
+be used.  
+ 
+Not withstanding the guidelines given in this document, the professional respo nsibility 
+for selecting appropriate planning/design criteria for the specific circumstances remains 
+with the planner or design engineer.  
+ 
+5.2 Summary of design and planning criteria  
+ 
+Recommended planning/design criteria are summarised in the following table:  
+ 
+GENERAL SUMMARY OF BASIC PLANNING AND DESIGN CRITERIA  
+1 Design Horizon:  10 Years from commissioning for pipelines and 
+reticulation.  
+5 - 10 years for all above ground civil works and 
+mechanical and electrical equipment.  
+2 Population:  For Design Horizon as above.  
+3 House occupancy:  6 persons (unless evidence exists to prove 
+otherwise).  
+4 Growth Rate:  
+(up to Design Horizon)  As projected in WSDP or otherwise proved. Could 
+be as low as 0% in some areas.  
+5 Design Water Usage:  60 lcd for all infrastructure com ponents  
+ 
+In cases of restricted groundwater sources, a 
+minimum water usage of 25 lcd is acceptable for 
+pumps, pumping mains and elevated tanks only. 
+Even in cases of restricted groundwater sources 
+reticulation is to be designed for 60 lcd.  
+ 
+6 Design Loss Factors (LF):   i) Water treatment works, LF w = 10%  
+ii) Total conveyance losses, LF r = 10%  
+ 
+7 Gross Average Annual Daily 
+Demand (GAADD):  GAADD = (1 + LF r) * AADD  
+8 Summer Peak Factor:  SPF = 1,2 minimum to 1,5 maximum  
+9 Summer Daily Demand, WATER 
+TREATMEN T WORKS AND SDD ww = SPF * GAADD * (1 + LF w) 
+Design Pumping Period = 20 hrs/day  Guidelines for the development of water and sanitation infrastructure   27 
+ RAW WATER AND CLEAN 
+WATER PUMPS,  (SDD ww): 
+10 Summer Daily Demand, BULK 
+SUPPLY PIPELINES, (SDD pl): SDD pl = SPF * GAADD  
+11 Summer Daily Demand, 
+BOREHOLE PUMPS , (SDD pu) SDD pu = SPF * GAADD  
+Design Pumping Period – See below  
+12 Storage Reservoirs:  
+(Total Storage, i.e. Regional and 
+Village Reservoirs combined, but 
+excluding elevated tank volume)  48 Hrs * AADD Pumped from One Source  
+36 Hrs * AADD Pumped from Multiple Sources  
+24 Hrs *  AADD Gravity Source  
+ 
+Recommended to split volumes roughly equal 
+between Regional and Village storage’s for new 
+reservoirs.  
+ 
+A maximum of 24 hours and a minimum of 16 hours 
+is required at Village storage.  
+ 
+Reinforced concrete structures only acceptable.  
+ 
+Exceptions apply for a groundwater source supply 
+where a ground level storage is inappropriate.  In this 
+case an elevated tank with 16hrs (for 2 or more 
+powered borehole pumps) to 24hrs * AADD (one 
+powered pump only) for 25 lcd is acceptable . 
+13 Elevated Tank/Tower:  
+(Only required to provide 
+reticulation pressures)  4 Hrs * AADD (only for area to be served by tank)  
+ 
+Max. 6 x 10 kl for polyethylene tanks on stands.  
+From 75 kl and greater size use pressed sectional 
+steel tanks on stand.  
+14 Design for pipeli ne flow between 
+Main Storage and Elevated Tank:  2 * GAADD  (Gravity)  
+2 * GAADD  (Pumped:  20hrs/day)  
+15 Design Peak Factor (for 
+Reticulations):  DPF = 2 to 3  
+16 Design Peak Flow Rate (DPFR 
+for Reticulation):  DPFR = DPF * GAADD  
+ 
+Primary reticulation designed  to supply 60 lcd for all 
+erven, but only standpipes and existing erf 
+connections to be provided against project costs.  
+New erf connection piping to be paid for by the new 
+consumer.  
+ 
+ 
+17 Standpipe design:  Flow Rate  DPFR divided by No. of standpipes, sub ject to a 
+minimum of 10 1/min (0,17l/s) per tap  
+ 
+Note:  Standpipe with two taps – flow rate 20 l/min  
+18 Standpipe design:  Spacing  Each household must be within a 200m radius of a 
+Standpipe  
+ 
+Note:  Additional standpipes should be provided if a Guidelines for the development of water and sanitation infrastructure   28 
+ physical ba rrier, such as a river, main highway, 
+railway or long housing block unduly lengthens the 
+walking distance to standpipes.  
+19 Residual Pressures (above GL):  10 m minimum at point of delivery, where possible.  
+ 
+Flow limiters must be installed on stand pipes w hen 
+Residual Pressure are greater than 25 m above GL . 
+ 
+5.3 Water availability  
+ 
+A common cause of scheme failure is the overestimation of the availability of water. Care 
+must be taken that the underlying assumptions of water source availability are proven, 
+especially in the case of ground water and where river abstraction is not controlled by 
+significant upstream storage.  
+ 
+5.4 Power availability and alternative pump drives  
+ 
+It is also important that the availability of a power supply for the project is properly 
+investigated. Installation of long power lines may prove to be very expensive. Dedicated 
+transformer supply points are preferred.  
+ 
+In some instances an economic Eskom power supply may not be available, in which case 
+alternative power sources for driving pumps  must be considered. There are many factors 
+to be considered in these instances and it will be up to the engineer to investigate these 
+factors. Some of the factors to be considered are:  
+ Amount of power required.  
+ Can this be provided by solar means - usuall y for small power requirements.  
+ Can the pumps be directly driven by a diesel engine.  
+ Can a diesel generator be provided in anticipation of later conversion to Eskom 
+power supply.  
+ Are facilities for operation and maintenance of diesel engines available,  
+ The comparable cost of each solution.  
+ 
+5.5 Guidelines for economic optimisation of pump - pipeline sizing  
+ 
+Two or three of the preferred layouts should be compared in terms of cost, technical 
+feasibility, economic viability, social and environmental impacts.  Guidelines for the development of water and sanitation infrastructure   29 
+  
+5.5.1 Economic analyses  
+ 
+At the preliminary design stage, economic analyses will normally only be undertaken for 
+surface water pumping mains. The purpose is to optimise the pump and pipeline sizes by 
+comparing the net present value of alternative configurations.  
+ 
+These analyses are not usually relevant for small village pumping mains from localised 
+boreholes.  
+ 
+Usually the analysis compares net present values over a planning horizon of 30 years.  
+ 
+The recommended criteria to be used for economic analysis of water su pply infrastructure 
+are as follows:  
+ 
+(i) Infrastructure Lifetime:  
+ 
+  Small pumps and motors   15 years  
+  Electric installation    15 years  
+  Structures and buildings   30 years  
+  Pipelines     30 years  
+ 
+(ii) Power Costs:   Eskom Tariff A  
+ 
+(iii) Operation and Ma intenance Costs:  
+ 
+ Pump station:   0,5 % per annum (p.a.) of total pipeline costs  
+    0,25 % p.a. of pump station civil costs  
+    4 % p.a. of pump station mechanical and electrical costs  
+ 
+ Pipeline:   0,5 % p.a. of total costs  
+ 
+ Civil Works:   0.25 % p.a. of total costs  
+ 
+(iv) Discount Rates:  
+ 
+ 8% p.a. or the official Government discount rate as revised from time to time (but 
+sensitivity analysis also done to test for 6 % and 10 %)  
+ 
+5.5.2 Pump and pipe sizing for small borehole schemes  
+ 
+In most cases the boreholes fo r small schemes have yields of less then 5l/sec and only 
+require a pumping main of one to two kilometres to the village storage or reticulation.  Guidelines for the development of water and sanitation infrastructure   30 
+ Typically, pipe diameters are less than 100mm.  Pumps for borehole schemes are also 
+usually small, typically l ess than 10 kW.  
+ 
+Sizing of pipes, and therefore pumps, can normally be made using simple engineering 
+calculations without the need for undertaking optimisation analyses.  
+ 
+Simple guidelines for this type of scheme are:  
+ 
+(i) Pipeline velocities of between 0, 8 and 1,0 m/s generally result in optimised pump 
+and pipeline size.  
+ 
+(ii) For diesel engine powered pumps the optimum pump and pipeline should be 
+governed by the option with the lowest recurrent diesel fuel consumption.  Guidelines for the development of water and sanitation infrastructure   31 
+  
+6 DESIGN REPORT, DRAWI NGS AND 
+SPECIF ICATIONS  
+ 
+6.1 Introduction  
+ 
+This section deals with the design report and the design drawings.  
+ 
+A typical water supply scheme comprises the following components:  
+ 
+ A source, which could be boreholes or a dam or a weir;  
+ A water treatment plans;  
+ A pumps station;  
+ Pipelines;  
+ Reservoirs; and  
+ Consumer connections.  
+ 
+The design of all of these components are discussed in following sections.  
+ 
+A section has also been included on VIP Pit Latrines.  
+ 
+6.2 Design report  
+ 
+Design reports should generally contain the following infor mation:  
+ 
+ Cover page (Region/Province’s name, District Council/Water Services Authority, 
+Consultant’s name, Scheme name, CWSS No. Locality number, File No., Date, 
+and report's status, i.e. draft 1, draft 2 etc.).  
+ Index/Contents page.  
+ Executive summary.  
+ Desc ription of the project. Refer to locality and scheme layout plans, preferably in 
+A3 size.  
+ Historical background – for existing supply.  
+ Statistical data.  
+ Design philosophy.  
+ Water source - to be correctly and thoroughly described as described below.  
+ Design a ssumptions.  
+ Sizing of components/infrastructure (litres per second or m3) - clearly indicate 
+how sized. Peak factors should be motivated.  
+ Discussion of alternatives and choice of preferred solution.  
+ Design standards – SANS, BS, etc. standards used to desig n each component.  Guidelines for the development of water and sanitation infrastructure   32 
+  Special problems and their solution.  
+ Methods of analysis.  
+ Geology.  
+ Foundation treatment.  
+ Diversion.  
+ Instrumentation/ Scheme’s control system.  
+ Quantities.  
+ Costs including fees, contingencies and VAT and indicate schemes budgeted 
+amount.  
+ Programme – bar chart in weeks/months.  
+ Recommendations.  
+ References - White papers, feasibility reports, previous and / or other phases 
+design reports, etc.  
+ Annexures - not greater than A3 size containing a locality plan.  
+ 
+Usually 5 copies of each report will  be required.  
+ 
+An expanded framework for the design report is included in the design folder.  
+ 
+6.3 Sustainability  
+ 
+Sustainability must be designed into the development process. At least the following 
+should be confirmed (preferably in the Design Report) before going out to tender:  
+ Name of the identified WSP;  
+ Budgeted Operation and Maintenance costs;  
+ Amount allocated for basic water supply;  
+ Cost recovery mechanisms and expected revenue;  
+ Other sources of operating funds (such as Equitable share).  
+ 
+6.4 Drawings  
+ 
+Drawin gs should generally comply with the following standards:  
+ All drawing work shall be done on A1, or smaller size sheets with the client’s 
+standard title block. All electrical drawings to be A3.  
+ The drawings remain the property of the Client.  
+ The minimum lett er size is 3mm.  
+ All drawings shall be signed by the employer or his representative.  
+ Alterations to drawings may only be authorised by the employer or his 
+representative.  
+ Index drawing sheets of the complete scheme or part thereof as per type drawing, 
+must  be drawn up giving a list of all drawings with their description and must be 
+subsidised in sections with appropriate section headings. Reference must be made 
+on all drawings to these index drawing numbers.  Guidelines for the development of water and sanitation infrastructure   33 
+  Every project shall have a compilation/ property diagram drawing(s), showing the 
+required expropriation and/or servitude requirements for bulk water pipelines up 
+to the revenue flow meter and associated dimensions.  
+ Cross sections on drawings shall be consecutively numbered for each part of the 
+project. T he number and section as well as the sheet number where the section is 
+shown must be indicated on the drawing where the position of the section is 
+shown, i.e. 49 section number 12 sheet number  
+ Pipeline drawings shall contain a summarised complete profile d rawing(s) 
+indicating the pipeline profile, design and field test pressure lines, pipeline and 
+valves' major characteristics.  
+ Detailed profile drawings shall contain a plan view showing major topographical 
+features, property boundaries and all other items a s per DWS 1110 clause 4.1 (See 
+Design Folder for Standard Specifications).  
+ Drawings prepared by the Consulting Engineer must bear a partners or directors 
+signature.  
+ Drawings prepared by the Contractor must be thoroughly checked by the 
+Consulting Engineer w ith particular regard to compatibility with proposed, 
+adjoining or existing works.  
+ Manufacturers’ drawings shall be supplied as specified in mechanical contracts 
+and wiring and circuit diagrams shall be supplied as specified in electrical 
+contracts.  
+ Where civil works are based on plant layout drawings prepared by the 
+mechanical/electrical contractor, the drawings shall be formally approved by the 
+mechanical/electrical representative of the employer, after which the layout may 
+not be altered without repeatin g the procedure.  
+ On completion of the works the original drawings must be updated to the “AS 
+BUILT” condition, clearly marked "AS BUILT” and all drawings returned to the 
+employer or his representative for safekeeping in a format as specified. The 
+original will be returned to the Consulting Engineer for his records. Submitted not 
+later than 3 months after completion of the project.  
+ 
+Approval of the specification or drawing shall not absolve the Consulting Engineer of any 
+responsibility.  
+ 
+6.5 Standard drawings  
+ 
+A number of standard drawings are included in the Drawings Folder . CAD software is 
+required to read these drawings.  
+ 
+6.6 Special drawing requirements and operating and maintenance manuals  
+ 
+Special requirements for drawings for tendering, manufacturing, and cons truction of a 
+mechanical/electrical nature and special requirements for mechanical and electrical 
+operating and maintenance manuals are included in the  Design Folder . Guidelines for the development of water and sanitation infrastructure   34 
+  
+6.7 Design specifications  
+ 
+The following DWAF specifications are relevant to the design of C ommunity Water 
+Supply Schemes and are included in the Specifications Folder . DWAF gives its approval 
+to any municipality or water board to use or adapt, for their own purposes, any of these 
+specifications:  
+ 
+NUMBER  DESCRIPTION  
+DWS 0510  Drilling and groutin g 
+DWS 0750  Water retaining concrete  
+DWS 1110  Construction of pipelines  
+DWS 1130  Design, manufacture and supply of steel pipes  
+DWS 1131  Lining and coating of steel pipes and specials  
+DWS 1140  Design, manufacture and supply of asbestos -cement pressure p ipes 
+and joints  
+DWS 1150  Glass reinforced plastics (GRP) pipes and joints for use for water 
+supply  
+DWS1160  Design, manufacture, supply, and installation of Polyvinyl Chloride 
+(PVC) Pressure Pipes and fittings  
+DWS 1710  Bricklaying  
+DWS 1720  Plasterer, ti ler, and floorer  
+DWS 1730  Glazing and painting  
+DWS 1740  Plumbing  
+DWS 1810  Specialist services  
+DWS 1910  Supply, delivery, installation and commissioning of mechanical and 
+electrical equipment for a bio -filter plant  
+DWS 1930  Supply, installation and com missioning of water treatment plant 
+equipment  
+DWS 1940  Design, manufacture, supply, delivery, installation and 
+commissioning of package water treatment plant  
+DWS 1950  Supply, installation and commissioning of a reverse osmosis unit 
+for the desalination o f mineralised water  
+DWS 2010  Boundary fencing  
+DWS 2410  Landscaping  
+DWS 2510  Valves (set of specifications)  
+DWS 9900  Corrosion protection (set of specifications)  
+DWS GTE  General Technical Specifications (Electrical)  Guidelines for the development of water and sanitation infrastructure   35 
+  
+7 BOREHOLES  
+ 
+7.1 Borehole development s teps 
+ 
+The establishment of potable groundwater sources for community water supply entails 
+hydrogeological related investigations and the drilling and test pumping of existing and 
+new boreholes.  
+ 
+It is a requirement that the establishment of potable ground water sources should be 
+executed under the controlled supervision of qualified and suitably experienced 
+hydrogeologists, (geologists, geophysicists and hydrogeological technicians).  
+ 
+The hydrogeological services required during project implementation are as follows:  
+ 
+ Assessment of existing groundwater sources.  This may require the test pumping 
+of existing boreholes, rehabilitation or re -drilling of boreholes, chemical analysis 
+of water samples from existing boreholes and an examination of documentation 
+relating to the reliability and sustained discharge rate of existing boreholes.  
+ 
+ Groundwater quality assessment.   In areas with marginal water quality, testing 
+of newly drilled boreholes or equipped existing boreholes should not commence 
+prior to availabilit y of chemical analysis results of TDS, NO 3 and F.  
+ 
+ Borehole siting.  The hydrogeologist is responsible for ensuring that appropriate 
+scientifically based methods are used to identify suitable drilling targets (sites) in 
+accordance with hydrogeological condi tions for exploration drilling. In order to 
+ensure safe working conditions and to limit the risk of pollution entering the 
+groundwater abstraction facility, borehole sites are also affected by the existence 
+of manmade structures such as roads, pipelines, c emetries, sewage plants, 
+overhead powerlines, buildings, etc.  
+ 
+ Supervision of borehole drilling and administration of drilling contracts.  The 
+hydrogeologist is responsible to ensure that boreholes are drilled, designed and 
+constructed to the required stand ards by controlled and on site supervision of 
+drilling rigs. One supervisor is to supervise at least two drilling rigs up to a 
+maximum of three drilling rigs.  
+ 
+ Supervision of borehole test pumping and administration of testing contracts . 
+The hydrogeologis t is responsible to ensure that the required and appropriate 
+calibration, multi -rate draw -down, constant discharge, and related recovery tests 
+are conducted to the required standards by on site and controlled supervision of 
+testing contractors.  Guidelines for the development of water and sanitation infrastructure   36 
+  
+ Borehole yield recommendations.  Motorized borehole pumps are generally 
+warranted only in instances where a discharge rate in excess of 0,5l/s can be 
+maintained for a continuous pumping period of eight hours or more per day. 
+Borehole yields must always be determined  on the basis of 24 hour per day 
+pumping.  
+ 
+ Reporting.  A technical report documenting all data and information is required 
+on completion of investigations. The project hydrogeologist is required to ensure 
+that data requirements from the hydrogeologist and c ontractors are documented 
+on appropriate data recording forms and submitted to DWAF.  
+ 
+ Borehole development.  This comprises the removal of drilling fines from the 
+aquifer pores, removal of drilling foam/mud and establishing a reverse filter 
+around the bore hole aquifer interface. Duration of development can vary from a 
+couple of hours (formation stabilizer, hard rock formations) to several days 
+(unconsolidated fine sandy aquifers). Boreholes must also be disinfected or 
+sterilized of any bacteria, and particu larly coliform bacteria, intruded into the 
+borehole during drilling operations.  
+ 
+ Borehole Protection and Marking . The borehole is protected from foreign 
+material by means of a lockable cap fitted to the borehole collar. The borehole 
+should be marked with a  pole (5 meters to the north of the borehole) of 
+approximately 2,0 m high with a number plate, showing the borehole 
+identification number.  
+ 
+ Borehole pump testing.  The pump testing contractor is required to test newly 
+drilled boreholes which have not yet be en equipped and existing boreholes which 
+may or may not already be equipped with pumping installations. The type of 
+borehole test methods required include:  
+Slug Test  
+Calibration Discharge Test  
+Stepped Discharge Test  
+Constant Discharge Test  
+Recovery Test  
+ 
+ Monitoring the resource.  The geohydrologist must develop a monitoring system 
+for at least one full hydrological year to evaluate the resource response to the safe 
+yield abstraction rate. After this period the monitoring program should be re -
+assessed and pla nned according to prevailing climatic conditions.  
+ 
+7.2 Borehole pumps  
+ 
+The pump specified must not be capable of exceeding the safe yield of the borehole when 
+utilized over a 24 hour period.  Guidelines for the development of water and sanitation infrastructure   37 
+  
+The rest and pumping water levels in a borehole may vary considerab ly during drought 
+and above average rainfall sequences. Choice of type of borehole pumping plant must 
+take this into account.  
+ 
+The selection of the particular pumping unit must also take into account the following 
+factors:  
+ The static head between the lowes t drawdown level anticipated in the borehole 
+and the delivery point at the borehole top.  
+ The friction generated in this length of rising main given due attention to the 
+presence of any operating rods within the rising main.  
+ The static and friction heads fr om the top of the borehole to the top water level of 
+the delivery point.  
+ The ability of the pumping plant to commence operation under the full static head 
+conditions of the pump unit.  
+ The ability of the pump to start operation with the riser pipe empty.  
+ The level at which the pumping unit has to be placed in the borehole must be as 
+specified by the hydrogeologist or based on reliable information known to the 
+engineer should a hydrogeologist not be available.  
+ 
+Borehole pumps can be powered by means of line s upply electricity, solar power, or 
+diesel power. It is generally not acceptable to provide motorised borehole pumps in 
+boreholes yielding less that 0,5 litres per second.  
+ 
+7.3 Borehole monitoring and other equipment  
+ 
+All boreholes and borehole pumping plant mu st be provided with equipment to monitor 
+pump, borehole and aquifer performance. The main components required are:  
+ Water meters  
+ Hour meters  
+ Water level depth measuring devices –a conduit pipe (20 -25mm diameter) next to 
+the riser in the borehole through whi ch a measuring cable can be lowered is 
+preferred, however an electrical transducer or pressure pipe is an alternative.  
+ Operational equipment  
+ 
+The following operational equipment is required:  
+ Non return valve, to prevent backflow into borehole.  
+ Isolating va lve, to prevent backflow into the borehole. Only allowed for positive 
+displacement pumps if a pressure relief valve is installed upstream of the valve.  
+ Scour valve.  
+ Valves placed to enable removal/replacement of meter in exceptional 
+circumstances.  
+ Pressure  release valve upstream of all isolating valves.  Guidelines for the development of water and sanitation infrastructure   38 
+  Pressure cut out switch with manual control and pressure cut out switch with 1 to 
+2 hour timed reset in auto control (if electrically operated).  
+ Delivery pressure gauge.  
+ Low water level in borehole cut out r elay with manual control and low water level 
+in borehole cut out relay with 1 to 2 hr. timed reset in auto control (if electrically 
+operated).  Guidelines for the development of water and sanitation infrastructure   39 
+  
+8 DAMS AND WEIRS  
+ 
+ 
+8.1 Dams  
+ 
+In some cases dams will be required to store surface runoff and to provide the bulk wate r 
+supply source.  
+ 
+The size of the dam is dependent on the water demand, the required assurance of 
+delivery, the hydrological characteristics of the river, and the characteristics of the dam 
+basin.  
+ 
+The type of dam to be constructed will, amongst others, de pend on site configuration 
+(topography), foundation conditions and the availability of suitable construction 
+materials.  
+ 
+8.2 Weirs  
+ 
+Where a dam is used for bulk water storage, and the water is released down the river, it 
+may be necessary to construct a weir at  the point of abstraction. The purpose of the weir 
+is usually to provide limited balancing storage for the bulk releases from the dam.  
+ 
+Weirs can also be constructed to store limited amounts of runoff, or even, by allowing the 
+basin to be filled with alluv ial material, to create a reservoir within the alluvial sand from 
+which water can be abstracted.  
+ 
+In the case of weirs, siltation is a far greater problem than in the case of large or medium 
+sized dams. The outlet works and abstraction points of weirs need  to be kept free of silt.  
+ 
+Weirs, generally being of a limited height and capacity, will also be overtopped by (large) 
+floods. They will therefore need to be constructed of concrete or other non -erodable 
+material.  
+ 
+A site for a weir, where both the riverb ed and the abutments consist of good quality rock 
+is an ideal situation. More usually the weir is founded on rock in the river section and one 
+or both of the abutments will comprise of soft river -bank materials. In this case special 
+measures are required t o prevent outflanking of the structure by (large) floods.  Guidelines for the development of water and sanitation infrastructure   40 
+  
+8.3 Approved professional engineer  
+ 
+Dams are site specific. The Dam Safety Regulations may require that an Approved 
+Professional Engineer (APE) assume responsibility for the design depending on the si te, 
+capacity, and hazard potential of the dam. The classification of a proposed dam is done 
+by the Dam Safety Office of DWAF upon submission of an application listing the 
+pertinent data.  
+ 
+Dams can be categorized into the following categories:  
+ Category I,  
+ Category II, and  
+ Category III.  
+ 
+ 
+The design of weirs should also be undertaken, or supervised, by competent engineers 
+who are conversant with the particular problems associated with these structures.  
+ 
+8.4 Outlet works of dams and weirs  
+ 
+ 
+The outlet works of a t ypical dam comprises the following components:  
+ Outlet works;  
+ Outlet pipe systems  
+ Intake entrance  
+ Control valves for outlet works  
+ Isolating valves  
+ Control valves  
+ Intake isolating gates  
+ Under water wall mounted sluice gates  
+ Maintenance cranes  
+ Screening of i ntake works  
+ 
+The requirements for the outlet works of a typical Class I Dam is described below:  
+ 
+8.4.1 Depth of water draw off  
+ 
+Water drawn from the dam directly to the water treatment works should come from the 
+upper 1,2m layer of the dam.  
+ Guidelines for the development of water and sanitation infrastructure   41 
+ 8.4.2 Outlet pipe systems  
+ 
+Dual system outlets should be provided in order to ensure continuous outlet from the 
+water sources during repair or maintenance of the main outlet.  
+ 
+At the most upstream point of the outlet pipe system, an emergency closure by means of 
+an underwater wall  type spindle driven sluice gates operated by manual actuators may be 
+employed only if the size of the outlet is in excess of 600 mm diameter.  
+ 
+8.4.3 Intake entrance  
+ 
+The most upstream exit from the dam/reservoir should consist of a bellmouth. 
+Maintenance of bel lmouths is practically impossible due to leakage through the isolating 
+gate seals (if gates are employed) and limited working space downstream of such gates. 
+Intake bellmouths and adjacent pipework should thus be fabricated from stainless steel up 
+to the d ownstream isolating valve.  
+ 
+Should the pipework downstream of the isolating valve be built into concrete or buried in 
+earth, this pipework should also be fabricated from stainless steel.  
+ 
+Accessible pipework in any outlet system i.e. pipes which are expose d and are 
+removable, may be fabricated from mild steel and corrosion protected.  
+ 
+HDPE pipework is acceptable for small dams. Reducers and pipework directly adjacent 
+to valves should be of fabricated steel.  
+ 
+The coupling of built -in steel or HDPE pipework s hould be SABS or BSS 4504 flanges 
+only and should be rated according to the hydrostatic pressure of the outlet works. 
+Flanges should normally be used to join built -in pipes. HDPE pipe may not be joined 
+with friction grip couplings. Friction grip couplings are unacceptable in other cases as 
+well except where construction joints occur.  
+ 
+Air supply pipes should be fitted to the outlet bellmouth top and extended to above the 
+high flood level of the dam. The air pipe should be at least 1/6 th of the diameter of the 
+outlet pipe.  
+ 
+8.4.4 Control valves for outlet works  
+ 
+8.4.4.1  Isolating valves  
+ 
+Pipe outlets should be provided with a valve downstream of the pipe entrance to facilitate 
+maintenance of the control valves and downstream pipework. Pipe outlets up to 300 mm 
+in diameter  should be provided with open port resilient seal valve (RSV) type gate valves. Guidelines for the development of water and sanitation infrastructure   42 
+ Rising and non -rising spindles are acceptable. Pipe outlets exceeding 300 mm diameter 
+should be fitted with butterfly valves double flanged or wafer type having horizontal 
+spindles only so as not to be affected by silt build -up on the bottom of the pipe. For small 
+dams and weirs, manual actuation can be specified for all isolating valves. Manual 
+operation is to be provided as far as possible due to the low cost and lower mainten ance. 
+Larger valves may be fitted with manually operated gearboxes to limit operating forces 
+on the hand wheels or levers to 100 kN.  
+ 
+Isolating valves should all be situated in fully accessible boxed -out chambers having 
+suitable drainage facilities.  
+ 
+Valv es situated in chambers less than 1,8 m deep should be provided with extension 
+spindles, which are operable from the deck of the chamber.  
+ 
+Valves in chambers more than 1,8m deep should be accessible via vertically mounted 
+access ladders.  
+ 
+All isolating val ves should be removable by means of either approved flange adapters or 
+in line pipe couplings situated directly downstream of such valves.  
+ 
+Supports should be provided under pipework at either side of dismantling couplings, 
+excepting in cases where such co uplings are converted to thrust absorbing couplings by 
+means of studs and thrust collars.  
+ 
+8.4.4.2  Control valves  
+ 
+Control valves are to be situated at the end of outlet works pipelines to facilitate 
+controlled flow outlet from the dam.  
+ 
+resilient seal valve (RSV)   type gate valves are acceptable control valves for small dams 
+and shall as far as possible be manually operated.  
+ 
+In cases of free discharge into rivers, adequate protection must be given to the 
+environment in the immediate vicinity of the valve to preve nt erosion.  
+ 
+8.4.4.3  Control valves - needle type  
+ 
+Only in extreme instances where low head loss is important should in -line needle valves 
+be used for controlled water outlet from the dam or weir.  
+ 
+Since needle valves are mounted in the pipeline, their energy diss ipating qualities are not 
+as effective as sleeve valves. It is thus advisable to either provide the pipe exit 
+downstream of the valve with a flared disperser, which is to be shaped to cause a 
+hydraulic jump or alternatively the exit should disperse into a stilling chamber.  Guidelines for the development of water and sanitation infrastructure   43 
+  
+Needle valves should be operated manually in the case of low head dams (12 meters 
+maximum). It is essential to have a mechanical position indication in 10% increments on 
+the handwheel headstock in order to facilitate accurate water outle t control in accordance 
+with the flow chart provided with the valve.  
+ 
+Acceptable needle valves are more fully described in Standard Specification DWS 2510 -
+1996.  
+ 
+8.4.4.4  Intake isolating gates  
+ 
+Dam outlet works having maintainable horizontally placed outlet pipew ork may be 
+provided with emergency closure gates i.e., gates which are capable of closing under 
+fully unbalanced condition and against high flood conditions (HFL).  
+ 
+Emergency closure is required for unforeseen simultaneous failure of the isolating valve 
+and control valve or a failure in the pipework or pipe couplings downstream of the outlet 
+entrance.  
+ 
+The construction and functioning of wall mounted sluice gates, which have positive 
+spindle drives, are more fully described below.  
+ 
+Dam outlet works having v ertically placed outlets may be isolated by means of a rubber 
+lined steel sphere or tapered plug. These however only serve as service closure 
+mechanisms i.e. to isolate pipe entrances under balanced hydrostatic conditions.  
+ 
+8.4.4.5  Under water wall mounted sluice gates  
+ 
+These gates are generally spindle driven units which are secured in a sealing frame where 
+sufficient movement is provided upwards for the gate to clear the inlet fully open and for 
+the downward stroke to seal off the opening completely.  
+ 
+These gates  are primarily proprietary items provided by private concerns and are 
+provided with either metal to metal sealing qualities or alternatively with rubber to metal 
+seals. Departmental designs for such gates for operation under low head conditions are 
+also av ailable i.e. for water heads in the order of maximum of 6 meters. Wall mounted 
+sluice gates are spindle driven units where the spindle is supported against buckling by 
+means of wall mounted brackets, spaced to suit the design criteria.  
+ 
+Since these gates a re permanently submerged all materials used should be of stainless 
+steel. Exposed sealing frame components built into concrete should be stainless steel 
+grade 316 or 316 L. The gate body should be of at least stainless steel 304 and 304 L. All 
+fasteners sh ould be of stainless steel.  
+ Guidelines for the development of water and sanitation infrastructure   44 
+ Drive spindles should consist of stainless steel 304 or 304 L as well as submerged wall 
+mounted spindle guide brackets. Wall bracket spindle guide sleeves should be of 
+vescolene PP, ultrablack, or vesconite and should be split to facilitate removal of the gate 
+spindle without having to remove the wall bracket in the process.  
+ 
+All fasteners for under water fixing of components to concrete should be of stainless 
+steel.  
+ 
+All fasteners used on the assembly of the gate and sealing fr ame should similarly be of 
+stainless steel.  
+ 
+Operating gear for wall mounted sluice gates should as far as possible be manually 
+operated. The screwed spindle shall be stainless steel and should be driven through a 
+brass nut by means of a handwheel mounted on a headstock. The headstock, which is to 
+be mounted on the concrete deck of the outlet works, may be of mild steel fabrication 
+(galvanised).  
+ 
+Rising spindle designs are essential since experience has proven that submerged drive 
+nuts used on non -rising sp indle designs renders the gate inoperable due to algae and other 
+debri suspended in the water which enters the drive nut thread.  
+ 
+Rising spindle drives should be provided with position indicator in 10% increments from 
+the fully open to fully closed stroke of the gate.  
+ 
+The indicator arrow should be driven by the spindle either within a slot in the headstock 
+or in a column mounted on top of the headstock over the rising spindle. The manual 
+operating force on the handwheel or cranking lever should not exceed 100 kN. Gearboxes 
+may be employed to reduce operating forces to within the given limit. Handwheel 
+diameters should not exceed 600 mm and lever arm radii should not exceed 400 mm.  
+ 
+8.4.5 Maintenance cranes  
+ 
+Affordable maintenance cranes in the form of slewing jib  type, A -frame structures or 
+monorail hoist structures should be provided for the handling i.e. installation and 
+removal, of accessible mechanical components forming part of the outlet works of the 
+dam such as valves and pipework. Removable manually operat ed hoist units should be 
+employed as far as possible, which includes geared chain hoists, pneumatic chain hoists 
+or winches.  All hoist structures should be designed in accordance with BSS 2573, BSS 
+466 and should comply with the requirements of the Occupa tional Health and Safety Act.  
+ 
+Crane structures should provide sufficient approach to enable an operator to offload the 
+equipment from a truck and to install such equipment with ease and visa versa. The 
+structures should be of simple, affordable basic desi gn and fabricated from galvanised 
+mild steel.  
+ Guidelines for the development of water and sanitation infrastructure   45 
+ Fasteners having key functions in the structural strength and stability of the structures 
+should without exception, especially in respect of supporting carriage beams, monorails 
+etc. be of stainless steel. Gea red trolleys having manual drive chains to facilitate long or 
+cross travel should be fitted to the carriage rails/beams. All crawl beams should have 
+removable end stops to prevent over -travel of the trolleys and hoist units. To prevent 
+deterioration of the  hoist units due to outdoor exposure, they should be removed directly 
+after each use and suitably stored for future use as may be required.  
+ 
+To prevent overloading of cranes, the safe working loads should be clearly displayed on 
+the travel beams, hoist tro lley as well as on the hoist or winch unit, example 1,5t SWL. 
+Hoist units and winches as well as travelling trolleys are proprietary items.  
+ 
+Structures especially those of slewing jib cranes should be designed to ensure that 
+minimum maintenance will be req uired and should incorporate self lubricating bronze or 
+plastic bushing and sealed roller ball or thrust bearings. It is however essential to provide 
+sufficient lubricating nipples at all strategic points of moving components.  
+ 
+8.4.6 Screening of intake works  
+ 
+In order to prevent debris from entering the outlet pipes of the dam from the upstream 
+side and thus forming blockage of the isolating and especially the control valves, 
+removable fine screens having clear openings between slats of 20 mm (min) to 25 mm 
+(max ) are to be provided and placed at a distance of 1,5 X pipe outlet diameter 
+(minimum) from the intake pipe entrance. These screens are to be placed upstream of the 
+emergency gate or wall sluice gate in all instances and should either be individually 
+lowere d in guides, one on top of the other by use of either an automatic grapple or by 
+inter-linking the screen elements in cases where more frequent removal is required.  
+ 
+The screen size should be such that the water velocity through the slats does not exceed 
+2m per second.  
+ 
+The total height of the stacked screen units should extend from the very bottom outlet 
+pipe up to at least 500mm above the high flood level (HFL) of the dam or weir.  
+ Guidelines for the development of water and sanitation infrastructure   46 
+  
+9 WATER TREATMENT WORK S 
+ 
+ 
+9.1 General  
+ 
+As with dams, the design of the water t reatment process is a specialist field of expertise 
+and should be done by a suitably trained professional engineer.  
+ 
+Certain broad guidelines can however be given for planning purposes.  
+ 
+9.2 Potable water quality  
+ 
+Potable water should comply with SANS 241.  
+ 
+9.3 Selection of appropriate treatment process  
+ 
+The selection of an appropriate treatment process is essentially determined by:  
+ The raw water quality (physical and chemical).  
+ The prescribed final water quality.  
+ 
+9.4 Recommended loading rates and design parameters fo r water treatment 
+process units  
+ 
+The following loading rates and design parameters can be given as guidelines only and 
+should be tested against actual circumstances:  
+ 
+ Rapid mixing: at least 500mm head loss (mixing in G values, G = 2000-5). 
+ Floculation: 10 min. Retention with a total head loss of about 150mm and G = 
+50s-5 (40 - 80)-5 
+ Horizontal flow settling tanks (in lieu of other flow types) are recommended for 
+turbid raw waters > 200NTUs with manual sludge or hydraulic sludge withdrawal 
+and a maximum load ing rate of 1m3/m2.h. 
+ Direct gravity filtration as secondary solid/liquid phase separation step: filtration 
+rate 5m/h with upstream flow control.  Guidelines for the development of water and sanitation infrastructure   47 
+  
+ Upflow -downflow (series) filtration: only to be constructed when the raw water 
+turbidity rarely exceeds 100N TU (say 5% of the time). Recommended filtration 
+rates are:  
+o Upflow:  5m/h  
+o Downflow:  10m/h  
+ Flotation: recirculation rate of 10% and a loading rate of 6m3/m2.h. 
+ Sludge and wash handling facilities: for design purposes assume that the sludge 
+will thicken to a 1 0% concentration. The sludge dam should be large enough for a 
+planning horizon of 6 to 8 years and space should be available for a second dam.  
+ Production losses through water plant: allow 3% to 5%.  
+ Chlorine contact time: 6% of flow capacity. 6% x 24 = 1,5 hours.  
+ Clear water sump for high lift pumps: 2% of flow capacity.  
+ Sludge disposal to sludge dams.  
+ Design flow capacity of plant to be based on the average daily summer demand 
+plus 5% for production losses.  
+ 
+The sludge from settling (sedimentation) tanks sh ould at least flow to sludge lagoons 
+from where only the supernatant flows to rivers. Reclamation can be considered where 
+water is scarce and supernatant can be used.  
+ 
+9.5 Automation  
+ 
+If a water treatment plant has more than 4 rapid gravity sand filters, the f ilter 
+backwashing sequence may be automated. Other operations, for example chemical dosing 
+and sludge withdrawal will only be automated in plants bigger than 50  000m3/d (579 
+litres per second).  
+ 
+Automation shall be motivated and not governed by hard and f ast rules.  
+ 
+9.6 Structural considerations  
+ 
+It is recommended that all reinforced concrete water retaining structures should be 
+designed to a 0,2mm crack width using 30MPa concrete in accordance with BS8007.  
+ 
+9.7 Accessibility  
+ 
+All units should be easily accessible , and easily removed for repairs. Walkways should be 
+provided to give safe access to all points requiring inspection and to provide logical 
+progression to operators doing inspections. Ease of handling chemicals should receive 
+special attention.  Guidelines for the development of water and sanitation infrastructure   48 
+  
+9.8 Specifica tions  
+ 
+The following specifications are relevant for the design, manufacture, supply, 
+construction, and commissioning of water treatment plants.  
+ 
+Departmental Specification  Description  
+DWS 1930  Supply, installation and commissioning 
+of water treatment pla nt equipment.  
+DWS 1940  Design, manufacture, supply, delivery, 
+installation, and commissioning of 
+package water treatment plant.  
+DWS 1950  Supply, installation, and commissioning 
+of a reverse osmosis unit for the 
+desalination of mineralised water.  
+ 
+These specifications are included in the Specifications Folder . 
+ Guidelines for the development of water and sanitation infrastructure   49 
+  
+10 PUMP STATIONS  
+ 
+ 
+10.1 Introduction  
+ 
+Community water supply schemes are likely to involve the pumping of relatively small 
+quantities of water. Pump stations are often be sited at small purification work s or as 
+booster pump stations along pipelines.  
+ 
+Normally the electrical power supply will be provided by Eskom or the local authority.  
+ 
+10.2 Pump selection  
+ 
+The following steps should be followed to select the correct pump duty:  
+ The system curve, relating to  the hydraulic head lost in the system for different 
+flows, is calculated and plotted as a graph above the required static head. Pump 
+Station losses, including those of all valves in the pumpline, should be included in 
+the calculation of the system curve.  
+ The pump performance curves are then plotted on the same graph. If more than 
+one pump is required then these are added either in series or in parallel, as 
+required. The pump curves will intercept the system curve at the station duty 
+point.  
+ An ideal pump s election will result in each Pump Duty Point falling at or very 
+near to the pump Best Efficiency Point (BEP).  
+ When only one pump in a multi -pump arrangement is operating, the intercept with 
+the system curve will be at a point of reduced head and increased  flow with regard 
+to the chosen Pump Duty Point.  Care should be taken that the motor is not 
+overloaded under the one pump condition, and that a margin of at least 15% in 
+excess of what the pump will demand is ensured under the worst possible 
+operating con dition.  
+ Guidelines for the development of water and sanitation infrastructure   50 
+  
+10.3 Pump standby capacity  
+ 
+For Surface Water Pump Stations:  
+ 100% standby capacity for single pumps  
+ 33% minimum standby acceptable for larger pump sets.  
+ 
+For Borehole Pump Stations:  
+ No standby pump capacity is required, but a minimum of 2 boreholes m ust be 
+equipped for a village.  
+ 
+10.4 Power requirements for pumps  
+ 
+The power supplied to a pump must equal the total power required for the duty as 
+calculated above with an allowance for pump and motor efficiency, and in addition the 
+following factors must be a dded:  
+For Motors > 25 kW:  Add 10% to power requirement  
+For Motors < 25 kW:  Add 25% to power requirement  
+ 
+10.5 Pump control  
+ 
+Centrifugal pumps should be started and stopped against a closed valve.  
+ 
+All controls should be designed to operate "fail safe".  
+ 
+All pumps should be provided with emergency stops adjacent to the pump.  
+ 
+Pumps may be controlled manually, by means of downstream pressure (reservoir 
+pressure) or by means of telemetry. The following rules apply:  
+ 
+MANUAL Pump Control:  
+ Top Open Inlet to Storage  or Combined Bottom Inlet/Outlet.  
+ Manual or Timer Control for starting and stopping of pumps.  
+ Manual override switch for starting and stopping of pumps.  
+ 
+PRESSURE Pump Control:  
+ Top or Bottom inlet to storage.  
+ Float Level Control.  
+ High Pressure Cut -Out swit ch for pumps – must always switch off pumps, even 
+when on manual.  
+ Time delay restart for pumps (minimum 30 mins.)  
+ Manual override switch for starting and stopping of pumps.  
+ Guidelines for the development of water and sanitation infrastructure   51 
+ TELEMETRY Pump Control:  
+ Top Open Inlet to Storage or Combined Bottom Inlet/Outlet  
+ Automatic Telemetry Cut -In and Cut -Out Level Control for pumps.   
+ Settings for Cut -In levels:  
+ Reservoirs:   4 hr x GAADD below TWL  
+ Elev. Tanks:   1 hr x GAADD below TWL  
+ Minimum distance of 150 mm, in all cases, between cut -in and cut -out levels.  
+ Manual ove rride switch for starting and stopping of pumps.  
+ 
+10.6 Pump station building  
+ 
+The suggested requirements for a pump station building are as follows:  
+ 
+ Pump station floor level: determined in conjunction with the minimum N.P.S.H. 
+(net positive suction height) of the pumps. The effect of surge in the suction 
+pipeline and manifold should also be checked for pump start -up and trip 
+conditions.  
+ Top of the pump well should not be below the 1:50 year flood level for pump 
+stations built along a river. This can be raised t o say 1:100 year flood level if the 
+pump station is downstream of a dam wall. If the pump station is built upstream 
+of a dam wall then the motor floor must at least be 2,0 m above the 1:100 year or 
+the high flood level, whichever is the greater.  
+ The pump s tation should be accessible during all weather conditions.  
+ The protective fencing must be designed in accordance with the protection 
+requirements of the area, usually barbed wire spaced at 100mm intervals with 
+razor -cut flat coils fencing materials.  
+ Storm water to be drained away from the pump station during the construction and 
+operation phase.  
+ Corrosivity of the soils surrounding the pump station concrete structure should be 
+investigated.  
+ Pump wells should be anchored to prevent flotation.  
+ Light fittings must be vandal proof. Light bulbs must be easily changed. 
+Fluorescent lighting is acceptable. Security lighting to be provided with daylight 
+switches. High masts to be furnished with lightning down conductors.  
+ Generally no external windows will be allowed.  Fixed and sturdy ventilated 
+louvers with insect screens must be provided instead.  
+ Facilities (crawl beam and loading bay) for the safe removal of the pumps and 
+motors should be provided where the weight of the equipment is such that it 
+cannot be manhandle d. 
+ The loading bay entrance doors should preferably be of the roller shutter type 
+(rugged design).  
+ Normally steel roofs should be used. Reinforced concrete roofs could be three 
+times as expensive as steel roofs. Timber should not be used.  
+ The following st air dimensions are suggested:  Guidelines for the development of water and sanitation infrastructure   52 
+ Risers:  160 to 178 mm high  
+Treads: 265 to 300 mm long  
+ Off shutter concrete finished areas i.e. pump well walls, concrete columns, etc., 
+should generally not be painted.  
+ Hot dip galvanised treatment  
+All internal handrails, stee l cat ladders, steel stairways and eggrate flooring.  
+Steel windows, doors and door farms.  
+Roller shutter doors.  
+ Structural steelwork to be protected and painted as per SANS 1200 HC.  
+ Generally vinyl tiles on floors except loading bay, workshops, store room s and 
+very low traffic areas around and in pump well which should be concrete wood 
+screed.  
+ 
+NOTE:  Many of the pump station guidelines are also applicable to the design of 
+water treatment work structures and reservoirs.  
+ 
+10.7 Pumpline components  
+ 
+10.7.1  Baseplates  
+ 
+Pumpset baseplates should be machined and must be adequately anchored and grouted to 
+robust concrete plinths. Pumpset and pipework out -of-balance thrust loads must be 
+adequately restrained by concrete or steel supports and pipework must be supported to the 
+floor or walls within the pump station.  
+ 
+Pumps and motors should be located by dowels, once aligned.  
+ 
+10.7.2  Pumps  
+ 
+Suitable pumps are:  
+ single stage end -suction or horizontal split,  
+ multi stage, horizontal, for treated water (not recommended for raw water owing 
+to excessive wear on balancing disc),  
+ single or multi stage vertical in raw water wet -well application (product -
+lubricated with thrust bearing outside the flow tube), or  
+ progressive cavity pumps.  
+ 
+10.7.3  Pump coupling  
+ 
+Belt drives are unacceptable for electrically d riven pumps.  
+ Guidelines for the development of water and sanitation infrastructure   53 
+ 10.7.4  Pump components  
+ 
+Impellers or rotors should be either a zinc -free bronze or stainless steel.  
+Cast iron impellers are not acceptable.  
+Impellers and pump casings should be fitted with renewable bronze or stainless steel 
+wearing neck -rings.  
+ 
+Pump testing should be to BS 5316 part 2 class B undertaken at an acceptable test 
+facility, e.g. SABS or at the pump manufacturer if test facilities meet with the standards.  
+ 
+10.7.5  Motors  
+ 
+Limited to motors of 185kW (400V).  
+ 
+Motors should be (TEFC.) Totally Enclos ed Fan Cooled( 1C 0141) with cast iron body 
+and should be 3 phase 400V induction type . 
+ 
+10.7.6  Pumpset speed  
+ 
+Pumpset speed should not be greater than 1 480 rpm (4 - pole).  
+2-pole motors ± 2 800 rpm are only acceptable under exceptional circumstances.  
+ 
+10.7.7  Switchgear  enclosures:  
+ 
+All switchgear and control panel enclosures should be rated IP54.  
+ 
+10.7.8  Valves  
+ 
+See DWS Standard 2510 in Specifications Folder . 
+ 
+Isolating valves:  
+ 
+Double flange gate valves should be specified (resilient seal valves up to 1,6Mpa).  
+ 
+Isolating valv es at both pump suction and pump delivery should be hand operated and 
+double -flanged to permit stripping of the pump or control valve. A wafer type valve will 
+not permit this and is therefore unacceptable.  
+ 
+The upstream (suction) isolating valve should hav e the same pressure rating as the 
+delivery isolating valve.  
+ Guidelines for the development of water and sanitation infrastructure   54 
+ Control valves  
+ 
+Flow and pressure control valves are not acceptable. In order to reduce excessive surges, 
+double flanged reflux valves are preferred. Alternatively surge tanks should be provided 
+or an alternative form of surge control.  
+ 
+Mounting of butterfly valves  
+(or valves with adjustable seals with specific reference to their use in or relating to pump 
+stations)  
+ 
+The seal should always be accessible from the side of the valve “facing the pump ”. 
+ 
+The direction in which the valve is to be placed, should be specified by the supplier.  
+ 
+Butterfly valves should be supported and not fixed.  
+ 
+10.7.9  Instrumentation and protection  
+ 
+All instrumentation must be mounted on vibration free surfaces.  
+ 
+Temperature se nsors (pump thermal protection) should be fitted in the pump casing to 
+protect the pump against closed valve conditions.  
+ 
+RTDs (Resistance Temperature Detectors) are preferred for motors greater than 50kW 
+and should be embedded in the motor windings, two p er phase providing one set spare.   
+ 
+In typical community water supply size of pump station, motor or pump bearings as well 
+as pump glands need not be monitored.  
+ 
+Pressure sensors  
+ 
+A low suction pressure sensor should be provided and located between the su ction 
+isolating valve and the pump suction flange.  This device should monitor and ensure that 
+the pump does not operate under conditions that will result in cavitation within the pump.  
+ 
+A pump delivery pressure sensor should be located between the pump de livery flange and 
+the reflux or other control valve.  This device should monitor two conditions:  
+(1) on start -up, that the pump is generating full pressure and it is safe to open the 
+delivery isolating valve, and  
+(2) in operation, that when the level controlled valve at the receiving reservoir 
+located at the upper end of the rising main is closed, the ensuing increase in pump 
+delivery pressure should be employed to stop the pump.  The delivery isolating 
+valve should then be re -closed before restarting the pump.  
+ Guidelines for the development of water and sanitation infrastructure   55 
+ Pressure gauges  
+ 
+Each pumpline should be equipped with two pressure gauges. One should display the 
+pressure at the pump suction flange, the other, the pressure at the pump delivery flange.  
+ 
+In addition, one pressure gauge should be installed to measure the  pressure in the station 
+delivery manifold itself.  
+ 
+Pressure gauges should be glycerine filled and be calibrated in metres  head  of water. The 
+range of operation should be from zero to 50% in excess of the pump "closed valve" 
+pressure.  
+ 
+All pressure gauges should be supplied with isolating and drain cocks, piping, and fitted 
+with a pulsation damper.  
+ 
+Flow meters  
+ 
+Usually ultrasonic  flowmeters should be used where electronic type metering is required.  
+Where this type of meter is not justified mechanical type  meter are acceptable.  
+ 
+10.7.10  Control panel  
+ 
+All panels should have a test button to test all lamps. For indication lamps use only 
+cluster type LED with coloured lens caps (blue LED's are not available).  
+ 
+The pumpline control panel (whether combined with the mot or starting switchgear, or 
+separate) should contain the following displays:  
+ 
+ Green lamp  - "pump running".  
+ Red lamp   "pump stopped".  
+ White lamp   "pump tripped".  
+ Blue lamp   "pump available".  
+ 
+The blue "pump available" lamp should be illuminated only when all  safety conditions 
+being monitored are healthy, i.e.:  
+ motor winding temperature sensors, and  
+ suction pressure sensor healthy.  
+In addition electric power should be available.  
+ 
+Should any one of these safety sensors indicate an "unhealthy" or faulty conditi on the 
+pump should be tripped and the white "pump tripped" lamp should be illuminated. In 
+addition, the station panel alarm should sound.  
+ 
+Audible alarm devices should be time controlled (3 minutes) as these devices are 
+sometimes sabotaged by nearby reside nts. Guidelines for the development of water and sanitation infrastructure   56 
+  
+Also mounted on the control panel should be the following push buttons:  
+ pump start        - green  
+ pump stop        - red 
+ emergency stop     - red mushroom (lockable)  
+ alarm accept (to silence station alarm)    - black.  
+ trip cancel (to cancel white lamp af ter fault is rectified)  - black.  
+ Auto/manual switch if remote auto controls are used, such as level devices or 
+telemetry. When in manual mode warning devices must still be operative.  Guidelines for the development of water and sanitation infrastructure   57 
+  
+11 LOW VOLTAGE ELECTRIC AL 
+EQUIPMENT  
+ 
+ 
+11.1 General guidelines  
+ 
+The DWAF General  Technical Specifications (Electrical) (GTSE) are included in the 
+Specifications Folder . 
+ 
+SANS 0142 and other standard specifications as set out in the GTSE as well as 
+regulations of Eskom and local authorities must be followed where applicable.  
+ 
+The Occup ational Health and Safety Act (Act 85 of 1993) applies in all instances.  
+ 
+11.2 Design report  
+ 
+The design report must include the results of a quality investigation of the electrical 
+supply. This could determine the starting methods to be used by the various ele ctric 
+motors. Direct on line starting is always preferred if possible.  
+ 
+11.3 Important aspects to consider  
+ 
+Cognisance should be taken of the following aspects:  
+ 
+ Environmental;  
+ Aesthetics;  
+ Safety to equipment and personnel;  
+ Spares cost & availability;  
+ Ease of o peration;  
+ Future extensions;  
+ Maintainability;  
+ Availability;  
+ Serviceability;  
+ Technology improvements;  
+ Quality of equipment;  
+ Energy conservation;  
+ Quality of electrical supply; and  
+ Economics.  
+ Guidelines for the development of water and sanitation infrastructure   58 
+  
+11.4 Maximum voltage  
+ 
+No voltage higher than 400V should be used. High er voltages must remain the 
+responsibility of the electricity supply authority.  
+ 
+11.5 Metering points  
+ 
+A dedicated transformer should be negotiated with the relevant supply authority for each 
+metering point to avoid quality of supply problems originating from t he supply 
+authorities 400 volt system.  
+ 
+The total cost of the supply point is important and should be determined before final 
+designs are submitted.  
+ 
+11.6 Motors  
+ 
+Motors must meet the necessary pump requirements.  
+ 
+11.7 Power cables  
+ 
+Power cables must be suitable fo r short circuit and environmental conditions.  
+ 
+11.8 LV switchboards and motor control  
+ 
+11.8.1  Construction  
+ 
+The following requirements are recommended for switchboards:  
+ IP54 enclosure;  
+ Free standing;  
+ Extensible;  
+ Flush tiers front and rear;  
+ Accessible front and rear wi th hinged doors in front and removable panels at the 
+rear; 
+ Door locking and safety lockout systems are required;  
+ Steel construction (2mm);  
+ Colour white internal and lighter electric orange external;  
+ Provide ventilation slots on face panels and doors with v ermin screens behind 
+slots;  Guidelines for the development of water and sanitation infrastructure   59 
+  Ensure that all panels are totally vermin proof; and  
+ Use substantial gland plates at bottom of panels (3mm thickness).  
+ 
+11.9 Switchgear  
+ 
+11.9.1  Circuit breakers  
+ 
+The following requirements for circuit breakers are recommended:  
+ The incoming circuit breaker of the main LT switch board, which receives the 
+supply from the supply authority or transformer, must be equipped with adjustable 
+earth leakage protection as well as an adjustable time delay facility to create the 
+necessary discriminating b etween this breaker and other earth leakage protectors 
+further down the line.  
+ Selective tripping between incoming and outgoing circuits must be provided.  
+ Protection grading must be effective for all operating conditions.  
+ Where circuit breakers are used to protect contactors, motor protection circuit 
+breakers equipped with shunt trips to trip the circuit breaker in the event of short 
+circuit or earth faults should be used. The contactor should not be required to clear 
+these types of faults.  
+ Fast acting circu it breakers should be used in all instances.  
+ Motor circuit breakers should allow for long duration (up to 10 second) start ups.  
+ HRC fuses should not be used as these tend to get tampered with and are not 
+always readily available.  
+ All circuit breakers must be selected to handle the maximum possible fault current 
+taking into consideration possible future extensions involving and increase in the 
+available fault current.  
+ 
+11.9.2  Isolators  
+ 
+Isolators should be load breaking \ fault making type.  
+Isolator should be locka ble in the OPEN position.  
+ 
+11.9.3  Contactors  
+ 
+Contactor should comply with IEC 158 -1 for Class AC3 unless the specific duty requires 
+a higher rating.  
+De-rate contactors should be used in areas where ambient temperatures exceed 350C. Guidelines for the development of water and sanitation infrastructure   60 
+  
+11.9.4  Switch gear general  
+ 
+No byp ass facilities on protection equipment, level relays, etc. are allowed.  
+All power, signal and control cables must be numbered on site and on drawings.  
+ 
+11.10  Motor protection  
+ 
+The following requirements for motor protection are recommended:  
+ Comprehensive motor p rotection is required where the requirements are such that 
+the normal thermal overload protection will not be adequate. A versatile, 
+multifunction motor protection unit or relay is therefore to be used.  
+ For motors below 15kW thermal overload protection may  be used provided single 
+phase, phase reversal, and under load protection is provided. For under load 
+protection, phase angle type relays may be used.  
+ Trip mechanisms should be settable with front panel mounted buttons and trip 
+conditions should have indic ator lamps on the front panel.  
+ Under and over voltage protection must be provided to disable the motor starter 
+control circuits excluding the remainder of the pump station.  
+ Automatic re -start must be prevented when trips occurred due to over/under 
+current conditions. In such instances make use of an alarm plus a manual restart.  
+ Provide adequate motor, pump, and pipe earthing.  
+ 
+11.11  Indication and instrumentation  
+ 
+The following instrumentation is required:  
+ Combined thermal demand and instantaneous ammeters on all  incomers, and 
+transformer feeders.  
+ One ammeter per phase.  
+ Motor starter panels one ammeter.  
+ Voltmeter with selector switch on each incoming panel.  
+ Maximum demand/kWh combination meters will normally be required on the 
+incoming sections.  
+ Power factor ind icating instrument where warranted.  
+ 
+Other indication will include:  
+ Run lamp;  
+ Emergency Stop lamp;  
+ Ready lamp (not applicable in the case of boreholes and small pumpstations);  
+ Overload lamp;  
+ Motor winding lamp (over -temperature) where motor winding tempera ture 
+sensors are available in motors;  Guidelines for the development of water and sanitation infrastructure   61 
+  Supply Voltage lamp; and  
+ Running hour meter.  
+ 
+Other requirements for indication are:  
+ Where necessary for safety reasons a control voltage should be 24v.  
+ All alarm indication must be latched and reset by a reset button.  
+ Only mercury bulbs or 3 wire level relays should be used for level controls in 
+reservoirs. Ultra sonic level sensing is not acceptable.  
+ Borehole level sensing should be done with equipment using normal wires.  
+ To assist operators, three "cable live" neon indication lamps should be provided 
+on incoming supplies.  
+ 
+11.12  Control  
+ 
+11.12.1  General  
+ 
+Easily maintainable systems using relays, etc. must be used.  
+PLC’s are only to be used where warranted.  
+ 
+If PLC's are used (see above) full lighting protection must be provided f or all inputs, 
+outputs, and power supplies.  
+ 
+11.12.2  Local control  
+ 
+Local control should consist of pushbuttons as follows:  
+ Start;  
+ Stop;  
+ Emergency Stop (At motor starting cubicle and at motor);  
+ Reset; and  
+ Lamp test.  
+ 
+11.13  Power factor correction  
+ 
+Power factor correctio n must only be provided where it can be proved before -hand that it 
+is economically justified.  
+Power factor correction equipment, if provided, should preferably be mounted directly on 
+the motor.  
+Automatic power factor equipment should be avoided.  
+ Guidelines for the development of water and sanitation infrastructure   62 
+ 11.14  Earthin g 
+ 
+The following requirements for earthing are recommended:  
+ Earthing may consist of an earth mat, trench earth, electrode earth, or a trench and 
+electrode combination scheme.  
+ An earthing survey must be carried out by a specialist where necessary.  
+ All eart hing must be connected to a common earth bar at the lowest possible point 
+where separate systems are provided for instrumentation, LV and MV.  
+ All exposed earthing must be  PVC insulated copper conductors. All other must 
+be bare copper conductors.  
+ Maximum resistance to earth is 1  for LV systems and 2  for MV systems.  
+ The supply authority's requirements regarding earthing must be taken into 
+consideration.  
+ One drawing showing the overall arrangements must be provided.  
+ 
+11.15  Lightning protection  
+ 
+The requirements for lightning protection are:  
+ Lightning protection must be provided for safety purposes as well as for the 
+protection of equipment and instrumentation.  
+ Surge arrestors must be of the metal oxide type in accordance with SANS 172.  
+ Guard against the use of lo ng control cables between eg. reservoirs and pump 
+stations to minimise damage due to lightning.  
+ Use MOV (5 - 10kA) surge arrestors on both ends of control cables between eg. 
+level sensing equipment and motor controls.  
+ Provide lightning protection for instr ument supply cables.  
+ Provide lightning protection for panel incomers.  
+ 
+11.16  Conduit wire ways and conduit  
+ 
+11.16.1  Conduit  
+ 
+All conduits must be galvanised steel conduit in accordance with SANS 1665 and should 
+be surface mounted.  
+ 
+11.16.2  Wire ways (conduit and trunking)  
+ 
+Sepa rate wire ways must be used for normal power and lighting, emergency power and 
+lighting, standby power and lighting, control wiring, and extra low voltage wiring.  Guidelines for the development of water and sanitation infrastructure   63 
+  
+11.16.3  Cable ways  
+ 
+The requirements for cable ways are:  
+ Cable routes should be specified. This sho uld be in trenches, in floors, or cable 
+ladders against walls.  
+ Floor trenches should be filled with sand and screeded over after completion of 
+the installation. Provision should be made for draining of cable trenches. Gland 
+drip water should be piped into a no-fines opening into the trench, next to the 
+pump set in this case, to keep the sand wet.  
+ Heavy duty galvanised beehive type racks supported at least every 750mm on 
+galvanised angle iron brackets should be used to support aerial and vertical cables.  
+ Stainless steel straps should be used to attach cables to cable racks, masts, etc.  
+ Pipes must not be used for cable ways for motor cables. Channel iron or other 
+protection and support that allows sufficient ventilation should be used.  
+ 
+11.16.4  Switches and socket out lets 
+ 
+Light switches should be placed in galvanised steel box in accordance with SANS 1065, 
+1,2m above finished floor level.  
+ 
+16A Switched socket outlets should be placed in 100mm x 100mm boxes.  
+ 
+Three phase welding sockets with built in earth leakage shou ld be provided.  
+ 
+11.16.5  Wiring  
+ 
+One circuit per conduit wire way is allowed. All un -armoured conductors should be 
+installed in conduit or wire ways. All cables and conductors must be protected by suitably 
+rated switch or fuse gear.  
+ 
+Conductors originating from di fferent switchboards may not be installed in the same wire 
+way.  
+ 
+Minimum conductor sizes are:  
+ Lighting circuits  1,5mm2 power and 2,5mm2 earth conductors  
+ Socket outlets   2,5mm2 power and 2,5mm2 earth conductors  
+ Stove circuits   10mm2 power and 6mm2 earth con ductors  
+ Bell circuits   1,5mm2 
+ Clock circuits   1,5mm2 Guidelines for the development of water and sanitation infrastructure   64 
+  
+11.17  Lighting, luminaires and masts  
+ 
+11.17.1  Lighting  
+ 
+Task lighting of 160 lux is required for each pump.  
+ 
+Walkways, footpaths, staircases, general movement areas etc. must be lighted according 
+to SANS 10098.  
+ 
+Maintained emergency lighting must be provided where applicable.  
+ 
+11.17.2  Luminaires  
+ 
+For ease of maintenance, light fittings should be mounted against walls at a maximum 
+height of 3,5m.  
+ 
+Depending on the application and the required lighting levels fluorescent, inca ndescent or 
+HPS luminaires may be used.  
+Exterior luminaires are to be rated to IP65.  
+Luminaires manufactured from sheet steel or aluminium may not be used.  
+ 
+Highmast luminaires must be 250W HPS.  
+ 
+ES Screw in lamps incandescent fittings should be used.  
+ 
+11.17.3  High masts  
+ 
+Streetlights should be mounted on 8m standard poles with a 2m outreach.  
+ 
+High masts should be of the 12m hinged type with removable hand winch.  
+ 
+11.18  Standby generators  
+ 
+Where standby generators are provided, the change -over switches between standby and 
+normal electricity must be both mechanically and electrically interlocked and conform to 
+the supply authorities requirements.  
+ 
+Batteries for standby generators should be charged from the mains supply.  
+Fuel tank level and battery voltage sensors should be provided (for possible use with 
+telemetry systems).  Guidelines for the development of water and sanitation infrastructure   65 
+  
+12 TELEMETRY  
+ 
+ 
+12.1 Maintenance  
+ 
+It is normally recommended that telemetry be maintained by maintenance contractors.  
+ 
+12.2 General guidelines  
+ 
+Telemetry will normally be required where there is a need to exchange  data and 
+information between two or more distant or remote installations or sites, e.g. between a 
+remote reservoir and a pump station or control room.  
+ 
+The design engineer should take consideration of the following:  
+ 
+ Environmental impact;  
+ Safety to equipm ent and personnel;  
+ Affordability;  
+ Ease of operation;  
+ Maintainability;  
+ Serviceability;  
+ Compatibility with existing systems;  
+ Quality;  
+ Aesthetics;  
+ Best practice;  
+ Spares costs and availability;  
+ Future extensions;  
+ Availability; and  
+ Technology improvements.  
+ 
+12.3 Typical system configuration  
+ 
+A typical system may consist of a master station and a number of outstations. Depending 
+on the distance and terrain, repeater stations may be required. Typical data or information 
+that may be transmitted is for example:  
+ valve pos ition;  
+ reservoir level;  
+ pump status, e.g. running, stopped, tripped etc;  
+ start/stop commands; and  Guidelines for the development of water and sanitation infrastructure   66 
+  camera images.  
+ 
+The telemetry installation consists of the following elements:  
+ transducers and field instrumentation;  
+ cabling;  
+ communication system; and  
+ contr ol systems.  
+ 
+To protect and enable the above to operate two ancillary systems are required, namely:  
+ power supplies; and  
+ lightning protection and earthing.  
+ 
+12.4 Transducers and field instrumentation  
+ 
+12.4.1  General  
+ 
+In most cases the instrumentation, transducers and s ensors will be supplied and installed 
+by the various other Contractors, e.g. electrical or pump contractor. However situations 
+may arise where no other Contractors are employed and in these cases the supply and 
+installation of the instrumentation equipment  must form part of the telemetry installation.  
+ 
+12.4.2  Technical requirements  
+ 
+In general all transducers/sensors must comply with the following - 
+ analogue outputs   4 - 20 mA  
+ supply voltage    24 V DC (nominal)  
+ accuracy    ± 0,3 %  
+ reliability    + 5 000 hours  
+ housin g   suitable for environment.  
+ 
+12.4.3  Back up requirements  
+ 
+Where valves are controlled, limit and back up switches must be provided.  
+Level transducers must be backed up by float switches.  
+ 
+12.4.4  Compatibility  
+ 
+Cognisance must be taken of compatibility with existing e quipment.  
+ Guidelines for the development of water and sanitation infrastructure   67 
+ 12.5 Cabling  
+ 
+12.5.1  Power cables  
+ 
+The installation of these cables are covered in the Department's Specifications on 
+Electrical Installations included in the Specifications Folder . 
+ 
+12.5.2  Data cables  
+ 
+For correct performance of cables for data transmission, the correct type and size cable 
+must be selected for the application e.g. data transmission speed, noise, distance, type of 
+data (analogue or discrete) etc.  
+ 
+As a general rule, the following should apply:  
+ Low data transfer rates: Low frequency type cables e.g.  twisted pair;  
+ High data transfer rates: High frequency type cables e.g. co -axial cables, optic 
+fibre or special type of twisted pair;  
+ High noise and lightning environment: Shielded cable or optic fibre cable.  
+ 
+The number of cables or pairs must make allow ance for future extensions. Cables must be 
+suitably protected against damage.  
+ 
+12.6 Communication system  
+ 
+The communication system consists of the following sub -systems:  
+ 
+ Radio equipment – Transmitters and receivers;  
+ Antennas and Masts;  
+ RF cabling;  
+ Power supply  system; and  
+ Lightning protection and earthing.  
+ 
+12.6.1  Transmitter and receivers  
+ 
+The Transmitters and Receivers should comply with the requirements of SANS 300086.  
+ 
+The specification should address the following :  
+ 
+ RF output power   Normally 2 - 30 W  
+ Modulation    Phase or frequency  
+ Frequency stability   3 - 5 ppm  Guidelines for the development of water and sanitation infrastructure   68 
+  Allowable audio distention   less than 5%  
+ Maximum spurious radiation and harmonics  < 70 dB  
+ Channel spacing    12,5 kHz.  
+ Number of channels    4 minimum  
+ Frequency bands    VHF (68 - 88 MHz),  
+ VHF (146 - 174 M Hz) and UHF (450 - 470 mHz)  
+ Microwave (2,4GHZ; 10GHZ)  
+ GSM (HSCO; GPRS; SMS)  
+ Input impedance  50 ohm.  
+ 
+12.6.2  Masts and antennas  
+ 
+a) Masts  
+ 
+Construction of masts should be metallic self supporting lattice or sectional pole.  
+Steel is preferred above 4m.  
+12m and abo ve must have stay wires.  
+The finish should be galvanised steel.  
+The design load, including antenna, is a wind load of 160 km/h (and snow load where 
+applicable).  
+ 
+b) Antennas  
+ 
+Gain:    6 dB depending on signal  
+Type:    Omni -directional or directional where ap plicable  
+Nominal impedance:  50 ohm  
+Material:   Aluminium.  
+ 
+c) RF cabling  
+ 
+All RF cabling must be low loss coaxial cable suitable for outdoor use.  
+Suitable protection must be provided to the cable where exposed to damage.   
+Minimum bending radius must be sp ecified.  
+ 
+12.7 Control systems  
+ 
+12.7.1  Control modes  
+ 
+Local and remote control modes are required, i.e.. it must be possible to switch between 
+local and remote control.  
+Both control modes can be either automatic or manual.  
+Distributed control should be employed with override and monitoring by the telemetry 
+system.  Guidelines for the development of water and sanitation infrastructure   69 
+ Failure of the telemetry system should not affect the local control.  
+Telemetry must not be able to start or stop in local control.  
+ 
+12.7.2  Man machine interface  
+ 
+Computers must be specified as follows:  
+ 17 inch moni tor; 
+ Pentium IV 2GHZ or higher  
+ 40G Hard Drive  
+ At least 512 MB memory.  
+ 
+A display unit must be provided or the existing display upgraded or reprogrammed at the 
+master control panel to display all the data and control parameters from the out stations, 
+includ ing all alarms, equipment status, valve positions, levels, etc.   
+All controls should be effected from this interface, either automatically or by the operator 
+when selected.  
+Sufficient data storage capability must be provided for backup and data storage.  
+ 
+12.8 Power supplies  
+ 
+Suitable power supplies with adequate battery back up facilities must be provided.  
+ 
+The batteries may be charged from one of the following sources:  
+ 
+ AC main supply with rectifier and protective equipment  
+ Solar cells  
+ WIVA chargers.  
+ 
+Solar ce lls will be used where no mains power is available.  
+ 
+Alarm signals should include the following:  
+ 
+ Low battery voltage;  
+ Mains failure (if applicable);  
+ Solar panel (if applicable);  
+ Intruder alarm;  
+ Communication failure.  
+ 
+In general the power supplies must co nform to the following:  
+ 
+ Output voltage: 12 Volt for normal use or 24 Volt for transducers;  
+ Protection: Overcharging, under voltage, cut out, power surges, reverse polarity.  
+ Guidelines for the development of water and sanitation infrastructure   70 
+ Rating:  
+ Data transmission only: 30%Transmit/Receiver 70% standby for 48 hours;  
+ Data and Voice transmission:  50% Transmit/Receiver 50% standby for 48 hours.  
+ 
+12.9 Lightning protection and earthing  
+ 
+Suitable protection must be provided to protect equipment, including:  
+ 
+a) Earth Electrode System  
+ 
+ Maximum resistance 5 ohms. 1 ohm if possible;  
+ Test points are to be provided;  
+ SANS 10199 is applicable;  
+ Concealed joints and interconnections brazed or welded.  
+ 
+b) Bonding all exposed steelwork and other steelwork that may become "live" due to 
+equipment faults, static build up or lightning strikes are to be bonded.  
+ 
+c) Lightning Protection  
+ 
+All equipment should be considered exposed to lightning strikes and suitable protection 
+must be provided.  
+ 
+All instrument boxes should be earthed by a 70 mm copper earth wire.  
+ 
+12.10  Documentation and training  
+ 
+Complete ma intenance and operating manuals must form part of the scope of supply.  
+ 
+As-built documentation must be provided and must include:  
+ Control logic;  
+ Cabling; and  
+ Physical layout.  
+ 
+Operating and Maintenance manual must also be provided.  
+ 
+12.11  Spares  
+ 
+A full set of s pares must be included with the manuals.  
+ 
+ 
+ Guidelines for the development of water and sanitation infrastructure   71 
+  
+13 PIPELINES  
+ 
+ 
+13.1 General  
+ 
+Water supply is delivered under pressure either by gravity or by pumping.  
+ 
+Water supply pipelines are generally designed to convey water free of suspended matter 
+and generally of potable qu ality.  
+ 
+Laying and jointing are important operations that contribute to the life of a pipeline and to 
+the level of service provided. These can constitute a significant factor in pipe selection, 
+especially where labour based construction methods are utilize d. 
+ 
+The prime function of any pipe and pipe material is that, for the expected life of the 
+pipeline, there is adequate resistance and strength to withstand all forces that can be 
+expected to be imposed on the pipe. These forces and requirements include:  
+ Internal forces including internal pressure and pressure surges;  
+ External forces including earth pressure and superimposed loads;  
+ Water tightness; and  
+ Corrosion.  
+ 
+Generally refer to DWS 1110 Clause 4  (included in the Specifications Folder)  for the 
+design and  setting out of pipelines.  
+ 
+13.2 Design capacity  
+ 
+See Planning and Design Parameters in the Preliminary Design Section.  
+ 
+13.3 Pipeline materials  
+ 
+The pipeline material that provides the lowest life cycle cost should be selected. The 
+selection procedure as proposed i n Section 3 of Darling and Hodgson’s “Pipe Selection 
+Manual, 1996”  is recommended.  Guidelines for the development of water and sanitation infrastructure   72 
+  
+Suitable pipeline materials are tabulated below:  
+ 
+Pipe Materials, Classes and 
+Acceptable Sizes:  DWAF 
+DWS  
+Specification  Class (bar)  Sizes 
+(mm)  
+Minimum pipe size for reticu lation:  50mm nominal diameter  
+HDPE (SANS 533)  None  Min. Class 6  15 - 75 
+uPVC (SANS 966 or ISO 
+4422)  DWS 1160  Min. Class 6  50 - 250 
+Note:  125 and 140 mm sizes are not recommended for uPVC pipes, due to the 
+lack of standard  
+fittings.  
+21GRP  DWS 1150  Min. Class 6, Max. 
+25 bar  Min. 
+150 
+Galvanised Mild Steel (SANS 
+62) None  Medium Duty  15 – 150 
+Steel (> 150mm)  DWS 1130  Min. API 5L Grade 
+A 
+Min. wall thick. t = 
+4,5 mm  
+Slenderness, D/t < 
+120 Min. 
+200 
+Max. Press. incl. surge (m) = 120*t/D, where S = 
+Yield  
+Point Stress (MPa) and D = Outside Dia (mm).  
+ 
+Formula assumes max. of 60% of yield stress 
+mobilised.  
+Protection to steel pipes (> 
+150 mm):  Generally bitumen fibre wrap coating with 
+cement mortar lining or epoxy lining and 
+cathodic protection – see DWS 1131.  
+ 
+13.4 Pipeline velocities  
+ 
+The following maximum and minimum pipeline velocities are recommended:  
+ 
+ Minimum Raw water:     0,6 m/s,  
+ Minimum Treated water:    0,3 m/s,  
+ Maximum DPFR for Reticulations:   1,5 m/s,  
+ Maximum Pump suction inside station:  2,0 m/s,  
+ Maximum Design flow in Bulk Supply:  3,0 m/s,  
+ Maximum Scour flow in Pipelines:   5,0 m/s,  
+ Guidelines for the development of water and sanitation infrastructure   73 
+ 13.5 Pipe friction factors  
+ 
+Only Colebrook -White or Darcy -Weisbach formulae (with friction factor, , determined 
+using Moody diagram or equivalent formula); or Hazen -William s formula, with C factor 
+equivalent to k s for pipe diameter and velocity, are acceptable for design.  
+ 
+Pipe friction factors are provided in the table below:  
+ 
+Pipe Friction Factors (Absolute Roughness, k s, mm)  
+ Pipelines;  
+(excl. fittings losses)  Reticulatio n 
+(incl. fittings losses) ; 
+uPVC or GRP  0,06 mm  0,10 mm  
+Steel (cement mortar 
+lined)  0,20 mm  0,26 mm  
+ 
+ 
+13.6 Depth of pipe cover  
+ 
+The minimum depth of cover to main pipelines are:  
+ 
+ Generally:    600mm  
+ Under cultivated land:   900mm  
+ Road/Railway crossings:  1000mm  
+ 
+Additional protection should be provided to pipes under roads or railways where 
+required.  
+ 
+13.7 Vacuum pressures  
+ 
+Vacuum pressures in Bulk Supply Pipelines during shutdown and scouring of pipes are 
+generally unacceptable, but 3 m maximum is acceptable to econo mise on Double Orifice 
+Air Valve installations.  
+ 
+13.8 Cover  
+ 
+750mm minimum cover with 1000mm cover required under road crossings.  Guidelines for the development of water and sanitation infrastructure   74 
+  
+13.9 Trench width  
+ 
+Allow for at least the pipe diameter plus 150mm on both sides for small diameter 
+pipelines to ensure that backfilli ng is effectively rammed. The minimum trench width 
+should be 500mm.  
+ 
+13.10  Bedding and backfill (including material)  
+ 
+According to SANS 1200  and DWS 1110  (see Specification Folder ) where applicable.  
+ 
+13.11  Slope  
+ 
+A slope of steeper than 0,3% is required to avoid air p ockets.  
+ 
+13.12  Meters  
+ 
+Schemes should be provided with bulk metering from the water source.  
+ 
+The supply to each local authority should be separately metered.  
+ 
+All stand pipes should be measured.  
+ 
+Where house or yard connections are provided, the consumption of e ach individual 
+household should be measured.  
+ 
+13.13  Delivery point  
+ 
+For a basic level of service in rural communities the delivery point should be the stand 
+pipe or a yard tank.  
+ 
+13.14  Pipe markers  
+ 
+Refer to DWS 1110 in Specifications Folder.  
+ 
+Pipe markers are require d at a minimum spacing of 500m unless the pipeline follows a 
+road.  
+ 
+All bends should be marked.  
+ Guidelines for the development of water and sanitation infrastructure   75 
+ 13.15  Air release and air intake valves  
+ 
+Air valves should be provided on summits of main lines.  
+ 
+Air intake valves are required upstream and downstream of isolatio n valves on ascending 
+and descending pipeline slopes respectively.  
+ 
+The minimum distance between air valves should be 500m.  
+ 
+Separate isolating valves are required on each air valve branch for maintenance purposes.  
+ 
+Refer to Messrs Mulric Hydro Projects’ c atalogue No. RBX 0001  for the selection and 
+positioning of air valves.  
+ 
+Diameter of branch below air valve should be as follows:  
+ Pipeline =< 200 mm NB: Install an equal T piece below air valve.  
+ Pipeline > 200mm NB: The branch pipe must be as large as pract ically possible 
+with a maximum diameter of 600mm NB for all pipelines > 600mm NB.  
+ 
+13.16  Scour valves  
+ 
+Should be provided at all low points.  
+ 
+Scour valves should be so sized that the pipe can be drained between the isolating valves 
+within 2 hours.  
+ 
+The diameter of the drainpipe should be 0,4 times the diameter of the main pipe but 
+should be an equal T for pipelines =< 200mm NB.  
+ 
+13.17  Isolating valves  
+ 
+Should be placed:  
+ At all pipeline intersections in the branch and main line.  
+ At an approximate distance of 1,5km, pref erably at the lowest points.  
+ Start of every rising main with arrow pointing towards the pumping station.  
+ At the end of every gravity main with arrow on valve pointing in flow direction.  
+ 
+Isolating valves should be mounted with flange adapters to aid in rem oval.  
+ 
+13.18  Valve chambers  
+ 
+Valve chambers of robust construction should be provided for all valves.  
+ Guidelines for the development of water and sanitation infrastructure   76 
+ Valve chambers must be properly ventilated with vermin proof fixed GMS or 3CR12 
+louvered ventilators.  
+ 
+Sufficient access should be provided in valve chambers f or the removal of bolts.  
+ 
+The cover should be 700mm above ground level and should be of a hinged and non -
+removable type.  
+ 
+A sump should be provided for dewatering.  
+ 
+The chamber should be secure against vandalism.  
+ 
+13.19  Pressure control valves  
+ 
+Pressure control valves are not favoured and their use should be minimised.  
+ 
+Break pressure tanks should be used for pressure reduction where possible, but the 
+correct placing of reservoirs is preferred.  
+ 
+13.20  Thrust blocks and anchors  
+ 
+Coupled pipelines must be anchored at:  
+ All changes of direction greater than 10 degrees.  
+ At changes in pipe size.  
+ At slopes greater that 1:6.  
+ At blank ends.  
+ 
+The anchor blocks must be large enough to:  
+ Provide sufficient friction and bearing forces between the anchor block and soil to 
+balance the thrust force in any direction; and  
+ Balance upward forces through the mass of the block.  
+The pipe should be imbedded at least up to the centre line at bends.  
+A flexible membrane should be inserted between the pipe and anchor block to prevent 
+damage to pipes  subject to chafing.  
+ 
+13.21  Structural design  
+ 
+Pipelines should be designed for internal and external pressure including surge pressure.  
+ 
+The structural load bearing capacity of the pipe is specified by the manufacturer and care 
+should be taken not to expose the  pipe to loading conditions other than that intended by the 
+manufacturer.  
+ Guidelines for the development of water and sanitation infrastructure   77 
+ 13.22  Corrosion protection  
+ 
+Refer to DWS 1131 in Specifications Folder . 
+ 
+13.23  Couplings  
+ 
+Two major categories are generally used, namely rigid and flexible joints.  
+ 
+Flexible joints are define d as those joints that allow some telescopic movement or angular 
+flexure of the adjoining pipes.  
+ 
+13.23.1  Rigid couplings/joints  
+ 
+13.23.1.1  Flanges  
+ 
+Flanges should be attached to pipes by metal -arc welding, the weld preparation being in 
+accordance with the requirements of BS806 Type 6  unless otherwise specified.  
+ 
+A slip -on welded flange is suitable for all design pressure conditions covered by BS flange 
+tables up to and including Table J  and design temperatures not exceeding 425oC, with 
+pipes 80 mm and over.  
+ 
+Flanges should  be in accordance with BS 4504 . 
+ 
+13.23.1.2  Welded bu tt joints  
+ 
+Butt joints welded by the metal -arc process should be in accordance with the requirements 
+of DWS 1130 and DWS 1110 . 
+ 
+13.23.1.3  Screwed couplings  
+ 
+Pipes should be screwed taper and sockets parallel thread according  to SANS 1109 or ISO 
+7/1.  
+ 
+Galvanized pipes may be threaded after galvanizing.  
+ 
+The use of parallel threads on light pipes are not recommended.  Guidelines for the development of water and sanitation infrastructure   78 
+  
+13.23.2  Flexible couplings  
+ 
+All flexible coupling should be able to withstand an internal pressure equal to or great er 
+than the design working pressure of the pipe.  
+ 
+The couplings should be able to withstand any external pressure due to installation 
+conditions without the presence of an internal pressure.  
+ 
+Spigot and socket joints utilizing a rubber ring as a seal shou ld be watertight under working 
+pressure with a shear force equal to the expected external load applied to the coupling.  
+ 
+Rubber O -rings used for sealing should not elongate more than 25% of the original length 
+when stretched over the spigot end of a pipe. See BS 2494.  
+ 
+Rubber o -rings should not be exposed to ultra -violet radiation or ozone for periods longer 
+than the time required for installation.  
+ 
+Where a pipeline is likely to be subjected to any abnormally corrosive condition, the pipe 
+manufacturer shoul d be contacted in advance so that they may advise on the suitability of 
+their joints for the purpose, or alternatively in collaboration with their rubber supplier, 
+provide rings that will meet the requirements of the situation.  
+ 
+Sleeve type joints using a flexible plastic sleeve must conform to the misalignment test 
+according to the relevant SANS standard for that specific type of pipe utilizing the 
+coupling.  
+ 
+The draw and slew movement of the coupling will be in accordance with the requirements 
+of the rele vant SANS standard for that specific type of pipe utilizing the coupling.  
+ 
+13.24  Fittings  
+ 
+13.24.1  Reducers / diffusers and inlets  
+ 
+The range of angle of deflection for concentric or eccentric diffusers (enlarging diameter) 
+should be between 2,5 – 30 degrees.  
+ 
+Where a vailable NPSH is a problem, rounded inlets should provide better flow 
+characteristics and less friction losses.  Guidelines for the development of water and sanitation infrastructure   79 
+  
+13.24.2  Bends  
+ 
+Refer to DWS 1130 . 
+ 
+Elbows should not have a bending radius smaller than the outside diameter of the pipe.  
+ 
+Medium and long radius bend s should not have a radius larger than seven times the outside 
+diameter of the pipe. Long radius bends normally have a radius of approximately three 
+times the outside diameter of the pipe.  
+ 
+Standard angles of elbows are: 90, 45 and 22,5 degrees.  
+ 
+13.24.3  Dividers  
+ 
+All flow dividers will cause change in flow direction and should therefore be properly 
+anchored.  
+ 
+Standard angles of deviation from the main pipe are: 90, 60, 45, 22.5 and 11 degrees.  
+ 
+13.24.4  Puddle or thrust flanges  
+ 
+Puddle or thrust flanges should be provided  where a pipe passes through a water retaining 
+structure or chamber.  
+ 
+A thrust flange will assist in the transfer of axial pipe forces due to water hammer or 
+surges.  
+The flange should be designed structurally to withstand the shear forces it will 
+experien ce.  
+ 
+Steel pipelines should be insulated with paint where they pass through concrete.  
+ 
+13.24.5  Reinforced specials  
+ 
+The procedures developed H.S. Swanson et al have been incorporated into AWWA M11 - 
+Steel pipe - A guide for design and installation , and are genera lly used in the design of 
+reinforced specials.  Guidelines for the development of water and sanitation infrastructure   80 
+  
+13.25  Pipeline specifications  
+ 
+The following DWAF specifications are applicable to pipelines and are included in the 
+Specifications Folder . 
+ 
+NUMBER  DESCRIPTION  
+DWS 1110  Construction of pipelines  
+DWS 1130  Design,  manufacture and supply of steel pipes  
+DWS 1131  Lining and coating of steel pipes and specials  
+DWS 1140  Design, manufacture and supply of asbestos -cement pressure 
+pipes and joints  
+DWS 1150  Glass reinforced plastics (GRP) pipes and joints for use for 
+water supply  
+DWS1160  Design, manufacture, supply, and installation of Polyvinyl 
+Chloride (PVC) Pressure Pipes and fittings  
+DWS 2510  Supply of valves  
+ Guidelines for the development of water and sanitation infrastructure   81 
+  
+14 RESERVOIRS  
+ 
+ 
+14.1 Storage  
+ 
+Reservoirs should be designed for the following storage capacities:  
+ Elevated stora ge capacity should be designed for 2 hours of peak daily demand 
+for the area served by the elevated storage.  
+ Ground level reservoirs that are gravity fed: 24 hours of annual average daily 
+demand.  
+ Ground level reservoirs that are pump fed from one source wi thout a standby 
+power supply or pump: 48 hours of annual average daily demand (all storage 
+inclusive).  
+ Storage based on 60 litres per capita per day demand.  
+ 
+14.2 Storage for small ground water schemes  
+ 
+If ground level storage can be located close to the villag e and provide the required 
+residual head for the reticulation, then 36 hours or 48 hours storage at 60 lcd should be 
+provided according to the number of boreholes utilised.  
+ 
+However, if achieving the minimum residual pressure requires an elevated tank, the n it is 
+recommended to omit the ground level storage.   
+The elevated tank should only be sized for 16 to 24 hours of 25 lcd (10 years design 
+horizon), and the borehole pumps should pump directly into the tank.  
+ 
+An elevated tank so sized will be adequate in  the short term and will be a suitable 
+investment for use as an elevated tank in conjunction with ground level storage at a future 
+date.  
+ 
+14.3 Design  
+ 
+It is recommended that all reinforced concrete water -retaining structures be designed to a 
+0,2mm crack width u sing 30MPa concrete in accordance with BS8007 . 
+ 
+Potable water tanks must have roofs.  
+ 
+Storage must be provided for sludge accumulation and a scour valve must be provided. 
+The scour pipe should be separate from the inlet or the outlet pipe.  
+ Guidelines for the development of water and sanitation infrastructure   82 
+ Submerged valve s and fittings must be avoided if possible.  
+ 
+Pipework below the reservoir floor should be minimized.  
+ 
+A screen should be provided at the outlet.  
+ 
+14.4 Materials  
+ 
+The selection of materials is dictated by durability and life cycle costs.  
+ 
+14.5 Metering  
+ 
+Bulk metering  is essential.  
+ 
+Whether the meter should be placed at the inlet or the outlet depends on the institutional 
+or contractual arrangements.  
+ 
+14.6 Level control and indication  
+ 
+The reservoir must not be capable of spilling under normal operating conditions.  
+ 
+A wat er level indicator should be provided.  
+ 
+14.7 Position  
+ 
+The reservoir should be provided close to consumers to avoid long pipelines having to 
+cater for the instantaneous peak demand.  
+ 
+14.8 Break pressure tanks  
+ 
+Correctly placed reservoirs are preferred in place  Break  Pressure Tanks, but  when this is 
+not practical, the following guidelines are applicable to break pressure tanks:  
+ 
+Tanks to have a partition wit h duplicate pipework and control valves etc.  
+ 
+The minimum volume per partition:  
+ Gravity inflow and outflow – 5 minutes  
+ Pumped inflow and/or outflow – 30 minutes  
+ 
+Inlet control:  
+ Gravity – Float Level Control  Guidelines for the development of water and sanitation infrastructure   83 
+  Pumped – as per pump control  
+ 
+Control Valves are not preferred, but if required, then provision must be made for 
+adequate maintenance.  
+ 
+ Guidelines for the development of water and sanitation infrastructure   84 
+  
+15 STAND PIPES, YARD TA NKS AND OTHER 
+CONSUMER CONNECTIONS   
+ 
+ 
+15.1 Stand pipes  
+ 
+A concrete plinth should be provided which allows the water to drain into a soak -away 
+(sump with crushed stone).  
+ 
+The tap should be high enough for a container to fit underneath. Preferably a stand should 
+be provided for the container to stand on, with a higher tap.  
+ 
+The tap should preferably be of the push button or self -closing type.  
+ 
+Consumer off -takes directly on pumping mains are not acceptable.  
+ 
+15.2 Yard tanks  
+ 
+The yard tanks should be approximately 200 lit res in size to provide adequate storage for 
+daily supply. The flow into the yard tank must be regulated by means of a flow constraint 
+mechanism to maintain supply at approximately 200 litres.  
+ 
+The level of the outlet must be high enough to ensure a 25 -litre container can fit easily for 
+filling.  
+ 
+As in standpipes, a concrete plinth should be provided below the outlet to allow waste to 
+drain into a soak -away (Sump with crushed stones).  
+ 
+Sunlight entry into the tank should be prevented to prevent algae growth.  
+ 
+15.3 Valves  
+ 
+An isolating valve should be provided at each standpipe.  
+ 
+15.4 Pressure  
+ 
+The minimum pressure at the hydraulically highest tap under a dynamic loading of 80% 
+of the stand pipes being open should not be less than 6m.  
+ Guidelines for the development of water and sanitation infrastructure   85 
+ The maximum static pressure should  be 90m.  
+ 
+15.5 Minimum flow  
+ 
+The flow rate from the outlet of a standpipe should not be less than 10 litres per minute.  
+For yard tanks it should be a maximum of 6000 litres per household per month.  
+ 
+15.6 Coverage  
+ 
+A maximum of 25 households or 100 people per stand p ipe. 
+ 
+15.7 Walking distance  
+ 
+A maximum of 200m where feasible.  Guidelines for the development of water and sanitation infrastructure   86 
+  
+16 VENTILATED IMPROVED TOILETS  
+ 
+ 
+16.1 Introduction  
+ 
+Providing adequate sanitation facilities for residents is a major challenge in all developing 
+countries. Those who have inadequate sanitation may be usi ng a bucket system, 
+unimproved pit toilets or the veld or any toilet which is not properly operated and 
+maintained.  
+ 
+When a sanitation system fails, or is inadequate, the impact on the health of the 
+community and the negative impact on the environment can be extremely serious. 
+Outbreaks of diarrhoea and of cholera could occur.  
+ 
+The VIP toilet has a number of advantages over other toilet systems. The capital and 
+operation and maintenance costs of a VIP are low, standard designs are available, only 
+semi -skilled labour is required for their construction and the availability of a constant 
+supply of water is not a factor.  
+ 
+The purpose of this standard is primarily to assist authorities and funding agencies in 
+settting acceptable minimum standards for the design a nd construction of VIP toilets.  
+ 
+Individual households often copy the VIP toilets constructed by nearby formal 
+programmes. It is hoped that this standard will create an expanded sphere of influence in 
+that the VIP toilets constructed in accordance with thi s standard should stand as examples 
+for surrounding communities who wish to build their own.  
+ 
+16.2 DefinitionS  
+ 
+Ventilated Improved Pit Toilet (VIP toilet)  is a toilet which comprises:  
+ a pit into which the excreta falls and from which the liquid fraction seeps into the 
+surrounding soil;   
+ a slab which covers the pit and which has two holes, one for the excreta to fall 
+through and one for the vent pipe;  
+ a superstructure which provides privacy and which prevents light from entering 
+the pit;  
+ a vent pipe which remo ves odour from the pit;  
+ a fly screen at the top of the vent pipe which  prevents flies from entering the pit 
+and which also prevents flies that have entered the pit from leaving through the 
+vent pipe.  
+ 
+ Guidelines for the development of water and sanitation infrastructure   87 
+ The Strategic Framework provides various definitions  relating to a basic sanitation 
+facility, a basic sanitation service and the eradication of the bucket system, as follows:  
+ 
+Basic sanitation facility  is: 
+The infrastructure necessary to provide a sanitation facility which is safe, reliable, 
+private, protec ted from the weather and ventilated, keeps smells to the minimum, is easy 
+to keep clean, minimises the risk of the spread of sanitation -related diseases by 
+facilitating the appropriate control of disease carrying flies and pests, and enables safe 
+and appro priate treatment and/or removal of human waste and wastewater in an 
+environmentally sound manner.  
+ 
+Basic sanitation service  is: 
+The provision of a basic sanitation facility which is easily accessible to a household, the 
+sustainable operation of the facilit y, including the safe removal of human waste and 
+wastewater from the premises where this is appropriate and necessary, and the 
+communication of good sanitation, hygiene and related practices.  
+ 
+[A Ventilated Improved Pit toilet (VIP) complies with both the old and revised 
+definitions of a basic sanitation facility.]  
+ 
+Eradication of bucket toilets:  
+The bucket system is an unsuitable and inappropriate level of service. All water services 
+authorities must identify and implement programmes for the eradication of  all bucket 
+systems by 2006.  
+ 
+The social, economic and cultural circumstances in the community,the geographical 
+location and the technical characteristices of the different sanitation facilities all play 
+major roles  in the choice of the most appropriate s anitation system. In most situations, 
+however, the ventilated improved pit (VIP) toilet together with good domestic health and 
+hygiene practices will meet the requirements of a basic minimum level of service.  
+ 
+16.3 Operating principles  
+ 
+No water is needed to op erate a VIP toilet (i.e. there is no flushing).  
+ 
+The pit should retain sufficient moisture for biological decomposition to occur, as the 
+faecal matter will not break down if the pit is too dry and as a result the pit will fill up 
+rapidly.  
+ 
+The egress of wa ter from the pit should be adequate to prevent the pit being filled up 
+rapidly with faeces and urine.  
+ 
+Provision should be made to access the pit of a VIP toilet through the slab in order to 
+empty it manually or per vacuum action when required. Alternative ly it should be 
+possible for the VIP toilet to be moved when the pit is full.  Guidelines for the development of water and sanitation infrastructure   88 
+  
+Odour is removed from the pit through the action of wind blowing across the vent pipe 
+and to a lesser extent by the air heating up on the inside of the vent pipe.  
+ 
+Flies, which are attracted into the pit by the smell, are trapped by the fly screen at the top 
+of the vent pipe as they try to escape to the light.  
+ 
+16.4 Material  
+ 
+16.4.1  Concrete  
+ 
+The concrete should be capable of coping with the exposure conditions expected. Where 
+necessary this  will dictate cement and aggregate selection.  
+ 
+Recommended volumetric mix proportions are given in table  1. 
+ 
+Table 1 — Volumetric mix proportions for concrete and mortar  
+ 
+1 2 3 4 
+Purpose for use  Cement 
+Wheelbarrowa) Sand  
+Wheelbarrowb) Stone  
+ Wheelbarrow  
+Mortar for plastering  1 6 - 
+Mortar for bricklaying  1 6 - 
+Concrete for foundations 
+and floors  1 3 4 
+Cover slab  1 2 2 
+a) The volume of 2 packets of cement is equal to the volume of 1 
+wheelbarrow of cement  
+b)    The type of sand should comply with the pu rpose, i.e. plaster sand for 
+plastering, building sand for bricklaying and river or crusher sand for concrete  
+ 
+ 
+16.4.2  Cover slab  
+The cover slab should generally be made of concrete or cement -mortar  
+ 
+16.4.3  Pedestal  
+ 
+The pedestal can be commercially fabricated with cer amic, polyethylene, glass reinforced 
+plastic (GRP) and PVC or can be fabricated on site with wood, concrete, mortar or bricks.  
+ Guidelines for the development of water and sanitation infrastructure   89 
+ 16.4.4  Superstructure  
+ 
+The walls and roof can be constructed from a variety of local or prefabricated materials 
+that are durable and we atherproof.  
+ 
+All hinges. Locks and handles should be of robust construction and resistant to corrosion.  
+ 
+16.4.5  Vent pipe  
+ 
+The vent pipe should be manufactured from uPVC pipe, brick, fibre cement pipe or cast 
+iron. 
+ 
+16.4.6  Fly screen  
+ 
+The flyscreen should be resistant t o damage from UV light, rain water and the gases 
+emanating from the pit.  
+ 
+16.5 Design and construction of a VIP toilet  
+ 
+16.5.1  Pit 
+ 
+The recommended pit storage volume for a typical household (excluding the freeboard) is 
+as given in Table 2.  
+ 
+NOTE   A method for determ ining the pit storage volume as a function of the number of 
+people using the pit, the solid accumulation rate and the desired life span of the pit is 
+described in the publication Building VIPs: Guidelines for the design and construction of 
+domestic ventila ted improved pit toilets . 
+ 
+Freeboard height above the storage volume should be as given in Table 2 and Figure 1.  
+ 
+A pit can be round or rectangular. A round pit is more stable and is recommended in less 
+cohesive soils.  
+ 
+For maximum efficiency, a pit should  be large and deep. Round pits with diameter 1  m to 
+1,5 m and square pits with a width of 1  m to 1,5  m are the norm. Longer and shallower 
+pits are acceptable in the case of rocky areas or areas with a high water table.  
+ 
+If the pit depth cannot be achieved due to rock or groundwater, an alternative such as a 
+urine diversion toilet should be considered.  
+ Guidelines for the development of water and sanitation infrastructure   90 
+ The size of the pit and the porosity of the soil surrounding it should be such that water  
+will percolate faster out of the pit than liquids entering the pit . 
+ 
+A pit should not penetrate the water table  
+ 
+Only faecal matter, urine and cleansing water should  be allowed to enter the pit.  
+ 
+Separate provision should be made for the disposal of grey -water and other household 
+waste.  
+ 
+A drawing of a typical VIP toil et is shown in figure  1. 
+ 
+ 
+ 
+ 
+Figure 1 — Drawing of a typical VIP toilet  Guidelines for the development of water and sanitation infrastructure   91 
+  
+16.5.2  Location  
+ 
+The toilet should be situated downhill and at least 30 m from a borehole or a well (see 
+SANS  10252 -2). 
+ 
+The toilet should be near the house but so sited as not to endanger the structure of any 
+building or any services on the site or on the border of the site.  
+ 
+The toilet should afford privacy of use by facing towards the house  
+ 
+If practical, more than one potential suitable location should be identified per stand where 
+there  is no pit emptying service.  
+ 
+Where the pit will be emptied by a vacuum tanker the toilet should be situated such that a 
+vacuum tanker can approach to within 30  m of the toilet   and not more than 2  m above 
+the pit.  
+ 
+The toilet should not be built under or  near trees.  
+ 
+16.5.3  Lining  
+ 
+Pits in stable soil which will be emptied by hand or pits moved when full need not be 
+lined.  
+ 
+Pits in unstable soils and those that will be emptied by vacuum tanker should be lined.  
+ 
+The lining and soil should be sufficiently porous  to allow water to seep out.  
+ 
+The lining can be constructed from concrete blocks, bricks, cement -stabilised soil blocks, 
+stones or mesh -reinforced soil -cement.  
+ 
+16.5.4  Collar  
+ 
+A collar should be installed in all pits to:  
+ 
+a) prevent surface water or soil fines running into the pit;  
+b) support the cover slab and the mass of the users; and  
+c) support the mass of the superstructure if it rests on the slab.  
+ 
+A collar should be impervious and extend to at least 500 mm below the top of the pit and 
+at least 75  mm abov e ground level.  
+ Guidelines for the development of water and sanitation infrastructure   92 
+ A collar should be surrounded by a cement -stabilised earth bank or a shaped earth drain.  
+ 
+The same material that would be used for a lining is suitable for a collar.  
+ 
+16.5.5  Cover slab  
+ 
+The cover slab should generally be made of concrete.  
+ 
+The mi nimum thickness of the slab panel should be as given in Table 2. The mass of the 
+slab should not exceed 150kg  (to allow it to be moved by hand).  
+ 
+The reinforcing should be as given in Table 2.  
+ 
+Reinforcing have to be designed for a flat slab exceeding 1,5  m in span.  
+ 
+A cover slab should have two holes to accommodate the pedestal and the vent pipe. The 
+shapes and sizes of the holes should correspond with the shapes and sizes of the pedestal 
+and the vent pipe.  
+ 
+It can be circular or rectangular.  
+ 
+A cover sla b should be properly supported by the pit lining or pit collar by allowing an 
+overlap of at least 75 mm on each side.  
+ 
+Separate panels should be sealed against each other with a weak mortar mixture or 
+window putty to obtain a fly -proof joint.  
+ 
+16.5.6  Pedestal and  toilet seat  
+ 
+Some groups may require a squatting plate and not a pedestal.  
+ 
+The pedestal should have a smooth inside surface and be impervious to the penetration of 
+water.  
+ 
+Pedestals can be commercially fabricated with ceramic, polyethylene, glass reinfor ced 
+plastics (GRP) and uPVC or can be fabricated on site withconcrete, mortar or bricks.  
+ 
+Concrete or mortar pedestals should be painted with a waterproof paint.  
+ 
+The inside walls should be vertical or splayed slightly outwards from top to bottom (to 
+minim ize fouling).  
+ 
+The inside walls should be located directly over the pit. A side chute is not recommended.  
+ Guidelines for the development of water and sanitation infrastructure   93 
+ The pedestal height should be between 350  mm and 450  mm. 
+ 
+A toilet seat should be installed. The minimum internal dimensions of an oval seat are 
+310 mm and 250  mm and for a round seat the diameter is 250  mm. 
+ 
+The opening in the seat should be smaller than the opening in the pedestal with an 
+overlap of at least 10  mm at the front end side and at least 70 mm at the back.  
+ 
+The surfaces of the toilet seat and lid should be smooth and free of obstructions.  
+ 
+The hinges of the seat and lid should be corrosion -resistant.  
+ 
+A gap should be provided between the seat and lid for ventilation purposes.  
+ 
+16.5.7  Superstructure  
+ 
+The superstructure can be rectangular shaped, ci rcular or spiral with or without a privacy 
+wall (a screen wall makes a door unnecessary).  
+ 
+The design of the superstructure should ensure privacy, comfort and protection against 
+the weather.  
+ 
+The design of the superstructure should allow for emptying the pit, if required. (manually 
+or by vacuum).  
+ 
+To reduce load on the cover slab, pit collar or lining, the superstructure can be offset. Any 
+part of a wall that extends beyond the edge of the cover slab should be supported by a 
+foundation.  
+ 
+The vent pipe may be situated inside or outside of the superstructure.  
+ 
+While the superstructure should allow indirect light to enter, the pit should be kept dark.  
+ 
+The superstructure should be adequately fastened to the cover slab or the foundation.  
+ 
+The roof should be wat erproof and adequately fastened to the walls.  
+ 
+The vent pipe should be adequately fastened to the superstructure.  
+ 
+If the door opens outwards it is more prone to wind damage but the interior floor area can 
+be decreased, thus reducing building costs.  
+ 
+The m inimum dimensions of a superstructure should be as given in table  2. 
+ Guidelines for the development of water and sanitation infrastructure   94 
+ The walls and roof can be constructed from a variety of local or prefabricated materials 
+that are durable and weatherproof.  
+ 
+16.6 Ventilation  
+ 
+16.6.1  General  
+ 
+Moving air should be allowed to enter t he superstructure through the vent holes through 
+the walls and above the door, through the gap between the lid and seat, through the 
+pedestal into the pit and out through the vent pipe.  
+ 
+Ventilation openings should be provided and positioned high up in the  walls or above the 
+door (see Figure 2).  
+ 
+The total ventilation opening areas for incoming air should be at least three times the 
+cross -sectional area of the vent pipe.  
+ 
+16.6.2  Vent pipe  
+ 
+Wind shear across the vent pipe is the main cause of ventilation in the sys tem. 
+ 
+The vent pipe should have a diameter of at least 110  mm. 
+ 
+The vent pipe should extend at least 500  mm above the highest point of the roof.  
+ 
+16.6.3  Fly screen  
+ 
+The vent pipe should be covered with a mesh to prevent flies entering or leaving the pit.  
+ 
+The me sh should be secured horizontally over the top of the vent pipe.  
+ 
+The openings in the mesh should have a maximum size of 1  mm x 1 mm. Smaller 
+openings will cause resistance to free air flow and larger openings allow insects to pass 
+through to the pit.  
+ 
+The mesh should be located in such a position that leaves will not accumulate on it.  
+ 
+The mesh should be made of aluminium, stainless steel, glass fibre or other material 
+resistant to corrosion from uv light, rust and the gases emanating from the pit.  
+ 
+Cowls should not be used over the vent pipe as they obstruct the light and induce 
+turbulence, thereby reducing wind shear at the top of the vent pipe.  Guidelines for the development of water and sanitation infrastructure   95 
+  
+ 
+ 
+               a) Fly control                                                   b) Ventilation  
+The ventilat ion systems  
+ 
+16.6.4  Hand -wash facility  
+ 
+Where a water stand pipe is not available nearby a small water tank should be provided.  
+ 
+ 
+16.7 Ground water contamination risk associated with a VIP toilet  
+ 
+Unless lined with an impervious lining, on -site sanitation systems, suc h as the VIP Toilet, 
+dispose of human waste directly into the ground.  
+ 
+In order to minimise the risk of contaminating ground water sources the guidelines 
+provided in the DWAF Ground Water Protocol must be followed.  
+ 
+The DWAF Ground Water Protocol is includ ed in the Ground Water Folder . Guidelines for the development of water and sanitation infrastructure   96 
+  
+TABLE 2: SUMMARY OF RECOMMENDED MINIMUM DIMENSIONS  
+ 
+Component  Recommended minimum dimensions  
+Pit Storage volume:   
+         Pit to be emptied  2,0 m3 
+         Toilet to be moved  3,0 m3 
+          Freeboard:  0,5 m 
+Collar  Depth:  500 mm 
+ Projection above ground level:  75 mm 
+ Slab support width:  75 mm 
+Slab Thickness:  75 mm 
+ Overlap on collar:  75 mm 
+ Reinforcement if span is <  1,5 m:  
+      In underside of slab   
+      Concrete cover over reinforcement  25 mm  
+  Type: 8  mm bars, 250  c/c each way, or   
+             Ref 193 steel mesh, or   
+             4 mm roofing wire, 150  c/c  
+Pedestal  Height from floor:  350 mm to 
+450 mm 
+Seat openingb)  Round  250 mm diameter  
+ Oval  310 mm X  250 
+mm 
+Superstructurec) Internal height:  1,9 m 
+(on site 
+constructed)  Internal width:  0,9 m 
+ Internal length, door opening outwards:  1,2 m 
+ Internal length, door opening inwards:  2,0 m 
+ Dimension between pedestal and door opening 
+outwards  0,6 m  
+Door  Height:  1,5 m 
+ Width:  0,7 m 
+Vent pipe  Diamet er: 110 mm 
+ Extending above roof:  500 mm 
+Fly screen  Openings:  1 mm x 1  mm 
+ Guidelines for the development of water and sanitation infrastructure   97 
+  
+17 STAFF, HOUSING, LABO RATORIES, AND 
+OTHER FACILITIES  
+ 
+ 
+17.1 Staff requirements for water supply schemes  
+ 
+Once a scheme has been planned and the basic designs of the various components  are 
+known, a staffing structure must be developed. This will depend on the nature of the 
+works (i.e. water or sewage) and on the components which are to be operated and 
+maintained. Staff within the operating organisation who have spare capacity must be ke pt 
+in mind so as not to burden the organisation unnecessarily.  
+ 
+The components for which staff must be considered are:  
+ 
+ The raw water source, i.e. borehole(s), dam, river pump station, and pipelines.  
+ The treatment works.  
+ The main distribution system and re servoirs.  
+ Reticulation . 
+ Laboratory.  
+ Stores.  
+ Administration.  
+ Meter reading, billing and collecting revenue.  
+ 
+Where a borehole, fitted with a hand pump or a windmill, is provided and user ownership 
+resides in the community, individual members of the communit y will have to operate the 
+pump as they require water. In the case of the windmill a few people can be responsible 
+for monitoring tank levels and releasing or applying the brake when necessary. Someone 
+within the community needs to be trained to service th e pumps/windmill at regular 
+intervals or these services should be provided from outside.  
+ 
+Where one or more boreholes equipped with an engine are involved a permanent 
+"operator" is required to monitor reservoir levels, start and stop the engine, check fuel , oil 
+and water levels, generally ensure the well -being of the engine, procure the fuel and call 
+for specialised maintenance when needed.   
+ 
+In a case similar to the above where chlorination is applied the operator should receive 
+additional training in con trolling the chlorination system.  
+ 
+Where water is abstracted from a river, chlorinated and pumped to a reservoir from where 
+it is reticulated to the community an operator will be necessary with appropriate training 
+in pumps diesel/petrol engines or electri c motors. Depending on the length of pipelines Guidelines for the development of water and sanitation infrastructure   98 
+ and extent of the reticulation, number of standpipes etc. an additional person may be 
+needed to help with maintenance.  
+ 
+Any water supply scheme/or sewage disposal system where a treatment works as defined 
+in the Water Act forms part of the system will fall under Regulation R2834 of 1985 and 
+such works will have to be registered with DWAF and will have to employ operators of 
+the requisite grading. These regulations are included in the Legislation and Policy 
+Folder. These regulations only stipulate the minimum number of operators needed to 
+meet the law. In every case this minimum must be compared with the number of 
+operators physically required to man the works at all times during its operation. Where 
+any works i s to operate continuously, for example, at least 4 operators will be required to 
+allow for days off and sick and vacational leave. Besides the operating staff for the 
+treatment process, additional operating staff for dams and pump stations etc., as well as  
+maintenance staff may be required. Depending on the overall length and diameters of the 
+pipelines involved the number and size of maintenance teams will need to be decided. It 
+is recommended that there be at least 1 team per 10 km of pipeline with the siz e of teams 
+as follows:  
+ 
+DIAMETER OF PIPE    SIZE OF TEAM  
+ 
+<75mm       2 
+75 - 100mm       3 
+100 - 300mm       4 
+300 - 800mm       5 
+>800mm       6 
+ 
+The amount and type of equipment installed will dictate whether full time mechanical and 
+electrical artisans need t o be employed or whether such services can be contracted out.  
+ 
+The extent of the buildings and structured will determine the number of civil maintenance 
+staff needed and the number of cleaners needed.  
+ 
+The size of the treatment plant and complexity of the process employed will determine 
+whether full time laboratory staff are required. Usually they would only be necessary on a 
+Class "B" or higher works.  
+ 
+As the size of a treatment plant and/or the major pipelines and reticulation increases, so 
+does the numbe r of supporting staff. Stores are of major importance and a Class "C" or 
+higher works should be provided with a storeman.  
+ 
+Where billing and tariff collection is to be the responsibility of the scheme itself, 
+provision must be made for meter readers (when meters are installed) and for clerks and a 
+cashier.  
+ 
+Financial arrangements need to be made with the WSA to facilitate payments for fuel or 
+electricity and chemicals.  Guidelines for the development of water and sanitation infrastructure   99 
+  
+17.2 Housing requirement for water supply schemes  
+ 
+The necessity of providing housing for a s cheme will depend on the following:  
+ Location of works and distance from town.  
+ Type of storage, water care and pumping facilities and whether they require 
+constant attention.  
+ Existing staff of service provider and where they are housed.  
+ 
+At the smaller wate r supply schemes, i.e. those involving boreholes, pumps and 
+chlorination only, and where the level of skill required for the operation and maintenance 
+can be found within the community, housing associated with the scheme should not be 
+necessary.  
+ 
+At larger  schemes, where skills required cannot be found within the community to be 
+served and where skills must therefore be procured from elsewhere, consideration must 
+be given to providing housing for the staff required to perform certain duties such as 
+process control, skilled electrical and mechanical maintenance and computerized billing 
+systems.  
+ 
+The houses will need to be similar in size and finish to the standards expected by persons 
+of the relevant post grading. Generally, however, it is preferable to minim ize the different 
+types of housing. This reduces housing related problems when personnel are transferred 
+or promoted.  
+ 
+Where housing is provided, problems may arise in cases where it is necessary to 
+terminate the services of employees.  
+ 
+Geographical aspect s can be a reason to provide housing for all staff members, such cases 
+arise where a scheme may be located in an isolated area in order to be near a large dam 
+and where transport infrastructure is minimal.  
+ 
+In all cases where housing is provided, the econo mies of providing the houses against 
+providing a transport allowance should be considered in conjunction with the 
+inconvenience factors which arise. While providing on site housing is convenient for 
+staff, problems arise in providing schooling for children  etc. 
+ 
+A charge is normally levied where housing is provided and should this be regarded as too 
+high it is likely that staff may choose lower standards of housing at cheaper rates, 
+privately.  
+ 
+There may be tax implications (perks tax) for employers who rec eive free housing.  
+ 
+Providing a subsidy for workers to own their own housing should be seen as preferable as 
+this builds stability in communities.  Guidelines for the development of water and sanitation infrastructure   100 
+  
+Consideration should be given to the following:  
+ The installation of security fencing around the housing.  
+ The provision of security lighting like street lighting or high -mast lighting.  
+ The provision of an electricity meter for each house.  
+ The provision of one or more communal telephones.  
+ 
+17.3 Laboratories, offices and other facilities  
+ 
+Laboratory or on -site analysis of water may be performed as a means of plant and system 
+control or adjustment and as a periodic check on water quality. Routine testing of water is 
+designed to establish that the water is aesthetically acceptable and hygienic. These tests 
+may be carried o ut with relatively simple equipment, titrations, colour comparison or 
+simple robust instrumentation such as pH measurement.  
+ 
+Any water supply scheme such as a borehole or a river pump station where chlorine is 
+added to the water should be provided with a chlorine test kit and the necessary reagents. 
+The recommended equipment is a Lovibond comparator with a chlorine disc B/40A and 
+DPD tablets.  
+ 
+On a small scheme where lime is added a test kit such as that for chlorine, but with a pH 
+disc and reagents should  be provided.  Alternatively a simple robust PH meter may be 
+used.  
+ 
+Suitable testing equipment and testing frequency for a small water treatment plant that 
+produces <1M1/d are indicated in the table below:  
+ 
+PARAMETERS  EQUIPMENT  FREQUENCY  REMARKS  
+PH PH met er Daily  If lime is added  
+Turbidity  Turbidity meter  Daily  If flocculants are 
+added  
+Colour  Colour comparator  Daily   
+Chlorine:  
+ 
+Total residual  
+ 
+Free residual   
+ 
+Chlorine comparator  
+ Once a day  
+ 
+At least twice a day  
+ When gas chlorine 
+is used.  
+When chlorine  
+tablets or solutions 
+are used.  
+Flocculation  Laboratory jar 
+stirrer  When necessary  When replacing 
+flocculant with a 
+new one or when 
+the nature of the raw 
+water changes  
+ 
+ 
+ Guidelines for the development of water and sanitation infrastructure   101 
+ Conductivity  
+TDS  
+E-coli 
+Total hardness  
+Calcium hardness  
+Magnesium 
+hardness  
+Total al kalinity  
+Sulphates  
+Chlorides  
+Fluorides  
+Nitrates  
+Iron 
+Manganese  
+  
+These tests can be 
+contracted out or 
+performed by a 
+nearby larger 
+facility.   
+In accordance with 
+the water quality 
+monitoring 
+schedule.   
+Alternatively when 
+there is pollution or 
+suspicion of 
+pollution in the area.  
+Note: Potable water should comply with SANS 241. See Chapter 9 for Water Treatment 
+plants.  
+ 
+Suitable testing equipment and testing frequency for a water treatment plant which 
+produces between 1M1/d and 5Ml/d s are listed in the table  below:  
+ 
+PARAMETER  EQUIPMENT  FREQUENCY  REMARKS  
+PH PH meter  Daily   
+Turbidity  Turbidity meter  Daily   
+Colour  Colour comparator  Daily   
+Chlorine:  
+ 
+Total residual  
+Free residual  
+  
+ 
+Chlorine comparator  Once a day  
+ 
+At least twice a day  When gas chlorine 
+is used . 
+When chlorine 
+tablets or solutions 
+are used.  
+ 
+E-coli Incubator  Weekly   
+Conductivity  Conductivity meter  Daily   
+TDS  Weighing  
+Balance/Calculations  Weekly   
+Total hardness  
+Calcium hardness  
+Magnesium 
+hardness  
+Total alkalinity   
+Titrations:Burettes   
+Daily  
+  
+Stability test  Calculations  Daily   
+Flocculation test  Laboratory jar stirrer  When necessary  When replacing 
+flocculant with a 
+new one or when 
+the nature of the raw 
+water changes.  Guidelines for the development of water and sanitation infrastructure   102 
+ Sulphate  
+Chlorides  
+Fluorides  
+Nitrates  
+Iron 
+Manganese  These tests can be 
+contracted out or 
+performed by a 
+nearby facility.  Once a month or 
+every two months.  Iron and Manganese 
+may be analysed for 
+on a frequent basis, 
+where these are 
+known to occur. 
+Other specific 
+metals may need to 
+be determined when 
+there are industrial 
+or mining  activities 
+in the vicinity.  
+ 
+A complete laboratory as per list below should be provided for a water treatment plant 
+which produces >5M1/d. Support laboratory equipment such as weighing balance, hot 
+plates, filters, vacuum pumps, stirrers and burners will  also be required.  
+ 
+PARAMETERS  METHOD/  
+EQUIPMENT  FREQUENCY  REMARKS  
+PH PH meter  Daily   
+Turbidity  Turbidity meter  Daily   
+Colour  Colour comparator  Daily   
+Chlorine  
+ 
+Total residual:  
+Free residual   
+ 
+Chlorine comparator  Once a day  
+ 
+At least twice a 
+day 
+ When gas chlorine is 
+used.  
+When chlorine tablets or 
+solutions are used.  
+E-coli Incubator  Daily   
+Conductivity  Conductivity meter  Daily   
+TDS  Weighing balance/  
+Calculations  Weekly   
+Total hardness  
+Calcium hardness  
+Magnesium 
+hardness  
+Total alkalinity   
+Titrations   
+Daily   
+Flocculation test  Laboratory jar 
+stirrer  When necessary  When replacing 
+flocculant with a new 
+one or when the nature 
+of the raw water 
+changes.  
+Stability test  Calculations  Daily   
+ 
+ 
+ 
+ 
+ Guidelines for the development of water and sanitation infrastructure   103 
+ Sulphates  
+ 
+Chlorides  
+Fluorides  
+Nitrates  
+Iron 
+Manganese  Turbidi ty/ 
+Gravimetric  
+Titration  
+Spectrometry  
+Spectrometry  
+Spectrometry  
+Spectrometry   
+ 
+ 
+Weekly  
+ Iron and Manganese 
+may be analysed for on a 
+frequent basis, where 
+these are known to 
+occur. Other specific 
+metals may need to be 
+determined when there 
+are industrial o r mining 
+activities in the vicinity..  
+ 
+Laboratories, workshops and other facilities should be available at the time of scheme 
+commissioning. Sufficient funds should be allowed in the project budget for the start up 
+costs of these facilities.  
+ 
+17.4 Non-fixed as sets 
+ 
+Non-fixed assets such as loose tools, laboratory fittings, and workshop equipment should 
+be provided as part of the implementation cost.  
+ 
+The number of vehicles needs to be determined carefully according to the requirement 
+and sharing possibilities.  
+ 
+ Guidelines for the development of water and sanitation infrastructure   104 
+  
+18 TENDER PROCEDURES  
+ 
+ 
+Each Municipality must have their own Tender Procedures. However DWAF Tender 
+Procedures are provided here as a guideline.  
+ 
+18.1 Limitations  
+ 
+This section applies mainly to Civil Contracts, and is only applicable to tenders for new 
+scheme s being controlled by the Department of Water Affairs and Forestry.  
+ 
+For Mechanical/Electrical Contracts the Mechanical/Electrical Engineering Directorate 
+must be consulted.  
+ 
+Where State Funds are involved, the Departmental Tender Procedures as prescribed in the 
+Accounting Officer’s Procurement Procedures must be used.  
+ 
+18.2 Steps in the tendering process  
+ 
+The tendering process comprise the following steps:  
+ Approval of Business Plan . 
+ Detailed survey  work starts.  
+ Detailed design  work starts.  
+ Conceptual Design Rep ort submitted to DWAF Pretoria.  
+ Design Meeting:  consultants meet with DWAF Pretoria design team.  
+ Update on Conceptual Design Report . 
+ Draft Tender documents with drawings  (3 copies prepared and forwarded to 
+DWAF Pretoria).  
+ Update Tender Documents : 13 copies  plus marked up draft sent to DWAF 
+Pretoria.  
+ Approval: Original Tender Documents sent around to relevant officials of DWAF 
+Pretoria for signature.  
+ Original copy plus 12 other copies sent to  Departmental Control Committee for 
+approval.  
+ Call for tender adver tised  in Government Tender Bulletin (Friday).  
+Advertisement period should be 28 days.  
+ Tenderers obtain Tender Documents from Tender Office situated at the entrance 
+of zwaMadaka Building.  
+ Compulsory site visit . 
+ Contractors calculate prices, fees and total cost of their bid for constructing the 
+project.  Guidelines for the development of water and sanitation infrastructure   105 
+  Sealed tenders submitted  before due date.  Tenders up to an unlimited amount 
+close at the Department.  
+ Tender box closed  at specific time (Wednesday at 11h00).  
+ Tender box opened in public and details of tender s received recorded.  
+Adjudication of tenders  by consultant.  
+Submission of Adjudication Report  to RDP coordinator.  
+Adjudication Report accepted and contractor assigned to project . 
+Contractor starts work.  
+ 
+ 
+18.3 Pre- tender stage  
+ 
+The pre -tender stage includes al l work up to the submission of the tender documents for 
+approval by the Regional Tender Committee or the Departmental Control Committee, as 
+appropriate.  
+ 
+This stage includes:  
+ Preliminary proposals (dealt with under Section C: Civil Design).  
+ Design Reports (dealt with under Section C: Civil Design).  
+ Draft Tender Documents.  
+ Final Tender Document.  
+ Drawings (dealt with under Section C: Civil Design).  
+ Tender Procedures.  
+ All reviewed and approved by Directorates: Civil Design and 
+Mechanical/Electrical Engineering  as appropriate.  
+ 
+18.4 Draft tender documents  
+ 
+18.4.1  Compilation of draft tender document  
+ 
+All tender documents must be prepared in English.  
+ 
+It is recommended that Consultants familiarize themselves with the general requirements 
+of the General Conditions of Tender, Contract and Order.  
+ 
+On completion of the designs, unless otherwise specified, two draft copies of the tender 
+document, based on the standard DWAF format for either:  
+ supply/ or installation only, or  
+ supply, installation and commissioning of mechanical/elec trical/civil plants,  
+ are to be submitted to the Director: Civil Design or M/E Engineering for his 
+comments and approval.  
+ Guidelines for the development of water and sanitation infrastructure   106 
+ The General Conditions of Contract as amended from time to time are applicable. Civil 
+Design and Mechanical/Electrical Engineering mus t be consulted to determine which 
+general conditions are applicable.  
+ 
+Various standard forms and specifications as indicated in the standard DWAF format, are 
+to be included in the tender documents, i.e.:  
+ Special conditions of contract which should not be a ltered or modified by the 
+Consulting Engineer without the approval of the Department.  
+ Preference should be given to the use of South African National Standards 
+(SANS) as drawn up by the South African Bureau of Standards.  
+ Penalties or damages must be determ ined as described in the General Conditions 
+of Contract and or Clause 32.5.2 of the General Conditions of Tender, Contract 
+and Order. For smaller contracts the formula gives and insignificant amount and 
+the penalty must be determined in collaboration with the Director: Civil Design or 
+M/E Engineering and Sub -directorate: Contract Administration. When valves for 
+example are supplied under a separate contract for a pipeline, reservoir, etc., late 
+deliveries can have a significant influence on the construction  and completion of 
+the contract. If the late completion of the contract may result in claims from other 
+Contractors against the Department, this must be taken into consideration when 
+determining the penalty.  
+ 
+18.4.2  Standard format of a DWAF tender document  
+ 
+The standard format of a Departmental tender document is provided below. The 
+consultant may rearrange the format:  
+ 
+ DWAF Tender Front page (DW 106)  
+ Invitation to Tender (C2)  
+ Tax Clearance Certificate (C3)  
+ Locality Plan  
+ Notice of Site Inspection  
+ Site Inspection Certificate  
+ Instructions to Tenderers  
+ Form of Tender  
+ Appendix  
+ Important Conditions: Miscellaneous Requirements (C 6)  
+ Tender Commitment form (C4)  
+ Form Preference Points Claim:  General Conditions and Definitions (C9)  
+Compulsory  
+ Form Preference Points Syste m:  (C9.1, C9.2)  
+ Form Preference Points System:  Equity Ownership by HDI’s (C9.6)  
+Compulsory  
+ Form Preference Points System:  Procuring Locally Manufactured Products 
+(C9.7)  Guidelines for the development of water and sanitation infrastructure   107 
+  Form Preference Points System:  The Promotion of Small Businesses (C9.8)  
+ Declaratio n of Interest (C10)  
+ Questionnaire (C8)  
+ Credit Order Instruction (C11)  
+ Agreement  
+ Deed of Suretyship  
+ Schedule of Similar Work Undertaken by Tenderer  
+ Schedule of Proposed Sub -Contractors  
+ Special Conditions of Contract  
+ Alterations by Tenderer  
+ Project Specifica tion (Including Project Manufacture and Installation Schedule)  
+ Particular Specifications  
+ Schedule of Quantities  
+ Daywork Schedule  
+ List of provisional amounts, for example allowances for escalation.  
+ The National Industrial Participation Programme (NIPP)  [wh ere appropriate for 
+large import content contracts]  
+ 
+18.4.3  Departmental tender and contract forms (C -forms)  
+ 
+The following Departmental Tender and Contract Forms should be included in the tender 
+document:  
+ Form C2:  Invitation to Tender.  
+ Form C3:  Tax Clearance C ertificate.  
+ Form C6:  Important Conditions: Miscellaneous requirements.  
+ Form C4:  Tender Commitment Form.  
+ Form C8:  Questionnaire.  
+ Form Preference Points Claim:  General Conditions and Definitions (C9)  
+Compulsory  
+ Form Preference Points System:  (C9.1, C9. 2) 
+ Form Preference Points System:  Equity Ownership by HDI’s (C9.6)  
+Compulsory  
+ Form Preference Points System:  Procuring Locally Manufactured Products 
+(C9.7)  
+ Form Preference Points System:  The Promotion of Small Businesses (C9.8)  
+ Form C10:  Declaration o f Interest.  
+Credit Order Instruction (C11)  
+ 
+Original copies of the C forms can be obtained from the Tender Office situated at the 
+entrance of zwaMadaka Building and may not be retyped.  Guidelines for the development of water and sanitation infrastructure   108 
+  
+18.4.4  Departmental formats  
+ 
+The following Departmental Formats are availabl e and should be included in the Tender 
+Document:  
+ Instructions to Tenderers (The Consultant may add additional instructions).  
+ Special Conditions of Contract and its Appendix.  
+ 
+18.4.5  Standard proformas  
+ 
+The following proformas should be the standard pro forma form s of the “General 
+Conditions of Contract 1990”.  
+ Alterations by tenderer.  
+ Tender.  
+ Agreement.  
+ Deed of Suretyship.  
+ 
+18.4.6  Other proformas  
+ 
+The following should be included in the contract document:  
+ Preamble to the Schedule of Quantities.  
+ Daywork Schedule.  
+ Schedule of Proposed Sub -Contractors.  
+ Schedule of Similar Work.  
+ 
+The Consultant may use his own forms or the Standard forms of the Department.  
+ 
+No allowance for price variation or contingencies may be included in the tender.  
+ 
+Amount of Suretyship (Civil Contracts)  
+ 
+The following is recommended:  
+For contracts with a value in excess of R5 million the amount of suretyship shall be 10%.  
+For contracts with a value equal to R3 million, but less than R5 million the amount of 
+suretyship shall be as follows:  
+The greater valu e of: 
+Value of fixed charge and value related items in Schedule of Quantities  
+Or 
+If value of contract is R150 000 or less: 0%  
+If value of contract is more than R150 000 but less than R1 million: 2,5%  
+If value of contract is more than R1 million but less or  equal to R3 million: 5%  
+If the value of the contract is more than R3 million but less than R5 million: 6% - 10% 
+ Guidelines for the development of water and sanitation infrastructure   109 
+ 18.4.7  Final tender document  
+ 
+After incorporation of the comments of the Department into the final document, thirteen 
+copies shall be forwarded to th e Tender Office, under cover of a letter which must also 
+give the total estimated cost of the contract, together with expected expenditures for each 
+financial year.  
+ 
+An advertisement, completed on the standard Departmental form, giving the date of 
+advertis ement, details of the site inspection, deposit to be paid by the Tenderers for a set 
+of documents, closing date of the tender, etc. must also accompany this letter.  
+ 
+The following deposit structure is recommended:  
+ 
+the invitation of tenders above R150 000,  00 and up to R500 000, 00 a non -refundable 
+deposit will be R50, 00;  
+between R500 000, 00 and up to R1 million a non -refundable deposit of R100, 00;  and  
+for the invitation of tenders in excess of R1 million a R200, 00 non -refundable deposit.  
+ 
+Please note that no tender deposits are allowed on the invitation of price quotations up to 
+R150 000, 00 per case as well as on the invitation of proposals for professional services.  
+ 
+The date of the site meeting for major civil and building contracts shall be arrange d in 
+consultation with the office of the South African Federation of Civil Engineering 
+Contractors or the Master Builders Association in the case of building contracts.  
+ 
+18.5 Tender procedure  
+ 
+Approximately two weeks after the tender document has been approved for publication 
+by the Departmental Control Committee, the tender will be advertised in the Government 
+Tender Bulletin.  If required, advertisements can also be placed in the press. Tenders 
+must close at the appropriate DWAF office.  
+ 
+Tender documents will only be issued by the tender section of the Department on 
+payment of the prescribed non -refundable deposit.  Guidelines for the development of water and sanitation infrastructure   110 
+  
+18.6 Tender stage  
+ 
+The tender stage includes all work from the advertisement of the tender until the issue of 
+the order.  
+ 
+18.6.1  Site inspection  
+ 
+All informat ion, clarification of clauses in the documents given by the Consultant and 
+questions lodged by any tenderer at the site inspection, together with the answers, shall be 
+recorded and sent to all tenderers as an addendum. It is to be stated clearly that the a bove 
+will form an integral part of the tender documentation and tenderers must sign acceptance 
+thereof and submit the said addendum together with their tenders. The addendum must be 
+approved and counter signed by the Regional Director before it is distribu ted to the 
+tenderers.  Any other addendums shall be distributed in the same manner and must also 
+be included in the tender. All addendums will be regarded as an integral part of the tender 
+document.  
+ 
+18.6.2  Extension of tender period  
+ 
+Before granting and extensio n to the tender period it shall be discussed with and 
+approved by the Tender Section, who will then inform the Government Tender Bulletin 
+in writing of the new closing date of the tender. Consulting Engineers shall then advise 
+the tenderers in writing by m eans of a telex or fax of the new closing date.  Clause 12.4 of 
+the General Conditions of Tender, Contract and Order must be adhered to.  
+ 
+18.6.3  Adjudication of tenders  
+ 
+After the closing of the tenders, the Tender Office will forward the tenders to the 
+Regional Director.  A duplicate copy of the tenders plus all correspondence shall be 
+collected by hand from the Regional Director by the Consulting Engineer.  
+ 
+Consulting Engineers may not obtain any additional prices or rates from any tenderer 
+during the adjudicati on period. Communication, except for technical clarification, with 
+the tenderers should be avoided, and then only with the approval of the Regional 
+Director.  
+ 
+The Consulting Engineer must submit a detailed report recommending, with full 
+motivation, the acc eptance of a tender as soon as possible, but not later than three weeks 
+after receipt of the tenders from the Department. This recommendation plus all copies of 
+the tenders including the correspondence shall be returned to the Regional Director, by 
+hand.  Guidelines for the development of water and sanitation infrastructure   111 
+  
+The report shall include a Schedule of Tenders with comparative prices and a technical 
+summary of the offers received.  
+ 
+18.6.4  Acceptance of a tender  
+ 
+Based on the Consultant’s report the Department will check for any discrepancies 
+between the “ORIGINAL” and “DUP LICATE COPY” of the tenders and draw up and 
+submit a recommendation to the appropriate committee for approval. The Departmental 
+Control Committee meets once per week, on a Monday at 12h00.  Recommendations 
+and/or specifications which must serve before the DCC must reach the Tender Office not 
+later than a Wednesday at 12h00.  When the tender recommendation has been approved, 
+the Tender Office will send a Letter of Acceptance (C17) to the successful Tenderer.  The 
+Consulting Engineer will be advised and the o fficial tender order will subsequently be 
+issued by the Regional Director.  
+ 
+The “Tender” becomes a “Contract” with the letter of acceptance.  
+ 
+Rejection of all tenders or cancellation, but before approval by the DCC/RTC  
+ 
+A recommendation to reject all tende rs or to cancel the tender must be referred to the 
+relevant Director for approval of the cancellation.  
+ 
+18.6.5  Sureties and insurances  
+ 
+The sureties or guarantees and insurance policies that must be provided by the Contractor 
+in accordance with the General Condit ions of Contract and Clause 45 of the General 
+Conditions of Tender, Contract and Order shall on receipt thereof from the Contractor, 
+firstly be checked for correctness, and then sent to the Regional Director.  
+ 
+18.6.6  Signing of the contract  
+ 
+For all major contrac ts the “Form of Agreement” must be signed in duplicate by the 
+Contractor and relevant Managing Engineer of the Department on behalf of the 
+Employer.  
+ 
+Two documents must be book bound for signature. Only the agreement must be signed. It 
+is not necessary to initial each page.  Guidelines for the development of water and sanitation infrastructure   112 
+  
+18.6.7  Award meeting  
+ 
+Immediately after the award of a contract the Consulting Engineer must arrange a 
+meeting between responsible representatives of the Employer, the Consulting Engineer 
+and the Contractor to clarify the scope of the contrac t and matters of procedure and to 
+hand over the site to the Contractor.  
+ 
+18.7 Mechanical tender preparation guidelines  
+ 
+18.7.1  Document preparation - broad outline  
+ 
+Mechanical tender documents shall comprise the following in broad outline:  
+ 
+General specification relat ing to components, items and services which generally occur in 
+pump stations, including the crane or hoist.  
+ 
+Project specification describing the specific project first in general terms and then in 
+specific detail.  
+ 
+Technical schedule similar to the Bill o f Quantities, but limited to specifying and/or 
+inquiring of the tenderer only the technicalities of the equipment offered.  
+ 
+Form of Guarantee relating to pump, motor and pumpset performance.  
+ 
+Price schedule comprising tender price broken down into just a f ew major groupings and 
+detailed items as deemed necessary for financial control of the contract.  
+ 
+Note:  
+ 
+The Mechanical engineering component of a pump station contract, unlike its Electrical 
+and Civil engineering counterparts, does not employ a Bill of Qu antities because very 
+little of the equipment offered is of a repetitive or "measured" nature.  It is not necessary 
+to cost out each little pipe piece or nut, bolt and gasket.  
+ 
+Furthermore, a "payment by progressive measurement" of works completed by month  
+end is not a meaningful control device. A method of payment against measurable goals 
+achieved and relating to specific items of equipment as highlighted in the original 
+document price schedule is employed.  Progress payments per item are limited to up to 
+80% of tender value when delivered to site, with a further 10% making up 90% of both 
+item cost and installation when equipment is ready for commissioning. Successful 
+commissioning initiates the Guarantee Period (either 12 or 24 months). The final 10% of Guidelines for the development of water and sanitation infrastructure   113 
+ Contract Value is withheld as retention money and may be released only after the 
+satisfactory completion of the Guarantee Period, signaled by the Final Certificate.  
+ 
+A "Performance Bond" for 10% of the order value, is held until the Final Certificate is 
+issued. 
+ 
+18.7.2  Specific points to be noted  
+ 
+The pump and motor (the pumpset mounted on a single baseplate) are costed in the same 
+schedule and are considered to be a single entity.  
+The pump duty and station duty are specified as a primary factor in the compilation o f the 
+Project Specification - not hidden somewhere in a bill of quantities.  
+No specific pump manufacturer, pump size or model may be assumed. The specification 
+must therefore clearly define how the motor is to be sized with at least 15% over -capacity 
+safet y margin. Pump and motor performance efficiency and power demand shall be 
+guaranteed by the contractor.  
+Brand names may not be referred to under any circumstances when describing items in 
+the specification.  Performance requirements shall be fully specifie d. 
+Pump motor, flow meters and any other sensing instrumentation shall be part of the 
+Mechanical Specification.  
+ 
+18.8 Electrical tender  
+ 
+The following must be included in all electrical tender documents issued for CWSS 
+projects.  
+ No brand names and/or type numbe rs are allowed.  
+ The electrical scope and limits of contract must be clearly defined.  
+ The tenderers must be informed as to how and where the electricity is supplied 
+and metered.  
+ An electrical and control function analysis must be provided.  
+ A line diagram of  the system must be provided. This must indicate the existing 
+layout as well as that required by the contract.  
+ One drawing showing the overall electrical earthing system is required.  
+ The Department’s Mechanical and Electrical Engineering Directorate’s Gene ral 
+Technical Specifications (Electrical) (GTSE) must form part of the document. 
+These are available in printed form as well as on electronic media.  
+ Transformer and cable sizes must be clearly indicated.  
+ There must be an electrical project specification th at describes the requirements of 
+the tender. This must cover the MV (if any) and LT panels, the motor control 
+center, an earthing system, lighting protection and building power and lights etc. 
+These must be clearly set out to enable the tenderer to select the relevant parts of 
+the GTSE that apply to the contract.  
+ Only include those sections of the GTSE that applies to the specific project.  Guidelines for the development of water and sanitation infrastructure   114 
+  
+18.9 Procurement of a professional team  
+ 
+The latest version of DWAF’s Policy for the appointment of Professional Service 
+Providers (PSP’s) should be followed. Special attention should be given to the respective 
+fee limitations for competitive bid and tender.  
+ Guidelines for the development of water and sanitation infrastructure   115 
+  
+19 CONTRACT ADMINISTRAT ION  
+ 
+ 
+Each Municipality must have their own contract administration systems. DWAF’s system 
+is given here as a guide.  
+ 
+19.1 Payment certificates  
+ 
+Payment certificates, certified for payment by the Consultant must be forwarded 
+timeously to the Regional Director who must be consulted beforehand on the payment 
+procedure.  
+ 
+The payment certificate must be struc tured as set out below and must contain the 
+following information for each item of the schedule of quantities:  
+ 
+ The item number with a short description.  
+ The unit of measurement.  
+ The billed quantities.  
+ The previously measured quantity.  
+ The quantity for the  month.  
+ The total quantity measured to date.  
+ The rate of payment.  
+ The total amount claimed.  
+ 
+All variation orders, day -works claims and extras must be listed and referenced at the end 
+of the certificate.  
+ 
+The certificate must also be accompanied by a summa ry sheet containing the aggregates 
+of all the individual sections, day -works and variation orders, as well as materials on site, 
+price variation and other miscellaneous items.  
+ 
+An original VAT invoice must accompany all payment certificates.  
+ 
+Actual disbur sements should be captured on the Department's Financial Management 
+System. Operating and Capital costs should be recorded separately and not confused with 
+one another.  Guidelines for the development of water and sanitation infrastructure   116 
+  
+19.2 Correspondence  
+ 
+Where Consulting Engineers are employed to supervise the construction  of works of a 
+civil engineering and building nature or a mechanical/electrical contract executed by a 
+private contractor the following shall apply:  
+ 
+Copies of all correspondence must be forwarded to the Regional Director.  
+All matters relating to design as pects of the works shall be referred to the Regional 
+Director and copies of correspondence, reports, etc. must be sent to the Regional 
+Director.  
+ 
+19.3 Estimated costs  
+ 
+The following procedure must be followed:  
+ The estimated cost of the contract together with ex pected expenditures for each 
+financial year must be submitted to the Department under covering letter with the 
+Final Tender Document.  
+ After the award of a tender, the Consulting Engineer must submit an estimate of 
+the total value of the contract including all additional costs that can be foreseen at 
+that time, subdivided into annual expenditures if the duration of the contract 
+extends over more than one financial year.  
+ On larger works where more than one contract is involved, a table setting out the 
+anticip ated expenditure for the whole project or works controlled by the 
+Consulting Engineer, must be submitted initially and updated during April of each 
+year. During January of each year an estimate must, after consultation with the 
+Contractors, be made and sub mitted to the Regional Director, giving the value of 
+the payment certificates for which payment will be required before 31 March of 
+that year.  
+ 
+19.4 Variation orders  
+ 
+For alterations, additions and omissions to the contract the Consulting Engineer shall 
+follow the procedures as set out in the General Conditions of Contract. The following 
+procedures must also be adopted:  
+ 
+The nature and up to what value a variation order may be issued by the Consulting 
+Engineer without prior reference to the Regional Director wil l be specified in the special 
+conditions of contract. All variation orders must however be referred to the Regional 
+Director for his final approval.  
+ 
+All variation orders involving substantial changes in design or specifications must be 
+referred to the Reg ional Director. In these instances the Consulting Engineer must obtain Guidelines for the development of water and sanitation infrastructure   117 
+ a written quotation from the Contractor and determine whether the price is reasonable 
+before reference to the Regional Director. The quotation and recommendation can be 
+dealt with per f acsimile if urgent, but must be followed by the Contractor’s original 
+signed quotation. The Consulting Engineer shall not instruct the Contractor to proceed 
+until he has obtained approval from the Regional Director.  
+ 
+All variation orders must be submitted on an approved standardised form and 
+consecutively numbered.  
+ 
+Variation orders must be kept up to date and submitted for approval within one month 
+after occurrence of the event.  
+ 
+19.5 Co-ordination  
+ 
+Since most Departmental projects involve more than one contrac t as well as works 
+executed Departmentally, regular co -ordinating meetings shall be held between the 
+parties involved with the Consulting Engineers responsible represented. The Consulting 
+Engineers will normally be required to minute all meetings with Cont ractors and must 
+forward copies to all parties involved including the Regional Director.  
+ 
+19.6 Construction reports  
+ 
+The Consulting Engineer will be required to submit a Monthly Construction Report or 
+Progress Report.  
+ 
+Where dams requiring dam safety regulation s are involved or for the larger schemes,  
+proposed pro -forma of the construction report is available from the Chief Engineer: 
+Contract Administration. The reports must be in such a format that at the end of the 
+contract the monthly reports must be in boun d together with the final covering report to 
+constitute the Final Construction Report. Under certain circumstances (dam safety 
+requirements) the Engineer will be required to submit a separate consolidated Final 
+Construction Report.  
+ 
+19.7 Inspections  
+ 
+19.7.1  Civil work s 
+ 
+General  
+ 
+On completion of a contract, but prior to the issuing of the Certificate of Practical 
+Completion, a joint site inspection shall be held. On completion of the list of outstanding 
+items compiled at this inspection the Consultant may issue the Cer tificate of Practical Guidelines for the development of water and sanitation infrastructure   118 
+ Completion in terms of Clause 54 of the General Conditions of Contract to the 
+Contractor.  
+ 
+At the end of the maintenance period the works shall once again be inspected to establish 
+whether any defects have to be corrected by the Contr actor.  
+ 
+These inspections shall be attended by the Contractor and the Consulting Engineer and 
+representatives of the following Directorates of this Department:  
+ Construction  
+ Civil Design  
+ Mechanical/Electrical Engineering  
+ Water Utilisation  
+ Regional Office  
+ 
+When it has been established that the Contractor has fulfilled all his obligations in terms 
+of the contract, the “FINAL APPROVAL CERTIFICATE” may be issued in terms of 
+Clause 55 of the General Conditions of Contract and the last retention monies released.  
+ 
+Dams  
+ 
+The behaviour of the dam structure and ancillary works shall be monitored during the 
+construction and during the first filling as required by the Director: Civil Design.  
+ 
+Mechanical and electrical works  
+ 
+The following procedure shall be adopted:  
+ 
+While commissioning is in progress, the Contractor in conjunction with the Consulting 
+Engineer will be expected to train the Water Services Provider’s (Water Board or Local 
+Government) staff in the normal operation of the plant installed. The training shall be 
+done with the aid of operation and maintenance manuals which shall be compiled and 
+provided by the Consulting Engineer and/or the Contractor as required by the Director: 
+M/E Engineering.  
+ 
+When commissioning has been satisfactorily achieved, acceptance t ests on site will be 
+carried out by the Contractor, in the presence of the Consulting Engineer and 
+representatives of the Water Services Provider (Water Board or Local Government), the 
+Regional Director and of the Mechanical/Electrical Engineering, Civil D esign and Water 
+Utilisation Directorates.  
+ 
+The Engineer will subsequently recommend that the plant be taken over from the 
+Contractor, by way of a commissioning certificate whereby the Water Service Provider 
+(Water Board or Local Government) also agrees to be responsible for the operation of the 
+plant. At this time the guarantee period (normally twelve months) commences during 
+which period the Contractor must meet any outstanding obligations.  
+ Guidelines for the development of water and sanitation infrastructure 119 Prior to the expiry of the guarantee period, an on-site inspection will be held where the 
+Consulting Engineer, the Contractor, the Water Services Provider (Water Board or Local 
+Government) and the Directorates: Mechanical/Electrical Engineering, Civil Design and 
+Water Utilisation and the Regional Office will be represented. When it has been shown 
+that the Contractor has fulfilled all his obligations, the Final Certificate must be issued 
+together with the release of the last retention monies. Guidelines for the development of water and sanitation infrastructure   120 
+  
+20 REPORTING ON OPERATI ONS  
+ 
+ 
+20.1 Annual scheme audit and water balance  
+ 
+The Regulati ons prepared in terms of S9 of the Water Services Act require a Water 
+Services Authority to include a water services audit in its annual report on the 
+implementation of its water services development plan. The annual report on the WSDP 
+is required in terms  of section 18(1) of the Act.  
+ 
+The Regulations also require a Water Services Authority to undertake an annual water 
+balance every month.  
+ 
+The S9 Regulations are included in the Legislation and Policy Folder.  Guidelines for the development of water and sanitation infrastructure   121 
+  
+21 CONTENTS OF FOLDERS  
+ 
+ 
+21.1 Legal and policy folder  
+ 
+ Constitution of the Republic of South Africa, 1996(Act 108 of 1996)  
+ Water Services Act, 1997(Act 108 of 1997)  
+ National Water Act, 1998(Act 36 of 1998)  
+ Municipal Systems Act, 2000(Act 32 of 2000)  
+ Municipal Structures Act, 2000(Act 33 of 2000)  
+ Public Finan ce Management Act, 1999(Act 1 of 1999)  
+ Local Government Municipal Finance Management Act, 2003 (Act 56 of 2003)  
+ Division of Revenue Act -Enacted Annually  
+ Strategic Framework for Water Services, September 2003  
+ White Paper on Sanitation, September 2001  
+ Regul ations under S9 of the Water Services Act, 1997  
+ Regulations under S10 of the Water Services Act, 1997  
+ Regulations under S 19 of the Water Services Act, 1997  
+ Model Water Services Bylaws. Section 21(1) of the Water Services Act, 1997  
+ 
+21.2 Institutional folder  
+ 
+ Terms of reference (TOR) for assessing Water Services Provider options under 
+S78 of the Municipal Systems Act  
+ Model Water Services Contract between DM and LM  
+ 
+21.3 Planning folder  
+ WSDP preparation guide  
+ 
+21.4 Design specifications folder  
+ 
+ See Design Specifications Se ction for full list  
+ 
+21.5 SANS folder  
+ 
+ SANS specification numbering list  
+ Guidelines for the development of water and sanitation infrastructure   122 
+ 21.6 Drawing folder  
+ 
+ BOT Drawings  
+ Standard Drawings  
+ 
+CAD software is required to read these drawings.  
+ 
+21.7 Procurement folder  
+ 
+ DWAF Policy for the Appointment of Professional Service Providers  
+ DWAF Accounting Officer’s procurement procedures  
+ Government Procurement: General Conditions of Tender, Contract and Order  
+ 
+21.8 Sanitation folder  
+ 
+ Farm Dweller Sanitation: Guidelines for implementation  
+ 
+ 
+21.9 Ground water folder  
+ 
+ 
+ Ground water protocol  
+ 
