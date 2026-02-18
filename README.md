@@ -12,6 +12,7 @@ This repo contains initial codes and supporting files
 - Quality assessment carried out as a collective rather than individual CQs
 - CQ fitness scale used in combine-score metric to determine suitability of CQs for ontology or would be ontology
 - process allows for flexibility to incerase domain data for improved CQs fitness
+- Result of template study can be found in the folder: template_flies
 # Important Note: 
 - Use the instructions below to recreate the environment.
 -Installation should be carried out with the versions provided to avoid dependency issues. On your terminal window, do the following:
